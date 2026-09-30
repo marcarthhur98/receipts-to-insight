@@ -1,0 +1,6 @@
+pandas
+matplotlib
+altair
+anthropic
+python-dotenv
+streamlit

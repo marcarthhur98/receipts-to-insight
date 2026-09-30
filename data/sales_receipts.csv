@@ -1,0 +1,4890 @@
+Date,Item,Amount,Staff,Payment Method
+2024-06-01,Beard trim,18.36,Esi,Card
+2024-06-01,Color,100.59,Esi,Cash
+2024-06-01,Haircut,40.34,Aisha,Cash
+2024-06-01,Haircut,40.25,Esi,Card
+2024-06-01,Product - styling,19.04,Esi,Card
+2024-06-01,Blow dry,34.97,Bianca,Card
+2024-06-01,Blow dry,32.67,Diana,Cash
+2024-06-01,Blow dry,36.5,Esi,Cash
+2024-06-01,Haircut,41.71,Bianca,Card
+2024-06-01,Haircut,43.12,Esi,Card
+2024-06-01,Blow dry,35.84,Esi,Card
+2024-06-01,Beard trim,20.33,Diana,Card
+2024-06-01,Color,120.85,Bianca,Card
+2024-06-01,Blow dry,36.1,Carlos,Card
+2024-06-01,Haircut,45.8,Aisha,Mobile
+2024-06-01,Color,119.82,Bianca,Card
+2024-06-01,Color,125.46,Aisha,Mobile
+2024-06-01,Blow dry,39.16,Carlos,Card
+2024-06-03,Beard trim,20.97,Esi,Card
+2024-06-03,Haircut,36.94,Carlos,Card
+2024-06-03,Beard trim,18.32,Carlos,Mobile
+2024-06-03,Product - styling,19.9,Carlos,Card
+2024-06-03,Product - shampoo,21.71,Diana,Card
+2024-06-03,Haircut,37.17,Aisha,Cash
+2024-06-03,Beard trim,18.65,Bianca,Card
+2024-06-03,Color,,Aisha,Cash
+2024-06-03,Highlights,155.6,Bianca,Card
+2024-06-03,Product - shampoo,21.33,Diana,Card
+2024-06-03,Beard trim,19.9,Bianca,Cash
+2024-06-04,Beard trim,18.06,Esi,Cash
+2024-06-04,Haircut,36.04,Diana,Mobile
+2024-06-04,Color,114.57,Bianca,Mobile
+2024-06-04,Product - styling,19.15,Aisha,Card
+2024-06-04,Product - shampoo,24.09,Esi,Card
+2024-06-04,Color,109.84,Diana,Card
+2024-06-04,Haircut,36.67,Bianca,Card
+2024-06-04,Haircut,39.4,Aisha,Card
+2024-06-04,Haircut,37.51,Aisha,Card
+2024-06-04,Blow dry,32.12,Bianca,Mobile
+2024-06-04,Color,116.45,Carlos,Mobile
+2024-06-05,Color,102.38,Diana,Card
+2024-06-05,Highlights,146.69,Bianca,Card
+2024-06-05,Beard trim,21.7,Diana,Cash
+2024-06-05,Blow dry,33.3,Esi,Card
+2024-06-05,Haircut,41.43,Aisha,Mobile
+2024-06-05,Haircut,42.43,Aisha,Card
+2024-06-05,Blow dry,39.45,Carlos,Cash
+2024-06-05,Blow dry,38.32,Carlos,Cash
+2024-06-05,Blow dry,38.4,Bianca,Cash
+2024-06-05,Treatment,65.1,Bianca,Cash
+2024-06-05,Blow dry,34.61,Aisha,Card
+2024-06-05,Treatment,61.08,Bianca,Mobile
+2024-06-06,Product - styling,20.65,Carlos,Card
+2024-06-06,Haircut,38.27,Bianca,Card
+2024-06-06,Haircut,42.24,Esi,Card
+2024-06-06,Highlights,159.49,Aisha,Card
+2024-06-06,Product - shampoo,24.1,Bianca,Card
+2024-06-06,Product - shampoo,22.19,Carlos,Card
+2024-06-06,Treatment,68.57,Diana,Card
+2024-06-06,Color,125.04,Bianca,Cash
+2024-06-06,Product - styling,$16.32,Esi,Card
+2024-06-06,Treatment,56.19,Esi,Card
+2024-06-06,Beard trim,19.75,Esi,Mobile
+2024-06-06,Haircut,36.14,Aisha,Mobile
+2024-06-06,Beard trim,18.7,Bianca,Cash
+2024-06-06,Haircut,38.13,Esi,Cash
+2024-06-06,Beard trim,19.63,Esi,Card
+2024-06-06,Treatment,54.91,Carlos,Card
+2024-06-06,Beard trim,22.08,Esi,Card
+2024-06-06,Treatment,67.17,Bianca,Mobile
+2024-06-07,Haircut,41.11,Diana,Cash
+2024-06-07,Blow dry,38.29,Bianca,Cash
+2024-06-07,Haircut,42.19,Aisha,Mobile
+2024-06-07,Haircut,42.82,Esi,Mobile
+2024-06-07,Highlights,164.12,Esi,Card
+2024-06-07,Haircut,38.77,Aisha,Mobile
+2024-06-07,Highlights,136.04,Aisha,Card
+2024-06-07,Color,125.77,Esi,Mobile
+2024-06-07,Haircut,38.77,Esi,Mobile
+2024-06-07,Treatment,61.62,Bianca,Mobile
+2024-06-07,Product - shampoo,24.98,Carlos,Mobile
+2024-06-07,Product - shampoo,20.91,Diana,Cash
+2024-06-07,Color,109.79,Carlos,Card
+2024-06-07,Beard trim,20.14,Bianca,Card
+2024-06-07,Beard trim,22.49,Bianca,Card
+2024-06-07,Haircut,44.83,Diana,Cash
+2024-06-08,Product - shampoo,20.7,Bianca,Cash
+2024-06-08,Beard trim,22.97,Diana,Card
+2024-06-08,Color,108.81,Aisha,Card
+2024-06-08,Haircut,41.54,Diana,Card
+2024-06-08,Color,113.23,Carlos,Mobile
+2024-06-08,Product - styling,16.71,Bianca,Card
+2024-06-08,Haircut,38.72,Bianca,Card
+2024-06-08,Beard trim,22.1,Carlos,Card
+2024-06-08,Haircut,45.19,Esi,Card
+2024-06-08,Beard trim,18.45,Aisha,Cash
+2024-06-08,Color,100.99,Aisha,Card
+2024-06-08,Treatment,55.26,Bianca,Card
+2024-06-08,Haircut,37.22,Aisha,Card
+2024-06-08,Product - styling,18.08,Carlos,Mobile
+2024-06-08,Haircut,41.27,Bianca,Card
+2024-06-08,Product - styling,17.38,Bianca,Cash
+2024-06-08,Product - shampoo,23.26,Esi,Cash
+2024-06-08,Haircut,41.0,Bianca,Card
+2024-06-08,Color,99.5,Carlos,Card
+2024-06-10,Haircut,43.33,Esi,Cash
+2024-06-10,Highlights,144.21,Diana,Card
+2024-06-10,Beard trim,21.25,Diana,Mobile
+2024-06-10,Treatment,59.9,Esi,Card
+2024-06-10,Beard trim,22.91,Carlos,Cash
+2024-06-10,Treatment,64.6,Bianca,Card
+2024-06-10,Product - styling,20.62,Bianca,Card
+2024-06-10,Haircut,43.41,Carlos,Card
+2024-06-11,Treatment,67.06,Carlos,Mobile
+2024-06-11,Haircut,38.93,Diana,Cash
+2024-06-11,Haircut,40.46,Carlos,Card
+2024-06-11,Product - styling,20.58,Esi,Card
+2024-06-11,Haircut,45.66,Carlos,Cash
+2024-06-11,Color,99.03,Diana,Card
+2024-06-11,Highlights,153.85,Bianca,Cash
+2024-06-11,Highlights,135.19,Carlos,Card
+2024-06-11,Haircut,41.87,Diana,Card
+2024-06-11,Color,116.32,Aisha,Mobile
+2024-06-12,Product - styling,20.04,Bianca,Mobile
+2024-06-12,Color,107.97,Diana,Cash
+2024-06-12,Haircut,42.19,Bianca,Card
+2024-06-12,Treatment,64.73,Esi,Card
+2024-06-12,Beard trim,22.06,Bianca,Mobile
+2024-06-12,Beard trim,20.84,Aisha,Mobile
+2024-06-12,Treatment,64.67,Bianca,Card
+2024-06-12,Haircut,37.33,Carlos,Card
+2024-06-12,Color,111.41,Aisha,Card
+2024-06-12,Blow dry,37.46,Diana,Card
+2024-06-12,Haircut,43.98,Esi,Mobile
+2024-06-12,Haircut,41.26,Diana,Card
+2024-06-13,Haircut,43.56,Bianca,Card
+2024-06-13,Highlights,149.35,Diana,Card
+2024-06-13,Beard trim,21.08,Bianca,Card
+2024-06-13,Blow dry,34.4,Carlos,Mobile
+2024-06-13,Blow dry,31.61,Aisha,Card
+2024-06-13,Haircut,42.72,Bianca,Card
+2024-06-13,Haircut,41.17,Diana,Card
+2024-06-13,Highlights,139.44,Esi,Cash
+2024-06-13,Color,101.36,Diana,Card
+2024-06-13,Haircut,36.76,Esi,Card
+2024-06-13,Product - styling,17.94,Bianca,Card
+2024-06-13,Blow dry,32.74,Esi,Card
+2024-06-13,Product - styling,16.8,Esi,Card
+2024-06-13,Product - shampoo,23.67,Bianca,Card
+2024-06-13,Product - shampoo,22.47,Aisha,Cash
+2024-06-13,Haircut,40.92,Diana,Card
+2024-06-13,Color,102.87,Carlos,Card
+2024-06-14,Color,122.11,Aisha,Card
+2024-06-14,Beard trim,22.2,Aisha,Cash
+2024-06-14,Beard trim,22.51,Carlos,Card
+2024-06-14,Color,109.8,Esi,Card
+2024-06-14,Color,110.77,Carlos,Card
+2024-06-14,Haircut,36.52,Carlos,Cash
+2024-06-14,Haircut,38.66,Esi,Card
+2024-06-14,Haircut,39.73,Diana,Card
+2024-06-14,Treatment,63.46,Esi,Mobile
+2024-06-14,Haircut,36.81,Diana,Card
+2024-06-14,Blow dry,32.71,Carlos,Card
+2024-06-14,Haircut,45.27,Bianca,Cash
+2024-06-15,Haircut,43.39,Carlos,Card
+2024-06-15,Beard trim,19.5,Esi,Card
+2024-06-15,Haircut,42.43,Aisha,Cash
+2024-06-15,Highlights,165.44,Esi,Cash
+2024-06-15,Highlights,147.48,Diana,Card
+2024-06-15,Haircut,37.92,Aisha,Cash
+2024-06-15,Color,101.51,Bianca,Card
+2024-06-15,Haircut,41.7,Aisha,Card
+2024-06-15,Color,119.51,Bianca,Card
+2024-06-15,Haircut,43.52,Diana,Card
+2024-06-15,Blow dry,34.65,Esi,Mobile
+2024-06-15,Blow dry,39.05,Bianca,Card
+2024-06-15,Haircut,38.48,Diana,Card
+2024-06-15,Highlights,146.7,Aisha,Cash
+2024-06-15,Haircut,43.1,Diana,Mobile
+2024-06-15,Highlights,137.74,Esi,Card
+2024-06-17,Product - styling,17.32,Aisha,Cash
+2024-06-17,Haircut,41.22,Aisha,Card
+2024-06-17,Haircut,43.77,Aisha,Cash
+2024-06-17,Haircut,45.2,Carlos,Cash
+2024-06-17,Blow dry,36.12,Diana,Card
+2024-06-17,Haircut,39.0,Esi,Cash
+2024-06-17,Color,105.15,Esi,Card
+2024-06-17,Haircut,39.02,Diana,Card
+2024-06-17,Product - styling,19.1,Bianca,Card
+2024-06-17,Blow dry,36.29,Aisha,Card
+2024-06-18,Haircut,40.98,Diana,Card
+2024-06-18,Haircut,42.67,Carlos,Cash
+2024-06-18,Highlights,161.09,Diana,Card
+2024-06-18,Beard trim,18.99,Carlos,Mobile
+2024-06-18,Haircut,40.96,Bianca,Card
+2024-06-18,Beard trim,18.97,Diana,Cash
+2024-06-18,Haircut,44.89,Aisha,Mobile
+2024-06-18,Highlights,142.02,Bianca,Card
+2024-06-18,Color,117.3,Esi,Cash
+2024-06-19,Product - shampoo,20.1,Aisha,Mobile
+2024-06-19,Haircut,36.52,Aisha,Cash
+2024-06-19,Color,123.7,Carlos,Card
+2024-06-19,Product - styling,20.39,Carlos,Cash
+2024-06-19,Haircut,45.36,Diana,Card
+2024-06-19,Color,118.95,Carlos,Card
+2024-06-19,Highlights,139.09,Aisha,Card
+2024-06-19,Haircut,40.2,Aisha,Mobile
+2024-06-19,Product - styling,17.13,Carlos,Card
+2024-06-20,Haircut,40.73,Carlos,Mobile
+2024-06-20,Product - shampoo,20.86,Carlos,Card
+2024-06-20,Haircut,40.11,Diana,Card
+2024-06-20,Color,111.76,Aisha,Card
+2024-06-20,Haircut,36.63,Esi,Card
+2024-06-20,Color,108.21,Esi,Card
+2024-06-20,Haircut,43.17,Carlos,Card
+2024-06-20,Haircut,43.22,Esi,Card
+2024-06-20,Haircut,38.34,Diana,Card
+2024-06-20,Product - styling,17.94,Carlos,Card
+2024-06-20,Treatment,55.99,Diana,Cash
+2024-06-20,Haircut,45.31,Carlos,Cash
+2024-06-20,Blow dry,34.37,Carlos,Card
+2024-06-20,Color,120.51,Aisha,Mobile
+2024-06-20,Haircut,43.53,Bianca,Card
+2024-06-20,Haircut,36.34,Esi,Mobile
+2024-06-21,Color,125.96,Aisha,Card
+2024-06-21,Haircut,36.84,Aisha,Card
+2024-06-21,Highlights,161.62,Diana,Cash
+2024-06-21,Haircut,40.17,Esi,Cash
+2024-06-21,Beard trim,22.23,Aisha,Card
+2024-06-21,Haircut,41.67,Carlos,Card
+2024-06-21,Beard trim,19.0,Bianca,Cash
+2024-06-21,Haircut,37.53,Esi,Cash
+2024-06-21,Color,109.89,Bianca,Mobile
+2024-06-21,Blow dry,37.18,Aisha,Card
+2024-06-21,Product - styling,16.66,Diana,Cash
+2024-06-21,Treatment,67.72,Aisha,Card
+2024-06-21,Haircut,36.5,Esi,Mobile
+2024-06-21,Haircut,36.75,Esi,Cash
+2024-06-22,Beard trim,22.73,Aisha,Mobile
+2024-06-22,Beard trim,19.75,Aisha,Card
+2024-06-22,Color,100.21,Carlos,Card
+2024-06-22,Blow dry,37.2,Bianca,Card
+2024-06-22,Treatment,60.13,Carlos,Cash
+2024-06-22,Blow dry,32.18,Aisha,Card
+2024-06-22,Blow dry,32.05,Aisha,Card
+2024-06-22,Beard trim,18.77,Esi,Card
+2024-06-22,Beard trim,19.99,Carlos,Card
+2024-06-22,Product - styling,19.21,Diana,Card
+2024-06-22,Color,114.58,Carlos,Card
+2024-06-22,Color,122.77,Carlos,Cash
+2024-06-22,Color,110.14,Aisha,Card
+2024-06-22,Product - shampoo,22.13,Aisha,Card
+2024-06-22,Blow dry,34.69,Bianca,Cash
+2024-06-22,Haircut,41.52,Diana,Card
+2024-06-22,Blow dry,39.61,Esi,Cash
+2024-06-24,Haircut,38.83,Esi,Cash
+2024-06-24,Product - shampoo,20.4,Diana,Cash
+2024-06-24,Color,122.03,Aisha,Card
+2024-06-24,Color,115.71,Diana,Card
+2024-06-24,Product - shampoo,23.21,Bianca,Cash
+2024-06-24,Blow dry,36.88,Bianca,Card
+2024-06-24,Haircut,38.18,Diana,Mobile
+2024-06-24,Haircut,39.59,Bianca,Cash
+2024-06-24,Product - styling,19.87,Bianca,Card
+2024-06-24,Product - shampoo,24.43,Aisha,Card
+2024-06-25,Blow dry,36.99,Carlos,Card
+2024-06-25,Color,105.85,Diana,Card
+2024-06-25,Highlights,151.44,Aisha,Card
+2024-06-25,Blow dry,35.78,Bianca,Card
+2024-06-25,Beard trim,21.9,Diana,Cash
+2024-06-25,Treatment,60.01,Aisha,Cash
+2024-06-25,Color,109.05,Diana,Mobile
+2024-06-25,Highlights,136.53,Bianca,Card
+2024-06-25,Product - shampoo,21.53,Esi,Card
+2024-06-25,Haircut,41.04,Diana,Cash
+2024-06-25,Haircut,36.66,Esi,Card
+2024-06-25,Haircut,45.82,Diana,Card
+2024-06-26,Product - styling,20.32,Bianca,Cash
+2024-06-26,Haircut,39.51,Carlos,Cash
+2024-06-26,Color,115.87,Diana,Cash
+2024-06-26,Haircut,45.64,Diana,Cash
+2024-06-26,Blow dry,36.89,Bianca,Card
+2024-06-26,Color,104.47,Diana,Cash
+2024-06-26,Beard trim,19.39,Carlos,Card
+2024-06-26,Haircut,43.85,Aisha,Mobile
+2024-06-26,Haircut,44.58,Diana,Mobile
+2024-06-26,Blow dry,37.53,Aisha,Card
+2024-06-26,Product - styling,19.03,Diana,Card
+2024-06-26,Haircut,45.9,Esi,Cash
+2024-06-26,Color,120.03,Diana,Cash
+2024-06-26,Haircut,43.44,Aisha,Card
+2024-06-27,Beard trim,22.92,Esi,Card
+2024-06-27,Beard trim,21.74,Bianca,Cash
+2024-06-27,Haircut,42.26,Diana,Mobile
+2024-06-27,Color,100.31,Diana,Cash
+2024-06-27,Blow dry,31.9,Aisha,Card
+2024-06-27,Blow dry,34.16,Esi,Card
+2024-06-27,Blow dry,35.12,Carlos,Mobile
+2024-06-27,Haircut,39.66,Diana,Cash
+2024-06-27,Haircut,45.37,Bianca,Cash
+2024-06-27,Highlights,137.39,Bianca,Card
+2024-06-27,Color,106.27,Aisha,Card
+2024-06-27,Beard trim,20.81,Carlos,Mobile
+2024-06-27,Beard trim,20.22,Esi,Card
+2024-06-27,Haircut,45.04,Aisha,Card
+2024-06-27,Blow dry,35.05,Bianca,Cash
+2024-06-27,Haircut,43.79,Aisha,Mobile
+2024-06-28,Blow dry,39.73,Bianca,Card
+2024-06-28,Haircut,42.08,Esi,Card
+2024-06-28,Treatment,56.62,Carlos,Card
+2024-06-28,Color,100.33,Diana,Mobile
+2024-06-28,Haircut,44.44,Diana,Card
+2024-06-28,Beard trim,20.26,Bianca,Card
+2024-06-28,Haircut,42.44,Aisha,Card
+2024-06-28,Product - shampoo,24.89,Carlos,Card
+2024-06-28,Haircut,41.54,Diana,Mobile
+2024-06-28,Product - styling,17.53,Bianca,Card
+2024-06-28,Product - shampoo,19.88,Carlos,Cash
+2024-06-28,Treatment,57.04,Bianca,Card
+2024-06-28,Haircut,39.89,Esi,Cash
+2024-06-28,Color,122.43,Esi,Card
+2024-06-28,Highlights,154.9,Aisha,Card
+2024-06-29,Blow dry,34.19,Bianca,Card
+2024-06-29,Blow dry,32.18,Bianca,Cash
+2024-06-29,Haircut,37.12,Esi,Cash
+2024-06-29,Color,102.9,Aisha,Card
+2024-06-29,Haircut,42.93,Aisha,Card
+2024-06-29,Beard trim,18.33,Esi,Card
+2024-06-29,Haircut,45.55,Esi,Card
+2024-06-29,Product - shampoo,23.96,Diana,Card
+2024-06-29,Haircut,38.03,Aisha,Card
+2024-06-29,Product - styling,20.3,Aisha,Card
+2024-06-29,Highlights,139.97,Bianca,Card
+2024-06-29,Color,110.65,Aisha,Card
+2024-06-29,Haircut,38.83,Carlos,Card
+2024-06-29,Beard trim,21.01,Diana,Card
+2024-06-29,Blow dry,31.77,Diana,Card
+2024-07-01,Highlights,163.99,Carlos,Card
+2024-07-01,Beard trim,20.69,Bianca,Card
+2024-07-01,Blow dry,34.01,Diana,Card
+2024-07-01,Blow dry,34.02,Aisha,Card
+2024-07-01,Color,101.63,Bianca,Card
+2024-07-01,Blow dry,39.88,Esi,Card
+2024-07-01,Blow dry,32.89,Bianca,Cash
+2024-07-01,Highlights,139.12,Aisha,Card
+2024-07-01,Treatment,64.46,Aisha,Card
+2024-07-01,Color,110.03,Diana,Card
+2024-07-01,Color,116.76,Carlos,Cash
+2024-07-02,Blow dry,33.0,Bianca,Card
+2024-07-02,Haircut,41.94,Esi,Card
+2024-07-02,Color,107.98,Bianca,Card
+2024-07-02,Beard trim,21.71,Bianca,Card
+2024-07-02,Highlights,164.0,Esi,Cash
+2024-07-02,Haircut,40.62,Bianca,Mobile
+2024-07-02,Haircut,39.02,Esi,Cash
+2024-07-02,Beard trim,22.87,Carlos,Mobile
+2024-07-02,Blow dry,32.91,Carlos,Cash
+2024-07-03,Haircut,45.55,Aisha,Cash
+2024-07-03,Product - styling,16.66,Diana,Cash
+2024-07-03,Product - styling,19.78,Carlos,Card
+2024-07-03,Haircut,37.09,Aisha,Card
+2024-07-03,Haircut,39.88,Aisha,Card
+2024-07-03,Color,120.75,Bianca,Mobile
+2024-07-03,Product - styling,17.53,Aisha,Cash
+2024-07-03,Haircut,43.38,Aisha,Cash
+2024-07-03,Product - shampoo,22.17,Esi,Mobile
+2024-07-03,Beard trim,20.11,Bianca,Mobile
+2024-07-03,Treatment,64.19,Aisha,Card
+2024-07-03,Highlights,144.74,Aisha,Card
+2024-07-03,Haircut,40.0,Bianca,Card
+2024-07-03,Treatment,61.24,Aisha,Mobile
+2024-07-03,Product - shampoo,22.65,Bianca,Card
+2024-07-04,Highlights,171.55,Aisha,Card
+2024-07-04,Blow dry,32.91,Bianca,Mobile
+2024-07-04,Color,122.3,Diana,Mobile
+2024-07-04,Haircut,40.76,Aisha,Card
+2024-07-04,Blow dry,35.09,Diana,Cash
+2024-07-04,Product - styling,17.03,Esi,Card
+2024-07-04,Beard trim,21.07,Aisha,Card
+2024-07-04,Haircut,40.0,Aisha,Card
+2024-07-04,Color,110.57,Carlos,Mobile
+2024-07-04,Haircut,38.24,Diana,Mobile
+2024-07-04,Product - styling,20.67,Diana,Card
+2024-07-04,Haircut,37.29,Aisha,Cash
+2024-07-04,Highlights,156.08,Bianca,Cash
+2024-07-04,Color,116.57,Diana,Card
+2024-07-04,Product - styling,19.62,Bianca,Card
+2024-07-04,Color,122.39,Carlos,Card
+2024-07-05,Beard trim,22.91,Bianca,Card
+2024-07-05,Haircut,43.22,Carlos,Card
+2024-07-05,Haircut,39.02,Diana,Card
+2024-07-05,Color,116.53,Carlos,Cash
+2024-07-05,Product - shampoo,24.5,Aisha,Card
+2024-07-05,Treatment,67.59,Bianca,Mobile
+2024-07-05,Treatment,63.5,Aisha,Card
+2024-07-05,Haircut,36.72,Carlos,Card
+2024-07-05,Blow dry,36.56,Bianca,Cash
+2024-07-05,Beard trim,19.73,Bianca,Cash
+2024-07-05,Product - shampoo,24.15,Bianca,Mobile
+2024-07-05,Product - shampoo,23.15,Aisha,Mobile
+2024-07-05,Treatment,66.58,Bianca,Card
+2024-07-05,Beard trim,20.65,Diana,Card
+2024-07-05,Blow dry,33.81,Bianca,Cash
+2024-07-06,Highlights,168.95,Diana,Cash
+2024-07-06,Highlights,155.23,Aisha,Cash
+2024-07-06,Treatment,61.02,Esi,Card
+2024-07-06,Beard trim,22.2,Carlos,Card
+2024-07-06,Color,125.42,Aisha,Cash
+2024-07-06,Beard trim,21.18,Aisha,Card
+2024-07-06,Blow dry,37.47,Carlos,Card
+2024-07-06,Highlights,153.18,Bianca,Card
+2024-07-06,Haircut,40.16,Bianca,Card
+2024-07-06,Haircut,42.59,Carlos,Card
+2024-07-06,Beard trim,20.77,Bianca,Card
+2024-07-06,Highlights,150.84,Esi,Card
+2024-07-06,Treatment,58.39,Diana,Card
+2024-07-06,Color,126.07,Esi,Card
+2024-07-06,Product - styling,19.15,Aisha,Card
+2024-07-06,Haircut,43.13,Bianca,Mobile
+2024-07-08,Product - styling,16.59,Aisha,Card
+2024-07-08,Beard trim,22.43,Esi,Mobile
+2024-07-08,Haircut,39.0,Aisha,Card
+2024-07-08,Haircut,45.21,Esi,Card
+2024-07-08,Treatment,67.65,Esi,Card
+2024-07-08,Blow dry,36.98,Esi,Card
+2024-07-08,Haircut,42.67,Diana,Cash
+2024-07-08,Haircut,37.81,Aisha,Card
+2024-07-08,Beard trim,22.57,Aisha,Card
+2024-07-08,Product - shampoo,20.56,Carlos,Mobile
+2024-07-09,Haircut,36.34,Aisha,Card
+2024-07-09,Blow dry,36.56,Aisha,Card
+2024-07-09,Blow dry,31.84,Aisha,Card
+2024-07-09,Blow dry,39.54,Diana,Card
+2024-07-09,Haircut,39.87,Esi,Cash
+2024-07-09,Highlights,150.47,Aisha,Card
+2024-07-09,Beard trim,19.06,Bianca,Card
+2024-07-09,Color,99.26,Aisha,Card
+2024-07-10,Haircut,37.21,Diana,Card
+2024-07-10,Haircut,41.69,Diana,Cash
+2024-07-10,Product - shampoo,21.81,Bianca,Card
+2024-07-10,Haircut,41.57,Diana,Card
+2024-07-10,Beard trim,22.45,Aisha,Card
+2024-07-10,Haircut,36.15,Esi,Card
+2024-07-11,Blow dry,39.88,Diana,Mobile
+2024-07-11,Haircut,39.68,Esi,Card
+2024-07-11,Highlights,141.24,Aisha,Card
+2024-07-11,Product - styling,16.94,Diana,Card
+2024-07-11,Color,120.62,Carlos,Mobile
+2024-07-11,Color,106.7,Esi,Mobile
+2024-07-11,Color,115.66,Aisha,Cash
+2024-07-11,Blow dry,34.2,Diana,Cash
+2024-07-11,Color,117.83,Esi,Cash
+2024-07-11,Treatment,58.25,Aisha,Card
+2024-07-11,Haircut,40.23,Esi,Card
+2024-07-11,Haircut,37.41,Esi,Cash
+2024-07-11,Haircut,44.51,Esi,Card
+2024-07-12,Color,101.34,Esi,Card
+2024-07-12,Treatment,57.01,Bianca,Card
+2024-07-12,Blow dry,37.43,Diana,Cash
+2024-07-12,Product - shampoo,23.03,Aisha,Card
+2024-07-12,Highlights,138.29,Carlos,Card
+2024-07-12,Haircut,41.8,Carlos,Mobile
+2024-07-12,Color,112.92,Bianca,Cash
+2024-07-12,Haircut,36.92,Carlos,Card
+2024-07-12,Blow dry,34.64,Esi,Cash
+2024-07-12,Haircut,45.23,Diana,Card
+2024-07-12,Product - shampoo,21.84,Diana,Card
+2024-07-12,Haircut,41.97,Carlos,Card
+2024-07-12,Blow dry,31.68,Aisha,Cash
+2024-07-12,Product - styling,20.1,Diana,Mobile
+2024-07-12,Blow dry,33.79,Carlos,Card
+2024-07-12,Haircut,40.47,Esi,Mobile
+2024-07-12,Product - styling,17.34,Aisha,Card
+2024-07-12,Haircut,37.81,Aisha,Card
+2024-07-12,Haircut,41.57,Diana,Card
+2024-07-13,Haircut,41.98,Diana,Card
+2024-07-13,Beard trim,18.45,Carlos,Mobile
+2024-07-13,Haircut,36.9,Esi,Card
+2024-07-13,Haircut,44.5,Carlos,Cash
+2024-07-13,Product - styling,17.2,Aisha,Card
+2024-07-13,Product - styling,16.47,Esi,Card
+2024-07-13,Treatment,54.71,Esi,Card
+2024-07-13,Haircut,37.45,Aisha,Cash
+2024-07-13,Beard trim,19.49,Esi,Card
+2024-07-13,Beard trim,18.53,Carlos,Card
+2024-07-13,Haircut,37.24,Diana,Card
+2024-07-13,Haircut,38.38,Bianca,Card
+2024-07-13,Highlights,169.22,Aisha,Cash
+2024-07-13,Product - shampoo,21.01,Esi,Card
+2024-07-13,Product - shampoo,20.57,Diana,Card
+2024-07-13,Product - shampoo,21.92,Aisha,Card
+2024-07-13,Highlights,147.74,Bianca,Card
+2024-07-13,Haircut,39.66,Carlos,Cash
+2024-07-13,Beard trim,18.9,Diana,Mobile
+2024-07-13,Product - shampoo,22.21,Bianca,Card
+2024-07-13,Color,105.79,Aisha,Card
+2024-07-13,Blow dry,34.09,Bianca,Card
+2024-07-13,Highlights,146.93,Diana,Card
+2024-07-13,Haircut,41.13,Bianca,Mobile
+2024-07-13,Highlights,145.73,Carlos,Cash
+2024-07-13,Product - styling,18.14,Carlos,Cash
+2024-07-15,Product - shampoo,20.34,Carlos,Card
+2024-07-15,Product - shampoo,20.12,Carlos,Cash
+2024-07-15,Product - styling,16.27,Esi,Card
+2024-07-15,Highlights,151.61,Esi,Card
+2024-07-15,Haircut,40.35,Diana,Cash
+2024-07-15,Haircut,37.81,Bianca,Mobile
+2024-07-15,Beard trim,21.56,Bianca,Mobile
+2024-07-16,Blow dry,35.84,Carlos,Cash
+2024-07-16,Haircut,42.12,Bianca,Mobile
+2024-07-16,Color,99.28,Esi,Card
+2024-07-16,Treatment,67.74,Esi,Card
+2024-07-16,Color,122.15,Diana,Card
+2024-07-16,Haircut,45.1,Diana,Cash
+2024-07-16,Product - shampoo,21.26,Bianca,Mobile
+2024-07-16,Treatment,59.51,Bianca,Card
+2024-07-16,Blow dry,39.01,Carlos,Mobile
+2024-07-16,Product - shampoo,25.13,Aisha,Card
+2024-07-16,Color,105.73,Carlos,Card
+2024-07-17,Blow dry,39.36,Carlos,Card
+2024-07-17,Product - styling,18.43,Esi,Card
+2024-07-17,Blow dry,36.2,Aisha,Cash
+2024-07-17,Product - styling,17.21,Bianca,Cash
+2024-07-17,Haircut,38.5,Aisha,Card
+2024-07-17,Haircut,42.99,Bianca,Card
+2024-07-17,Haircut,41.99,Esi,Card
+2024-07-17,Blow dry,37.65,Aisha,Card
+2024-07-17,Product - shampoo,23.74,Aisha,Card
+2024-07-17,Haircut,40.94,Esi,Card
+2024-07-17,Haircut,37.22,Bianca,Mobile
+2024-07-17,Blow dry,39.03,Bianca,Mobile
+2024-07-18,Product - styling,16.28,Diana,Card
+2024-07-18,Blow dry,36.77,Aisha,Card
+2024-07-18,Product - styling,16.43,Carlos,Card
+2024-07-18,Color,122.06,Diana,Mobile
+2024-07-18,Treatment,67.69,Diana,Mobile
+2024-07-18,Haircut,41.17,Carlos,Cash
+2024-07-18,Product - shampoo,23.45,Aisha,Card
+2024-07-18,Haircut,37.87,Carlos,Card
+2024-07-18,Haircut,42.69,Bianca,Cash
+2024-07-18,Color,109.92,Diana,Card
+2024-07-18,Treatment,67.27,Aisha,Card
+2024-07-18,Product - shampoo,23.22,Esi,Card
+2024-07-19,Blow dry,38.56,Aisha,Mobile
+2024-07-19,Haircut,37.22,Aisha,Card
+2024-07-19,Haircut,36.39,Aisha,Card
+2024-07-19,Color,103.59,Aisha,Mobile
+2024-07-19,Product - styling,20.34,Carlos,Card
+2024-07-19,Highlights,155.02,Bianca,Card
+2024-07-19,Haircut,37.31,Carlos,Card
+2024-07-19,Blow dry,33.9,Aisha,Mobile
+2024-07-19,Haircut,40.54,Esi,Cash
+2024-07-19,Beard trim,19.01,Carlos,Card
+2024-07-19,Product - shampoo,21.47,Diana,Card
+2024-07-19,Treatment,54.46,Carlos,Cash
+2024-07-19,Haircut,41.46,Esi,Card
+2024-07-19,Haircut,39.53,Bianca,Card
+2024-07-19,Blow dry,35.8,Carlos,Cash
+2024-07-19,Haircut,43.72,Bianca,Mobile
+2024-07-19,Haircut,44.71,Diana,Card
+2024-07-19,Blow dry,38.8,Carlos,Card
+2024-07-20,Beard trim,22.67,Diana,Card
+2024-07-20,Beard trim,18.7,Bianca,Mobile
+2024-07-20,Blow dry,33.92,Esi,Card
+2024-07-20,Beard trim,21.72,Diana,Card
+2024-07-20,Treatment,64.63,Bianca,Card
+2024-07-20,Product - shampoo,19.82,Esi,Mobile
+2024-07-20,Haircut,39.97,Esi,Cash
+2024-07-20,Color,120.55,Esi,Mobile
+2024-07-20,Haircut,44.52,Diana,Card
+2024-07-20,Beard trim,19.46,Diana,Mobile
+2024-07-20,Blow dry,34.86,Carlos,Card
+2024-07-22,Treatment,66.74,Diana,Card
+2024-07-22,Highlights,141.91,Carlos,Cash
+2024-07-22,Highlights,149.14,Bianca,Card
+2024-07-22,Treatment,58.95,Esi,Cash
+2024-07-22,Product - styling,17.12,Diana,Card
+2024-07-22,Haircut,38.57,Diana,Card
+2024-07-22,Product - shampoo,24.05,Esi,Mobile
+2024-07-22,Product - styling,18.53,Esi,Card
+2024-07-23,Blow dry,34.57,Aisha,Card
+2024-07-23,Blow dry,32.37,Carlos,Mobile
+2024-07-23,Color,114.44,Esi,Cash
+2024-07-23,Product - shampoo,25.1,Diana,Card
+2024-07-23,Highlights,158.42,Esi,Card
+2024-07-23,Beard trim,21.73,Aisha,Cash
+2024-07-23,Color,109.08,Aisha,Card
+2024-07-24,Highlights,139.14,Carlos,Card
+2024-07-24,Treatment,68.85,Diana,Cash
+2024-07-24,Blow dry,38.64,Bianca,Mobile
+2024-07-24,Product - shampoo,22.07,Aisha,Mobile
+2024-07-24,Blow dry,34.59,Aisha,Card
+2024-07-24,Haircut,36.03,Esi,Card
+2024-07-24,Product - shampoo,21.99,Aisha,Mobile
+2024-07-24,Haircut,36.3,Bianca,Card
+2024-07-24,Beard trim,20.84,Esi,Mobile
+2024-07-24,Product - styling,18.79,Diana,Mobile
+2024-07-24,Haircut,37.57,Esi,Card
+2024-07-24,Haircut,36.76,Esi,Card
+2024-07-24,Treatment,63.2,Aisha,Card
+2024-07-24,Beard trim,20.89,Bianca,Cash
+2024-07-25,Haircut,36.99,Esi,Card
+2024-07-25,Color,111.37,Diana,Card
+2024-07-25,Haircut,44.91,Esi,Card
+2024-07-25,Highlights,158.26,Bianca,Cash
+2024-07-25,Haircut,45.31,Bianca,Card
+2024-07-25,Haircut,44.67,Diana,Card
+2024-07-25,Color,105.93,Diana,Card
+2024-07-25,Haircut,39.9,Esi,Cash
+2024-07-25,Color,109.96,Diana,Card
+2024-07-25,Treatment,57.65,Bianca,Cash
+2024-07-25,Color,104.13,Carlos,Card
+2024-07-25,Blow dry,32.51,Esi,Card
+2024-07-25,Color,116.91,Aisha,Card
+2024-07-25,Treatment,59.27,Bianca,Card
+2024-07-26,Haircut,38.84,Bianca,Card
+2024-07-26,Haircut,42.64,Carlos,Cash
+2024-07-26,Haircut,37.3,Bianca,Card
+2024-07-26,Blow dry,38.39,Esi,Card
+2024-07-26,Highlights,164.81,Bianca,Cash
+2024-07-26,Color,104.95,Diana,Card
+2024-07-26,Blow dry,36.58,Carlos,Card
+2024-07-26,Highlights,143.52,Diana,Cash
+2024-07-26,Product - styling,20.69,Esi,Card
+2024-07-26,Blow dry,34.72,Bianca,Card
+2024-07-26,Blow dry,33.36,Aisha,Mobile
+2024-07-26,Haircut,44.52,Diana,Card
+2024-07-26,Beard trim,20.84,Carlos,Card
+2024-07-26,Color,101.37,Bianca,Cash
+2024-07-26,Color,117.23,Aisha,Card
+2024-07-26,Blow dry,34.66,Esi,Card
+2024-07-26,Haircut,43.19,Aisha,Cash
+2024-07-26,Haircut,44.17,Diana,Card
+2024-07-26,Color,122.22,Diana,Cash
+2024-07-27,Color,120.98,Carlos,Card
+2024-07-27,Haircut,43.04,Diana,Cash
+2024-07-27,Product - styling,18.0,Aisha,Cash
+2024-07-27,Haircut,38.71,Esi,Cash
+2024-07-27,Beard trim,18.2,Aisha,Mobile
+2024-07-27,Haircut,37.98,Carlos,Cash
+2024-07-27,Color,100.08,Carlos,Cash
+2024-07-27,Blow dry,33.49,Diana,Mobile
+2024-07-27,Haircut,40.35,Esi,Card
+2024-07-27,Product - styling,16.7,Carlos,Card
+2024-07-27,Product - shampoo,23.02,Aisha,Cash
+2024-07-27,Beard trim,18.19,Carlos,Cash
+2024-07-27,Beard trim,19.73,Aisha,Card
+2024-07-27,Beard trim,19.97,Esi,Cash
+2024-07-27,Haircut,36.9,Diana,Card
+2024-07-27,Product - shampoo,23.6,Diana,Mobile
+2024-07-27,Haircut,42.98,Diana,Mobile
+2024-07-27,Treatment,65.67,Diana,Cash
+2024-07-27,Haircut,43.03,Esi,Card
+2024-07-27,Haircut,37.64,Bianca,Mobile
+2024-07-27,Haircut,45.64,Bianca,Card
+2024-07-29,Color,101.54,Carlos,Cash
+2024-07-29,Haircut,43.07,Diana,Cash
+2024-07-29,Beard trim,18.03,Diana,Cash
+2024-07-29,Product - styling,17.78,Carlos,Cash
+2024-07-29,Product - shampoo,20.58,Esi,Cash
+2024-07-29,Color,121.42,Esi,Card
+2024-07-29,Beard trim,18.85,Bianca,Mobile
+2024-07-29,Product - styling,19.98,Diana,Cash
+2024-07-29,Haircut,38.89,Carlos,Card
+2024-07-30,Haircut,37.97,Carlos,Card
+2024-07-30,Product - styling,16.93,Diana,Card
+2024-07-30,Blow dry,34.03,Esi,Card
+2024-07-30,Haircut,40.69,Diana,Card
+2024-07-30,Beard trim,19.66,Esi,Card
+2024-07-30,Haircut,40.89,Diana,Card
+2024-07-30,Haircut,41.43,Aisha,Card
+2024-07-30,Product - shampoo,23.34,Esi,Card
+2024-07-30,Beard trim,18.39,Aisha,Card
+2024-07-30,Beard trim,22.2,Carlos,Card
+2024-07-31,Haircut,42.38,Bianca,Card
+2024-07-31,Treatment,66.46,Esi,Card
+2024-07-31,Color,116.8,Carlos,Card
+2024-07-31,Haircut,37.36,Carlos,Card
+2024-07-31,Haircut,36.41,Esi,Card
+2024-07-31,Product - shampoo,25.0,Diana,Card
+2024-07-31,Highlights,140.91,Carlos,Mobile
+2024-07-31,Blow dry,32.2,Bianca,Cash
+2024-07-31,Haircut,42.37,Diana,Card
+2024-07-31,Product - styling,20.03,Diana,Cash
+2024-07-31,Haircut,39.72,Aisha,Mobile
+2024-07-31,Treatment,65.8,Diana,Cash
+2024-07-31,Haircut,42.62,Esi,Card
+2024-08-01,Haircut,45.56,Bianca,Cash
+2024-08-01,Color,99.12,Esi,Card
+2024-08-01,Blow dry,35.6,Esi,Card
+2024-08-01,Blow dry,35.25,Esi,Cash
+2024-08-01,Product - styling,20.53,Esi,Card
+2024-08-01,Treatment,54.9,Carlos,Mobile
+2024-08-01,Beard trim,20.83,Diana,Card
+2024-08-01,Highlights,159.28,Carlos,Card
+2024-08-01,Blow dry,37.05,Bianca,Cash
+2024-08-01,Beard trim,20.24,Aisha,Cash
+2024-08-01,Beard trim,19.86,Esi,Card
+2024-08-01,Color,105.61,Diana,Card
+2024-08-01,Haircut,38.27,Bianca,Mobile
+2024-08-01,Beard trim,19.11,Carlos,Card
+2024-08-01,Haircut,42.7,Diana,Cash
+2024-08-01,Blow dry,33.48,Esi,Card
+2024-08-01,Beard trim,22.55,Esi,Card
+2024-08-02,Treatment,64.19,Diana,Cash
+2024-08-02,Product - shampoo,22.83,Aisha,Mobile
+2024-08-02,Haircut,44.3,Diana,Mobile
+2024-08-02,Haircut,45.6,Esi,Card
+2024-08-02,Beard trim,18.68,Esi,Card
+2024-08-02,Color,100.3,Aisha,Card
+2024-08-02,Beard trim,22.78,Diana,Card
+2024-08-02,Haircut,37.36,Aisha,Mobile
+2024-08-02,Product - styling,17.11,Aisha,Card
+2024-08-02,Haircut,43.45,Carlos,Card
+2024-08-02,Treatment,55.84,Carlos,Mobile
+2024-08-02,Beard trim,22.74,Diana,Card
+2024-08-02,Treatment,59.3,Carlos,Mobile
+2024-08-02,Color,115.58,Aisha,Cash
+2024-08-02,Haircut,37.93,Diana,Card
+2024-08-02,Treatment,62.72,Aisha,Card
+2024-08-02,Highlights,137.77,Carlos,Cash
+2024-08-03,Product - shampoo,23.48,Bianca,Mobile
+2024-08-03,Product - shampoo,22.76,Carlos,Card
+2024-08-03,Haircut,39.42,Bianca,Card
+2024-08-03,Highlights,167.74,Aisha,Card
+2024-08-03,Haircut,44.18,Esi,Card
+2024-08-03,Treatment,68.51,Diana,Card
+2024-08-03,Haircut,45.58,Esi,Card
+2024-08-03,Color,113.53,Carlos,Cash
+2024-08-03,Blow dry,31.88,Bianca,Card
+2024-08-03,Beard trim,19.66,Diana,Card
+2024-08-03,Product - styling,17.61,Carlos,Mobile
+2024-08-03,Highlights,143.5,Bianca,Card
+2024-08-03,Product - shampoo,23.15,Bianca,Cash
+2024-08-03,Haircut,38.73,Esi,Card
+2024-08-03,Color,114.77,Esi,Cash
+2024-08-03,Product - styling,16.35,Esi,Card
+2024-08-03,Product - shampoo,24.06,Esi,Card
+2024-08-03,Color,106.74,Bianca,Cash
+2024-08-03,Beard trim,19.52,Carlos,Card
+2024-08-03,Highlights,158.82,Carlos,Mobile
+2024-08-03,Beard trim,19.67,Carlos,Card
+2024-08-03,Product - shampoo,24.1,Esi,Card
+2024-08-03,Product - shampoo,24.25,Carlos,Cash
+2024-08-03,Haircut,36.07,Diana,Card
+2024-08-05,Highlights,156.33,Carlos,Cash
+2024-08-05,Blow dry,32.76,Carlos,Card
+2024-08-05,Beard trim,20.76,Carlos,Card
+2024-08-05,Product - shampoo,23.01,Aisha,Mobile
+2024-08-05,Haircut,41.8,Diana,Card
+2024-08-05,Product - styling,19.31,Aisha,Card
+2024-08-05,Color,103.82,Carlos,Mobile
+2024-08-05,Haircut,37.65,Carlos,Cash
+2024-08-05,Beard trim,19.09,Diana,Card
+2024-08-05,Haircut,42.03,Esi,Card
+2024-08-05,Haircut,43.34,Bianca,Mobile
+2024-08-05,Haircut,36.73,Esi,Card
+2024-08-05,Beard trim,18.03,Carlos,Mobile
+2024-08-05,Beard trim,18.08,Carlos,Card
+2024-08-05,Haircut,39.27,Aisha,Card
+2024-08-06,Color,100.58,Diana,Card
+2024-08-06,Haircut,42.13,Diana,Mobile
+2024-08-06,Color,124.86,Aisha,Card
+2024-08-06,Product - shampoo,22.9,Carlos,Card
+2024-08-06,Color,118.53,Carlos,Cash
+2024-08-06,Haircut,37.56,Bianca,Mobile
+2024-08-07,Beard trim,18.45,Carlos,Card
+2024-08-07,Color,117.7,Esi,Cash
+2024-08-07,Beard trim,21.01,Carlos,Cash
+2024-08-07,Beard trim,19.29,Diana,Card
+2024-08-07,Beard trim,19.55,Esi,Card
+2024-08-07,Blow dry,34.66,Esi,Card
+2024-08-07,Haircut,36.09,Diana,Card
+2024-08-07,Beard trim,21.87,Carlos,Cash
+2024-08-07,Product - styling,17.23,Aisha,Card
+2024-08-07,Blow dry,32.57,Esi,Mobile
+2024-08-07,Haircut,43.77,Carlos,Mobile
+2024-08-07,Color,103.11,Bianca,Cash
+2024-08-07,Blow dry,34.57,Bianca,Card
+2024-08-07,Product - styling,18.45,Carlos,Card
+2024-08-07,Highlights,147.14,Aisha,Card
+2024-08-08,Treatment,67.7,Carlos,Card
+2024-08-08,Haircut,39.76,Diana,Cash
+2024-08-08,Haircut,36.21,Diana,Cash
+2024-08-08,Haircut,38.03,Diana,Card
+2024-08-08,Haircut,45.94,Bianca,Mobile
+2024-08-08,Treatment,61.16,Carlos,Cash
+2024-08-08,Treatment,58.24,Carlos,Card
+2024-08-08,Highlights,168.41,Bianca,Card
+2024-08-08,Beard trim,20.99,Diana,Cash
+2024-08-08,Blow dry,39.23,Bianca,Card
+2024-08-08,Haircut,43.74,Diana,Cash
+2024-08-08,Highlights,140.24,Carlos,Card
+2024-08-08,Treatment,56.28,Aisha,Cash
+2024-08-08,Product - shampoo,20.63,Carlos,Card
+2024-08-08,Beard trim,20.32,Diana,Card
+2024-08-09,Color,116.66,Diana,Card
+2024-08-09,Product - styling,16.35,Bianca,Cash
+2024-08-09,Treatment,64.34,Aisha,Cash
+2024-08-09,Highlights,143.69,Diana,Card
+2024-08-09,Beard trim,18.24,Carlos,Card
+2024-08-09,Product - shampoo,20.46,Diana,Cash
+2024-08-09,Blow dry,31.52,Bianca,Mobile
+2024-08-09,Haircut,43.38,Esi,Card
+2024-08-09,Blow dry,38.85,Aisha,Card
+2024-08-09,Product - styling,20.04,Bianca,Card
+2024-08-09,Haircut,37.77,Carlos,Card
+2024-08-09,Haircut,36.43,Esi,Card
+2024-08-09,Color,114.31,Carlos,Card
+2024-08-09,Haircut,42.88,Diana,Mobile
+2024-08-09,Haircut,39.31,Diana,Card
+2024-08-09,Color,107.75,Diana,Card
+2024-08-09,Product - styling,17.94,Diana,Card
+2024-08-10,Beard trim,19.2,Esi,Card
+2024-08-10,Beard trim,21.65,Bianca,Cash
+2024-08-10,Beard trim,18.43,Esi,Card
+2024-08-10,Product - shampoo,20.07,Esi,Card
+2024-08-10,Beard trim,20.21,Carlos,Card
+2024-08-10,Product - styling,16.2,Diana,Mobile
+2024-08-10,Color,114.02,Diana,Cash
+2024-08-10,Treatment,65.87,Diana,Card
+2024-08-10,Beard trim,19.97,Esi,Card
+2024-08-10,Blow dry,37.43,Carlos,Card
+2024-08-10,Blow dry,36.25,Bianca,Mobile
+2024-08-10,Beard trim,19.31,Diana,Card
+2024-08-10,Blow dry,35.67,Bianca,Cash
+2024-08-10,Haircut,43.57,Carlos,Mobile
+2024-08-10,Haircut,37.69,Carlos,Cash
+2024-08-10,Beard trim,18.76,Diana,Cash
+2024-08-10,Beard trim,22.14,Aisha,Card
+2024-08-10,Color,121.88,Diana,Card
+2024-08-10,Color,118.32,Diana,Card
+2024-08-10,Color,117.23,Esi,Mobile
+2024-08-10,Color,117.21,Carlos,Card
+2024-08-10,Haircut,40.46,Aisha,Card
+2024-08-12,Blow dry,37.89,Bianca,Mobile
+2024-08-12,Haircut,42.8,Carlos,Card
+2024-08-12,Blow dry,33.58,Carlos,Mobile
+2024-08-12,Color,109.48,Aisha,Mobile
+2024-08-13,Haircut,37.78,Esi,Card
+2024-08-13,Product - shampoo,21.21,Carlos,Card
+2024-08-13,Haircut,42.36,Aisha,Cash
+2024-08-13,Haircut,45.58,Carlos,Mobile
+2024-08-13,Beard trim,22.6,Diana,Card
+2024-08-13,Color,118.59,Carlos,Card
+2024-08-13,Color,115.7,Carlos,Card
+2024-08-13,Haircut,44.5,Bianca,Mobile
+2024-08-13,Haircut,45.71,Esi,Card
+2024-08-13,Haircut,38.03,Aisha,Card
+2024-08-13,Beard trim,19.9,Esi,Card
+2024-08-14,Highlights,168.8,Aisha,Card
+2024-08-14,Blow dry,35.55,Diana,Card
+2024-08-14,Color,112.02,Aisha,Card
+2024-08-14,Color,102.72,Aisha,Cash
+2024-08-14,Beard trim,20.01,Aisha,Card
+2024-08-14,Blow dry,38.23,Diana,Card
+2024-08-14,Haircut,44.48,Esi,Card
+2024-08-14,Haircut,36.88,Bianca,Mobile
+2024-08-14,Highlights,165.9,Bianca,Card
+2024-08-14,Highlights,137.05,Diana,Mobile
+2024-08-14,Haircut,40.07,Aisha,Cash
+2024-08-14,Color,104.23,Aisha,Cash
+2024-08-14,Product - styling,17.44,Carlos,Card
+2024-08-14,Color,106.01,Carlos,Mobile
+2024-08-14,Color,123.36,Aisha,Card
+2024-08-14,Color,122.84,Diana,Mobile
+2024-08-15,Haircut,41.37,Carlos,Card
+2024-08-15,Beard trim,21.55,Bianca,Card
+2024-08-15,Product - shampoo,21.68,Diana,Mobile
+2024-08-15,Beard trim,21.65,Aisha,Mobile
+2024-08-15,Haircut,45.51,Carlos,Card
+2024-08-15,Haircut,43.96,Carlos,Cash
+2024-08-15,Beard trim,22.01,Esi,Mobile
+2024-08-15,Highlights,170.06,Diana,Cash
+2024-08-15,Product - shampoo,20.12,Diana,Card
+2024-08-15,Haircut,44.63,Aisha,Mobile
+2024-08-15,Highlights,135.53,Esi,Cash
+2024-08-15,Highlights,160.27,Carlos,Cash
+2024-08-15,Blow dry,32.89,Bianca,Mobile
+2024-08-15,Haircut,36.95,Aisha,Card
+2024-08-15,Color,117.12,Carlos,Card
+2024-08-15,Beard trim,18.77,Aisha,Cash
+2024-08-16,Haircut,44.36,Carlos,Cash
+2024-08-16,Product - shampoo,24.18,Esi,Cash
+2024-08-16,Color,106.1,Esi,Cash
+2024-08-16,Haircut,43.99,Bianca,Card
+2024-08-16,Product - styling,17.67,Bianca,Card
+2024-08-16,Haircut,41.46,Aisha,Cash
+2024-08-16,Highlights,162.31,Diana,Card
+2024-08-16,Beard trim,18.57,Carlos,Card
+2024-08-16,Beard trim,19.05,Esi,Mobile
+2024-08-16,Haircut,40.9,Aisha,Card
+2024-08-16,Product - shampoo,24.82,Bianca,Card
+2024-08-16,Haircut,39.03,Esi,Mobile
+2024-08-16,Beard trim,19.01,Diana,Card
+2024-08-16,Beard trim,21.83,Bianca,Mobile
+2024-08-16,Product - shampoo,19.98,Esi,Card
+2024-08-16,Product - styling,17.75,Bianca,Card
+2024-08-16,Haircut,39.33,Diana,Card
+2024-08-16,Haircut,43.42,Bianca,Card
+2024-08-16,Treatment,58.47,Aisha,Mobile
+2024-08-16,Highlights,163.01,Aisha,Cash
+2024-08-17,Haircut,41.13,Aisha,Card
+2024-08-17,Beard trim,18.66,Esi,Card
+2024-08-17,Haircut,43.28,Bianca,Card
+2024-08-17,Haircut,45.42,Carlos,Card
+2024-08-17,Treatment,67.1,Diana,Card
+2024-08-17,Haircut,36.94,Bianca,Card
+2024-08-17,Haircut,38.7,Esi,Card
+2024-08-17,Color,105.76,Esi,Mobile
+2024-08-17,Haircut,38.56,Bianca,Card
+2024-08-17,Color,104.6,Bianca,Cash
+2024-08-17,Beard trim,20.67,Bianca,Card
+2024-08-17,Haircut,45.43,Diana,Mobile
+2024-08-17,Haircut,43.44,Aisha,Cash
+2024-08-17,Haircut,38.64,Aisha,Card
+2024-08-17,Color,113.25,Carlos,Mobile
+2024-08-17,Product - shampoo,20.26,Esi,Cash
+2024-08-17,Haircut,41.95,Esi,Card
+2024-08-19,Treatment,55.1,Carlos,Card
+2024-08-19,Haircut,42.18,Bianca,Card
+2024-08-19,Color,121.29,Diana,Mobile
+2024-08-19,Product - shampoo,19.86,Diana,Card
+2024-08-19,Haircut,43.89,Bianca,Mobile
+2024-08-19,Beard trim,18.76,Carlos,Cash
+2024-08-19,Haircut,45.25,Carlos,Card
+2024-08-19,Product - styling,19.76,Diana,Card
+2024-08-20,Product - shampoo,23.93,Aisha,Cash
+2024-08-20,Product - shampoo,20.08,Carlos,Card
+2024-08-20,Haircut,43.17,Carlos,Mobile
+2024-08-20,Haircut,45.66,Diana,Cash
+2024-08-20,Haircut,42.94,Carlos,Card
+2024-08-21,Beard trim,22.16,Esi,Cash
+2024-08-21,Highlights,165.94,Esi,Card
+2024-08-21,Beard trim,20.97,Aisha,Card
+2024-08-21,Product - styling,19.74,Carlos,Cash
+2024-08-21,Haircut,41.88,Esi,Cash
+2024-08-21,Product - shampoo,22.96,Aisha,Card
+2024-08-21,Beard trim,19.97,Carlos,Card
+2024-08-21,Color,101.4,Carlos,Mobile
+2024-08-21,Product - shampoo,22.15,Carlos,Card
+2024-08-21,Color,115.61,Aisha,Card
+2024-08-21,Color,115.63,Diana,Cash
+2024-08-21,Color,104.88,Carlos,Card
+2024-08-22,Haircut,36.88,Carlos,Cash
+2024-08-22,Beard trim,20.21,Esi,Cash
+2024-08-22,Haircut,42.83,Aisha,Card
+2024-08-22,Treatment,56.76,Carlos,Card
+2024-08-22,Product - styling,17.83,Bianca,Card
+2024-08-22,Product - shampoo,23.16,Diana,Card
+2024-08-22,Highlights,170.84,Esi,Mobile
+2024-08-22,Haircut,44.31,Bianca,Card
+2024-08-22,Blow dry,31.5,Bianca,Card
+2024-08-22,Product - styling,18.25,Carlos,Card
+2024-08-22,Beard trim,22.92,Esi,Card
+2024-08-22,Haircut,43.53,Carlos,Card
+2024-08-22,Haircut,42.24,Diana,Card
+2024-08-22,Product - styling,17.83,Diana,Mobile
+2024-08-22,Treatment,54.9,Diana,Card
+2024-08-22,Color,125.85,Aisha,Card
+2024-08-22,Blow dry,35.42,Esi,Cash
+2024-08-22,Beard trim,21.75,Aisha,Card
+2024-08-23,Highlights,135.27,Carlos,Cash
+2024-08-23,Haircut,45.18,Esi,Card
+2024-08-23,Product - styling,16.98,Esi,Card
+2024-08-23,Blow dry,33.62,Esi,Card
+2024-08-23,Color,125.9,Aisha,Card
+2024-08-23,Highlights,171.55,Carlos,Card
+2024-08-23,Color,121.92,Diana,Card
+2024-08-23,Treatment,59.21,Bianca,Cash
+2024-08-23,Blow dry,39.18,Bianca,Card
+2024-08-23,Beard trim,18.85,Carlos,Card
+2024-08-23,Blow dry,40.0,Carlos,Cash
+2024-08-23,Haircut,44.91,Diana,Cash
+2024-08-23,Blow dry,39.62,Diana,Card
+2024-08-23,Beard trim,19.81,Carlos,Card
+2024-08-24,Haircut,45.26,Esi,Card
+2024-08-24,Highlights,150.31,Bianca,Card
+2024-08-24,Haircut,38.79,Esi,Card
+2024-08-24,Beard trim,22.24,Diana,Card
+2024-08-24,Haircut,39.63,Diana,Mobile
+2024-08-24,Treatment,66.77,Aisha,Card
+2024-08-24,Highlights,135.44,Esi,Mobile
+2024-08-24,Color,115.56,Carlos,Card
+2024-08-24,Product - styling,20.19,Esi,Card
+2024-08-24,Beard trim,21.39,Diana,Card
+2024-08-24,Product - shampoo,20.71,Bianca,Card
+2024-08-24,Beard trim,19.97,Carlos,Card
+2024-08-24,Color,121.16,Carlos,Cash
+2024-08-24,Beard trim,18.72,Esi,Card
+2024-08-24,Beard trim,22.51,Bianca,Cash
+2024-08-24,Color,100.81,Diana,Card
+2024-08-24,Highlights,166.95,Bianca,Mobile
+2024-08-24,Highlights,143.02,Carlos,Cash
+2024-08-24,Haircut,42.72,Bianca,Mobile
+2024-08-24,Haircut,38.83,Aisha,Card
+2024-08-24,Product - shampoo,20.52,Diana,Mobile
+2024-08-26,Product - shampoo,23.72,Esi,Mobile
+2024-08-26,Treatment,58.1,Bianca,Cash
+2024-08-26,Color,108.89,Esi,Card
+2024-08-26,Color,118.23,Aisha,Card
+2024-08-26,Treatment,58.88,Aisha,Card
+2024-08-26,Blow dry,32.71,Carlos,Mobile
+2024-08-26,Haircut,40.46,Esi,Mobile
+2024-08-27,Treatment,55.66,Bianca,Card
+2024-08-27,Blow dry,34.48,Carlos,Mobile
+2024-08-27,Blow dry,33.41,Bianca,Card
+2024-08-27,Treatment,66.13,Esi,Card
+2024-08-27,Haircut,37.73,Esi,Card
+2024-08-27,Color,100.73,Carlos,Card
+2024-08-27,Blow dry,35.0,Esi,Mobile
+2024-08-27,Color,117.33,Aisha,Card
+2024-08-27,Product - styling,17.68,Carlos,Card
+2024-08-27,Beard trim,20.88,Diana,Card
+2024-08-28,Product - styling,20.16,Esi,Card
+2024-08-28,Haircut,42.16,Aisha,Card
+2024-08-28,Haircut,43.6,Aisha,Mobile
+2024-08-28,Haircut,43.77,Bianca,Card
+2024-08-28,Haircut,43.56,Carlos,Card
+2024-08-28,Product - shampoo,23.77,Aisha,Card
+2024-08-28,Color,110.49,Esi,Card
+2024-08-28,Blow dry,36.99,Esi,Card
+2024-08-28,Product - styling,17.58,Aisha,Cash
+2024-08-28,Beard trim,20.11,Aisha,Card
+2024-08-28,Beard trim,19.71,Bianca,Card
+2024-08-29,Product - styling,20.3,Carlos,Card
+2024-08-29,Product - shampoo,25.17,Aisha,Mobile
+2024-08-29,Blow dry,35.94,Bianca,Card
+2024-08-29,Haircut,36.21,Bianca,Card
+2024-08-29,Product - styling,20.61,Diana,Card
+2024-08-29,Haircut,44.96,Diana,Cash
+2024-08-29,Haircut,37.11,Esi,Mobile
+2024-08-29,Color,99.25,Aisha,Card
+2024-08-29,Beard trim,19.02,Esi,Mobile
+2024-08-29,Product - shampoo,24.52,Carlos,Mobile
+2024-08-29,Blow dry,35.54,Bianca,Card
+2024-08-29,Haircut,45.06,Diana,Card
+2024-08-29,Haircut,44.78,Bianca,Card
+2024-08-29,Highlights,156.96,Diana,Card
+2024-08-29,Blow dry,37.79,Diana,Cash
+2024-08-29,Color,117.5,Bianca,Card
+2024-08-30,Beard trim,20.36,Bianca,Card
+2024-08-30,Product - shampoo,23.09,Aisha,Cash
+2024-08-30,Treatment,67.34,Aisha,Card
+2024-08-30,Blow dry,38.02,Bianca,Card
+2024-08-30,Haircut,45.08,Bianca,Card
+2024-08-30,Haircut,36.49,Bianca,Cash
+2024-08-30,Beard trim,18.22,Esi,Mobile
+2024-08-30,Product - shampoo,21.25,Bianca,Card
+2024-08-30,Haircut,43.57,Aisha,Card
+2024-08-30,Haircut,44.07,Bianca,Mobile
+2024-08-30,Highlights,138.97,Diana,Card
+2024-08-30,Haircut,36.3,Aisha,Mobile
+2024-08-30,Blow dry,36.86,Esi,Card
+2024-08-30,Beard trim,21.31,Esi,Card
+2024-08-30,Highlights,160.15,Esi,Cash
+2024-08-31,Treatment,60.87,Aisha,Cash
+2024-08-31,Beard trim,22.92,Esi,Card
+2024-08-31,Blow dry,34.58,Aisha,Card
+2024-08-31,Beard trim,22.25,Aisha,Card
+2024-08-31,Color,107.32,Carlos,Cash
+2024-08-31,Highlights,156.61,Carlos,Cash
+2024-08-31,Haircut,36.75,Aisha,Mobile
+2024-08-31,Haircut,39.85,Diana,Mobile
+2024-08-31,Blow dry,33.34,Aisha,Card
+2024-08-31,Treatment,64.75,Aisha,Cash
+2024-08-31,Treatment,60.46,Aisha,Cash
+2024-08-31,Blow dry,34.07,Carlos,Cash
+2024-08-31,Haircut,39.01,Carlos,Card
+2024-08-31,Color,101.6,Diana,Cash
+2024-08-31,Product - styling,19.14,Diana,Mobile
+2024-08-31,Treatment,68.91,Carlos,Card
+2024-08-31,Treatment,54.2,Esi,Card
+2024-08-31,Color,113.96,Carlos,Card
+2024-08-31,Haircut,43.71,Bianca,Card
+2024-08-31,Treatment,61.98,Aisha,Card
+2024-08-31,Treatment,58.71,Carlos,Card
+2024-08-31,Haircut,37.22,Diana,Cash
+2024-08-31,Haircut,36.53,Esi,Cash
+2024-08-31,Product - styling,18.03,Esi,Card
+2024-08-31,Beard trim,19.09,Aisha,Card
+2024-08-31,Highlights,139.44,Bianca,Mobile
+2024-09-02,Highlights,160.76,Carlos,Card
+2024-09-02,Haircut,38.57,Aisha,Card
+2024-09-02,Beard trim,19.05,Carlos,Mobile
+2024-09-02,Product - styling,19.09,Esi,Cash
+2024-09-02,Beard trim,20.99,Diana,Card
+2024-09-02,Haircut,43.3,Esi,Card
+2024-09-02,Haircut,36.74,Esi,Card
+2024-09-02,Beard trim,21.24,Esi,Card
+2024-09-02,Product - shampoo,22.28,Aisha,Card
+2024-09-02,Color,110.25,Bianca,Card
+2024-09-02,Product - styling,20.15,Diana,Card
+2024-09-03,Color,120.57,Aisha,Cash
+2024-09-03,Treatment,64.06,Carlos,Mobile
+2024-09-03,Haircut,37.9,Aisha,Cash
+2024-09-03,Beard trim,21.31,Carlos,Card
+2024-09-03,Haircut,37.44,Aisha,Card
+2024-09-03,Color,116.94,Esi,Mobile
+2024-09-03,Haircut,36.65,Aisha,Card
+2024-09-03,Treatment,55.95,Carlos,Card
+2024-09-03,Blow dry,33.04,Carlos,Card
+2024-09-04,Color,103.57,Aisha,Cash
+2024-09-04,Product - shampoo,20.71,Diana,Card
+2024-09-04,Haircut,37.94,Bianca,Card
+2024-09-04,Treatment,57.61,Diana,Card
+2024-09-04,Product - shampoo,20.08,Diana,Card
+2024-09-04,Haircut,36.29,Diana,Card
+2024-09-04,Haircut,40.6,Diana,Card
+2024-09-04,Color,112.34,Bianca,Cash
+2024-09-04,Color,100.67,Bianca,Card
+2024-09-04,Haircut,40.44,Bianca,Card
+2024-09-04,Blow dry,32.13,Bianca,Card
+2024-09-04,Beard trim,20.81,Diana,Card
+2024-09-04,Haircut,40.32,Aisha,Cash
+2024-09-04,Blow dry,35.97,Carlos,Cash
+2024-09-05,Highlights,170.48,Bianca,Card
+2024-09-05,Treatment,63.46,Aisha,Cash
+2024-09-05,Haircut,43.89,Aisha,Card
+2024-09-05,Beard trim,20.37,Carlos,Cash
+2024-09-05,Highlights,158.53,Esi,Card
+2024-09-05,Beard trim,21.43,Aisha,Mobile
+2024-09-05,Beard trim,21.86,Esi,Cash
+2024-09-05,Beard trim,18.73,Carlos,Card
+2024-09-05,Product - shampoo,21.82,Bianca,Cash
+2024-09-05,Haircut,40.58,Aisha,Card
+2024-09-05,Haircut,36.36,Diana,Cash
+2024-09-05,Treatment,58.57,Carlos,Mobile
+2024-09-05,Haircut,36.66,Aisha,Cash
+2024-09-05,Haircut,45.48,Bianca,Card
+2024-09-05,Highlights,154.19,Diana,Cash
+2024-09-05,Blow dry,33.39,Diana,Cash
+2024-09-05,Color,120.57,Carlos,Cash
+2024-09-05,Product - styling,19.6,Aisha,Card
+2024-09-05,Haircut,40.13,Aisha,Mobile
+2024-09-06,Color,103.46,Aisha,Cash
+2024-09-06,Blow dry,33.76,Diana,Card
+2024-09-06,Blow dry,37.73,Bianca,Card
+2024-09-06,Haircut,37.21,Diana,Cash
+2024-09-06,Product - shampoo,25.29,Bianca,Mobile
+2024-09-06,Color,119.72,Bianca,Cash
+2024-09-06,Color,101.21,Diana,Card
+2024-09-06,Haircut,41.7,Bianca,Cash
+2024-09-06,Product - styling,17.41,Diana,Card
+2024-09-06,Haircut,45.15,Aisha,Card
+2024-09-06,Product - shampoo,20.19,Bianca,Cash
+2024-09-06,Color,113.56,Carlos,Mobile
+2024-09-06,Blow dry,35.4,Diana,Mobile
+2024-09-06,Blow dry,38.51,Esi,Mobile
+2024-09-06,Haircut,36.76,Carlos,Mobile
+2024-09-06,Color,122.63,Carlos,Cash
+2024-09-06,Color,125.3,Carlos,Card
+2024-09-06,Beard trim,18.29,Diana,Cash
+2024-09-06,Beard trim,22.0,Aisha,Card
+2024-09-06,Highlights,160.42,Bianca,Card
+2024-09-07,Haircut,40.31,Bianca,Mobile
+2024-09-07,Color,125.44,Bianca,Card
+2024-09-07,Beard trim,19.8,Diana,Card
+2024-09-07,Haircut,38.23,Bianca,Card
+2024-09-07,Haircut,41.1,Diana,Mobile
+2024-09-07,Color,101.14,Esi,Card
+2024-09-07,Product - styling,18.8,Carlos,Card
+2024-09-07,Beard trim,20.19,Bianca,Card
+2024-09-07,Beard trim,21.38,Bianca,Card
+2024-09-07,Color,125.47,Carlos,Mobile
+2024-09-07,Beard trim,21.17,Esi,Cash
+2024-09-07,Color,122.38,Carlos,Cash
+2024-09-07,Treatment,63.02,Esi,Card
+2024-09-07,Haircut,36.15,Esi,Card
+2024-09-07,Beard trim,19.36,Aisha,Card
+2024-09-07,Treatment,55.29,Bianca,Card
+2024-09-07,Haircut,37.75,Bianca,Card
+2024-09-07,Haircut,36.82,Aisha,Cash
+2024-09-07,Haircut,39.35,Esi,Card
+2024-09-07,Color,110.48,Diana,Card
+2024-09-07,Color,124.5,Carlos,Cash
+2024-09-07,Haircut,36.63,Aisha,Card
+2024-09-07,Haircut,44.68,Carlos,Card
+2024-09-07,Highlights,140.29,Esi,Mobile
+2024-09-07,Treatment,65.27,Diana,Card
+2024-09-07,Haircut,36.17,Carlos,Card
+2024-09-09,Treatment,55.41,Esi,Cash
+2024-09-09,Haircut,43.08,Diana,Cash
+2024-09-09,Blow dry,38.72,Diana,Mobile
+2024-09-09,Highlights,135.49,Esi,Cash
+2024-09-09,Haircut,42.34,Bianca,Card
+2024-09-09,Highlights,154.57,Carlos,Card
+2024-09-09,Haircut,43.24,Bianca,Mobile
+2024-09-09,Haircut,42.4,Diana,Mobile
+2024-09-09,Haircut,37.84,Carlos,Card
+2024-09-10,Highlights,147.71,Carlos,Card
+2024-09-10,Color,118.83,Aisha,Mobile
+2024-09-10,Color,107.07,Carlos,Mobile
+2024-09-10,Haircut,37.75,Bianca,Card
+2024-09-10,Haircut,39.21,Esi,Mobile
+2024-09-10,Product - shampoo,23.57,Diana,Mobile
+2024-09-10,Color,101.06,Aisha,Mobile
+2024-09-10,Color,112.3,Carlos,Mobile
+2024-09-10,Haircut,39.18,Diana,Card
+2024-09-10,Beard trim,19.86,Diana,Card
+2024-09-10,Blow dry,32.42,Diana,Card
+2024-09-11,Beard trim,19.39,Aisha,Mobile
+2024-09-11,Haircut,40.66,Esi,Card
+2024-09-11,Color,100.88,Carlos,Card
+2024-09-11,Blow dry,32.77,Aisha,Card
+2024-09-11,Haircut,45.1,Bianca,Mobile
+2024-09-11,Haircut,36.71,Bianca,Mobile
+2024-09-11,Blow dry,35.06,Bianca,Cash
+2024-09-11,Color,121.19,Carlos,Card
+2024-09-11,Haircut,38.43,Esi,Card
+2024-09-11,Haircut,45.43,Diana,Card
+2024-09-11,Haircut,37.85,Carlos,Card
+2024-09-11,Color,104.55,Bianca,Cash
+2024-09-11,Product - shampoo,22.5,Esi,Card
+2024-09-12,Highlights,165.53,Bianca,Mobile
+2024-09-12,Color,103.75,Carlos,Cash
+2024-09-12,Beard trim,18.28,Aisha,Cash
+2024-09-12,Blow dry,31.59,Carlos,Mobile
+2024-09-12,Haircut,36.38,Carlos,Cash
+2024-09-12,Treatment,66.28,Carlos,Card
+2024-09-12,Color,115.99,Diana,Card
+2024-09-12,Haircut,45.43,Aisha,Card
+2024-09-12,Beard trim,21.85,Esi,Cash
+2024-09-12,Treatment,63.66,Aisha,Cash
+2024-09-12,Beard trim,22.07,Carlos,Mobile
+2024-09-12,Beard trim,19.9,Carlos,Cash
+2024-09-12,Haircut,43.13,Aisha,Card
+2024-09-12,Product - shampoo,20.75,Carlos,Cash
+2024-09-12,Product - shampoo,25.05,Esi,Card
+2024-09-12,Treatment,66.64,Diana,Card
+2024-09-13,Highlights,152.32,Bianca,Card
+2024-09-13,Color,100.76,Aisha,Card
+2024-09-13,Product - shampoo,24.77,Aisha,Cash
+2024-09-13,Color,115.91,Diana,Card
+2024-09-13,Haircut,40.62,Diana,Card
+2024-09-13,Treatment,68.31,Carlos,Mobile
+2024-09-13,Highlights,168.74,Carlos,Card
+2024-09-13,Blow dry,32.43,Esi,Mobile
+2024-09-13,Haircut,40.46,Aisha,Cash
+2024-09-13,Haircut,39.62,Carlos,Card
+2024-09-13,Beard trim,20.84,Diana,Mobile
+2024-09-13,Blow dry,31.71,Bianca,Card
+2024-09-13,Product - styling,17.03,Carlos,Mobile
+2024-09-13,Treatment,59.35,Bianca,Mobile
+2024-09-13,Treatment,57.29,Diana,Cash
+2024-09-13,Color,118.52,Diana,Cash
+2024-09-13,Color,126.27,Esi,Cash
+2024-09-13,Highlights,163.21,Aisha,Cash
+2024-09-14,Treatment,67.5,Bianca,Cash
+2024-09-14,Haircut,42.49,Aisha,Mobile
+2024-09-14,Color,124.41,Bianca,Mobile
+2024-09-14,Haircut,41.02,Bianca,Mobile
+2024-09-14,Highlights,140.79,Bianca,Cash
+2024-09-14,Haircut,40.38,Aisha,Card
+2024-09-14,Haircut,42.88,Esi,Card
+2024-09-14,Haircut,38.16,Diana,Card
+2024-09-14,Haircut,36.06,Carlos,Cash
+2024-09-14,Beard trim,19.19,Carlos,Cash
+2024-09-14,Blow dry,33.04,Esi,Cash
+2024-09-14,Product - shampoo,20.91,Esi,Card
+2024-09-14,Beard trim,21.56,Bianca,Card
+2024-09-14,Treatment,60.37,Esi,Card
+2024-09-14,Highlights,135.06,Aisha,Card
+2024-09-14,Product - shampoo,22.88,Diana,Cash
+2024-09-14,Color,103.72,Bianca,Mobile
+2024-09-14,Color,120.08,Bianca,Cash
+2024-09-16,Haircut,44.69,Carlos,Mobile
+2024-09-16,Highlights,146.63,Bianca,Card
+2024-09-16,Haircut,37.93,Carlos,Card
+2024-09-16,Highlights,141.88,Diana,Card
+2024-09-16,Beard trim,20.96,Diana,Card
+2024-09-16,Highlights,142.42,Esi,Mobile
+2024-09-16,Haircut,37.69,Aisha,Card
+2024-09-16,Beard trim,22.83,Diana,Card
+2024-09-17,Color,117.99,Diana,Cash
+2024-09-17,Highlights,166.3,Esi,Card
+2024-09-17,Haircut,43.84,Diana,Card
+2024-09-17,Highlights,161.71,Diana,Card
+2024-09-17,Blow dry,32.87,Aisha,Cash
+2024-09-17,Blow dry,37.43,Diana,Card
+2024-09-17,Blow dry,37.43,Carlos,Cash
+2024-09-17,Blow dry,35.02,Bianca,Card
+2024-09-18,Haircut,44.98,Aisha,Mobile
+2024-09-18,Color,112.19,Diana,Card
+2024-09-18,Color,123.62,Carlos,Mobile
+2024-09-18,Blow dry,39.63,Diana,Card
+2024-09-18,Color,109.65,Esi,Mobile
+2024-09-18,Treatment,57.91,Carlos,Card
+2024-09-18,Haircut,44.1,Esi,Card
+2024-09-18,Haircut,39.32,Diana,Cash
+2024-09-18,Product - styling,17.9,Aisha,Cash
+2024-09-18,Haircut,43.37,Bianca,Cash
+2024-09-18,Color,105.03,Diana,Card
+2024-09-18,Haircut,45.71,Aisha,Cash
+2024-09-18,Blow dry,39.57,Aisha,Cash
+2024-09-18,Highlights,142.23,Diana,Card
+2024-09-18,Color,116.31,Bianca,Mobile
+2024-09-19,Haircut,37.6,Aisha,Card
+2024-09-19,Color,118.1,Bianca,Card
+2024-09-19,Highlights,139.02,Bianca,Mobile
+2024-09-19,Color,124.88,Bianca,Card
+2024-09-19,Haircut,44.57,Carlos,Card
+2024-09-19,Color,111.27,Diana,Card
+2024-09-19,Product - styling,19.38,Bianca,Cash
+2024-09-19,Haircut,37.52,Carlos,Card
+2024-09-19,Highlights,158.33,Aisha,Card
+2024-09-19,Blow dry,39.24,Aisha,Card
+2024-09-19,Highlights,135.86,Carlos,Card
+2024-09-19,Highlights,140.53,Aisha,Mobile
+2024-09-19,Blow dry,35.85,Diana,Cash
+2024-09-19,Beard trim,18.02,Esi,Card
+2024-09-19,Treatment,59.43,Bianca,Mobile
+2024-09-19,Color,117.22,Carlos,Card
+2024-09-19,Product - styling,20.38,Esi,Cash
+2024-09-19,Color,109.36,Carlos,Cash
+2024-09-20,Treatment,65.82,Aisha,Mobile
+2024-09-20,Beard trim,19.59,Esi,Card
+2024-09-20,Treatment,59.05,Esi,Mobile
+2024-09-20,Highlights,145.32,Aisha,Card
+2024-09-20,Product - shampoo,23.96,Bianca,Card
+2024-09-20,Beard trim,20.87,Carlos,Mobile
+2024-09-20,Highlights,161.44,Aisha,Card
+2024-09-20,Blow dry,32.67,Diana,Card
+2024-09-20,Product - shampoo,23.13,Diana,Card
+2024-09-20,Product - shampoo,24.25,Aisha,Card
+2024-09-20,Beard trim,18.49,Diana,Card
+2024-09-20,Haircut,42.54,Carlos,Card
+2024-09-20,Haircut,41.08,Esi,Mobile
+2024-09-20,Color,114.72,Carlos,Card
+2024-09-20,Beard trim,19.59,Diana,Card
+2024-09-20,Haircut,44.36,Carlos,Card
+2024-09-20,Blow dry,39.07,Bianca,Card
+2024-09-20,Beard trim,19.88,Bianca,Card
+2024-09-20,Treatment,54.5,Diana,Card
+2024-09-20,Haircut,44.51,Aisha,Cash
+2024-09-21,Beard trim,21.65,Carlos,Mobile
+2024-09-21,Haircut,37.37,Aisha,Cash
+2024-09-21,Treatment,57.9,Bianca,Cash
+2024-09-21,Product - shampoo,21.03,Bianca,Card
+2024-09-21,Haircut,36.61,Bianca,Mobile
+2024-09-21,Color,126.32,Aisha,Card
+2024-09-21,Blow dry,38.98,Diana,Cash
+2024-09-21,Haircut,45.14,Carlos,Card
+2024-09-21,Beard trim,19.16,Diana,Card
+2024-09-21,Treatment,68.43,Carlos,Cash
+2024-09-21,Blow dry,32.55,Carlos,Card
+2024-09-21,Product - shampoo,24.83,Diana,Card
+2024-09-21,Highlights,145.04,Carlos,Card
+2024-09-21,Blow dry,38.17,Esi,Card
+2024-09-21,Haircut,44.86,Carlos,Card
+2024-09-21,Product - styling,20.62,Bianca,Card
+2024-09-21,Blow dry,39.96,Diana,Mobile
+2024-09-23,Blow dry,34.25,Aisha,Card
+2024-09-23,Haircut,37.24,Carlos,Card
+2024-09-23,Blow dry,36.43,Carlos,Card
+2024-09-23,Product - styling,19.05,Esi,Cash
+2024-09-23,Color,115.63,Carlos,Card
+2024-09-23,Product - styling,17.3,Esi,Card
+2024-09-23,Color,104.76,Aisha,Cash
+2024-09-23,Highlights,159.85,Bianca,Card
+2024-09-23,Beard trim,22.63,Bianca,Mobile
+2024-09-23,Beard trim,18.01,Aisha,Card
+2024-09-23,Haircut,38.8,Esi,Card
+2024-09-24,Beard trim,20.66,Bianca,Card
+2024-09-24,Blow dry,40.15,Bianca,Card
+2024-09-24,Haircut,37.22,Esi,Mobile
+2024-09-24,Product - styling,19.24,Diana,Card
+2024-09-24,Product - styling,16.32,Esi,Card
+2024-09-24,Haircut,43.46,Carlos,Mobile
+2024-09-24,Haircut,39.64,Aisha,Card
+2024-09-25,Product - styling,20.67,Esi,Mobile
+2024-09-25,Beard trim,18.81,Carlos,Mobile
+2024-09-25,Haircut,45.19,Carlos,Card
+2024-09-25,Blow dry,32.92,Bianca,Cash
+2024-09-25,Haircut,43.97,Aisha,Cash
+2024-09-25,Color,114.6,Aisha,Mobile
+2024-09-25,Highlights,152.37,Aisha,Card
+2024-09-25,Haircut,37.4,Aisha,Cash
+2024-09-25,Product - shampoo,21.77,Aisha,Card
+2024-09-25,Blow dry,35.26,Diana,Card
+2024-09-25,Haircut,42.7,Aisha,Card
+2024-09-25,Product - styling,17.27,Aisha,Mobile
+2024-09-26,Haircut,43.74,Aisha,Card
+2024-09-26,Beard trim,20.12,Carlos,Card
+2024-09-26,Highlights,170.12,Bianca,Cash
+2024-09-26,Haircut,40.32,Aisha,Mobile
+2024-09-26,Color,103.56,Aisha,Card
+2024-09-26,Haircut,44.47,Bianca,Card
+2024-09-26,Haircut,36.4,Aisha,Card
+2024-09-26,Blow dry,38.05,Bianca,Mobile
+2024-09-26,Color,105.3,Bianca,Card
+2024-09-26,Haircut,40.54,Bianca,Card
+2024-09-26,Haircut,38.23,Diana,Card
+2024-09-26,Haircut,36.88,Carlos,Card
+2024-09-26,Color,106.32,Carlos,Cash
+2024-09-26,Haircut,40.17,Diana,Card
+2024-09-26,Haircut,36.7,Esi,Cash
+2024-09-26,Product - styling,20.34,Aisha,Card
+2024-09-26,Highlights,153.32,Bianca,Card
+2024-09-26,Beard trim,20.48,Diana,Card
+2024-09-27,Haircut,41.89,Diana,Cash
+2024-09-27,Haircut,40.84,Bianca,Card
+2024-09-27,Beard trim,20.89,Aisha,Card
+2024-09-27,Haircut,39.22,Aisha,Cash
+2024-09-27,Blow dry,37.83,Carlos,Cash
+2024-09-27,Beard trim,19.83,Carlos,Cash
+2024-09-27,Product - styling,18.17,Aisha,Cash
+2024-09-27,Haircut,43.26,Bianca,Cash
+2024-09-27,Beard trim,19.3,Aisha,Card
+2024-09-27,Treatment,55.38,Bianca,Card
+2024-09-27,Haircut,44.74,Aisha,Card
+2024-09-27,Product - styling,17.63,Esi,Mobile
+2024-09-27,Highlights,170.78,Esi,Mobile
+2024-09-27,Haircut,41.19,Diana,Card
+2024-09-27,Haircut,39.55,Esi,Mobile
+2024-09-27,Product - styling,18.99,Esi,Cash
+2024-09-27,Highlights,150.7,Esi,Cash
+2024-09-28,Haircut,42.28,Diana,Card
+2024-09-28,Blow dry,33.68,Esi,Mobile
+2024-09-28,Color,106.99,Diana,Card
+2024-09-28,Treatment,61.24,Bianca,Card
+2024-09-28,Product - shampoo,23.7,Diana,Card
+2024-09-28,Haircut,39.6,Bianca,Cash
+2024-09-28,Product - styling,18.14,Carlos,Card
+2024-09-28,Beard trim,19.36,Aisha,Card
+2024-09-28,Color,99.89,Esi,Mobile
+2024-09-28,Product - shampoo,24.58,Carlos,Cash
+2024-09-28,Color,111.99,Bianca,Card
+2024-09-28,Haircut,37.97,Diana,Card
+2024-09-28,Beard trim,22.48,Diana,Card
+2024-09-28,Haircut,37.55,Bianca,Cash
+2024-09-28,Beard trim,19.76,Aisha,Cash
+2024-09-28,Color,122.42,Aisha,Card
+2024-09-28,Color,103.19,Carlos,Mobile
+2024-09-28,Haircut,45.03,Diana,Mobile
+2024-09-28,Color,115.37,Carlos,Card
+2024-09-28,Color,104.11,Aisha,Card
+2024-09-28,Haircut,39.21,Bianca,Card
+2024-09-28,Blow dry,33.15,Aisha,Mobile
+2024-09-28,Beard trim,21.05,Carlos,Card
+2024-09-30,Haircut,44.55,Bianca,Cash
+2024-09-30,Highlights,163.96,Carlos,Card
+2024-09-30,Haircut,39.25,Esi,Card
+2024-09-30,Highlights,139.59,Bianca,Card
+2024-09-30,Color,110.45,Carlos,Card
+2024-09-30,Product - shampoo,20.44,Diana,Cash
+2024-09-30,Beard trim,20.11,Carlos,Mobile
+2024-09-30,Haircut,42.34,Esi,Mobile
+2024-09-30,Treatment,58.04,Diana,Card
+2024-09-30,Product - styling,16.44,Diana,Card
+2024-09-30,Haircut,42.25,Esi,Card
+2024-10-01,Treatment,55.57,Carlos,Card
+2024-10-01,Product - styling,20.15,Carlos,Card
+2024-10-01,Product - shampoo,23.61,Aisha,Card
+2024-10-01,Product - shampoo,20.81,Aisha,Card
+2024-10-01,Color,111.53,Carlos,Mobile
+2024-10-01,Color,118.61,Aisha,Mobile
+2024-10-01,Blow dry,32.5,Carlos,Mobile
+2024-10-02,Haircut,44.78,Carlos,Card
+2024-10-02,Blow dry,36.39,Carlos,Card
+2024-10-02,Beard trim,21.09,Carlos,Card
+2024-10-02,Color,126.07,Carlos,Cash
+2024-10-02,Color,122.24,Carlos,Cash
+2024-10-02,Color,125.31,Carlos,Cash
+2024-10-02,Color,103.45,Bianca,Mobile
+2024-10-02,Highlights,150.22,Bianca,Cash
+2024-10-02,Treatment,60.86,Carlos,Card
+2024-10-02,Haircut,38.2,Carlos,Card
+2024-10-02,Beard trim,20.49,Diana,Cash
+2024-10-02,Blow dry,32.09,Bianca,Cash
+2024-10-03,Haircut,42.13,Bianca,Mobile
+2024-10-03,Product - shampoo,21.4,Esi,Cash
+2024-10-03,Beard trim,21.66,Aisha,Cash
+2024-10-03,Haircut,39.01,Bianca,Mobile
+2024-10-03,Product - styling,19.74,Esi,Cash
+2024-10-03,Beard trim,21.71,Carlos,Mobile
+2024-10-03,Haircut,44.53,Diana,Card
+2024-10-03,Blow dry,32.94,Aisha,Card
+2024-10-03,Haircut,42.25,Esi,Mobile
+2024-10-03,Beard trim,19.34,Aisha,Cash
+2024-10-03,Product - shampoo,25.02,Aisha,Card
+2024-10-03,Blow dry,33.51,Aisha,Card
+2024-10-03,Blow dry,39.05,Bianca,Card
+2024-10-03,Product - shampoo,21.66,Aisha,Cash
+2024-10-03,Color,100.82,Aisha,Card
+2024-10-03,Blow dry,32.56,Bianca,Card
+2024-10-04,Beard trim,19.5,Aisha,Cash
+2024-10-04,Product - styling,18.18,Carlos,Mobile
+2024-10-04,Product - shampoo,24.26,Carlos,Cash
+2024-10-04,Color,125.1,Esi,Card
+2024-10-04,Blow dry,39.04,Bianca,Card
+2024-10-04,Beard trim,20.32,Diana,Cash
+2024-10-04,Product - styling,17.19,Carlos,Mobile
+2024-10-04,Haircut,42.95,Diana,Card
+2024-10-04,Haircut,38.17,Carlos,Card
+2024-10-04,Highlights,153.8,Aisha,Mobile
+2024-10-04,Beard trim,21.73,Carlos,Card
+2024-10-04,Haircut,39.47,Diana,Cash
+2024-10-04,Blow dry,32.85,Bianca,Card
+2024-10-04,Product - styling,17.14,Bianca,Cash
+2024-10-04,Color,121.34,Aisha,Card
+2024-10-04,Haircut,42.36,Diana,Card
+2024-10-04,Color,114.91,Bianca,Card
+2024-10-04,Highlights,135.07,Carlos,Card
+2024-10-04,Treatment,56.07,Esi,Mobile
+2024-10-04,Blow dry,39.35,Bianca,Card
+2024-10-04,Beard trim,18.48,Diana,Card
+2024-10-04,Highlights,160.25,Diana,Cash
+2024-10-04,Treatment,56.34,Bianca,Mobile
+2024-10-05,Beard trim,20.17,Carlos,Cash
+2024-10-05,Haircut,43.22,Bianca,Cash
+2024-10-05,Highlights,155.16,Diana,Mobile
+2024-10-05,Highlights,138.72,Bianca,Card
+2024-10-05,Haircut,43.68,Esi,Card
+2024-10-05,Blow dry,33.4,Carlos,Mobile
+2024-10-05,Haircut,41.73,Carlos,Card
+2024-10-05,Haircut,44.07,Bianca,Card
+2024-10-05,Haircut,41.51,Aisha,Card
+2024-10-05,Treatment,67.06,Aisha,Cash
+2024-10-05,Haircut,36.84,Carlos,Card
+2024-10-05,Haircut,37.82,Aisha,Card
+2024-10-05,Product - shampoo,21.03,Bianca,Card
+2024-10-05,Haircut,38.23,Aisha,Card
+2024-10-05,Color,101.97,Diana,Card
+2024-10-05,Product - styling,17.14,Aisha,Card
+2024-10-05,Beard trim,20.06,Esi,Card
+2024-10-05,Haircut,40.18,Esi,Mobile
+2024-10-05,Beard trim,21.38,Esi,Mobile
+2024-10-05,Treatment,61.14,Bianca,Card
+2024-10-05,Product - shampoo,24.31,Bianca,Card
+2024-10-05,Blow dry,35.54,Esi,Cash
+2024-10-05,Product - styling,18.49,Aisha,Card
+2024-10-07,Beard trim,22.5,Diana,Card
+2024-10-07,Haircut,42.27,Bianca,Cash
+2024-10-07,Highlights,139.91,Carlos,Card
+2024-10-07,Beard trim,21.64,Bianca,Cash
+2024-10-07,Beard trim,21.28,Carlos,Card
+2024-10-07,Color,118.8,Esi,Mobile
+2024-10-07,Haircut,36.68,Aisha,Card
+2024-10-07,Haircut,43.91,Carlos,Mobile
+2024-10-07,Beard trim,18.81,Aisha,Card
+2024-10-08,Beard trim,22.58,Bianca,Mobile
+2024-10-08,Color,112.79,Diana,Card
+2024-10-08,Haircut,40.64,Diana,Card
+2024-10-08,Color,110.97,Bianca,Card
+2024-10-08,Product - styling,17.65,Diana,Card
+2024-10-08,Blow dry,36.37,Aisha,Mobile
+2024-10-08,Haircut,40.49,Bianca,Cash
+2024-10-08,Highlights,163.61,Carlos,Card
+2024-10-08,Haircut,41.19,Diana,Cash
+2024-10-08,Product - styling,20.24,Bianca,Card
+2024-10-08,Blow dry,35.14,Aisha,Mobile
+2024-10-08,Highlights,169.34,Carlos,Mobile
+2024-10-08,Highlights,163.61,Aisha,Card
+2024-10-09,Color,112.92,Aisha,Card
+2024-10-09,Color,120.96,Aisha,Card
+2024-10-09,Haircut,41.04,Aisha,Card
+2024-10-09,Blow dry,36.79,Aisha,Cash
+2024-10-09,Haircut,45.69,Diana,Card
+2024-10-09,Blow dry,34.24,Aisha,Mobile
+2024-10-09,Beard trim,18.49,Diana,Card
+2024-10-09,Blow dry,39.05,Aisha,Card
+2024-10-09,Haircut,42.94,Esi,Card
+2024-10-09,Beard trim,19.45,Esi,Card
+2024-10-09,Haircut,40.56,Carlos,Card
+2024-10-09,Blow dry,37.09,Esi,Card
+2024-10-09,Haircut,41.16,Carlos,Cash
+2024-10-10,Treatment,58.37,Carlos,Card
+2024-10-10,Haircut,45.14,Esi,Card
+2024-10-10,Blow dry,36.74,Bianca,Card
+2024-10-10,Product - styling,17.36,Esi,Cash
+2024-10-10,Haircut,41.48,Bianca,Mobile
+2024-10-10,Haircut,38.57,Bianca,Card
+2024-10-10,Haircut,42.16,Bianca,Card
+2024-10-10,Highlights,161.76,Aisha,Card
+2024-10-10,Beard trim,18.52,Diana,Mobile
+2024-10-10,Beard trim,18.22,Bianca,Card
+2024-10-10,Color,110.68,Carlos,Mobile
+2024-10-10,Beard trim,21.25,Diana,Mobile
+2024-10-10,Color,109.88,Diana,Cash
+2024-10-10,Product - styling,19.7,Esi,Card
+2024-10-10,Haircut,36.82,Aisha,Mobile
+2024-10-11,Product - styling,19.95,Carlos,Card
+2024-10-11,Highlights,146.72,Carlos,Cash
+2024-10-11,Treatment,64.04,Bianca,Card
+2024-10-11,Haircut,41.68,Bianca,Card
+2024-10-11,Color,101.82,Bianca,Cash
+2024-10-11,Beard trim,19.12,Carlos,Card
+2024-10-11,Color,106.36,Diana,Card
+2024-10-11,Product - styling,17.19,Diana,Card
+2024-10-11,Highlights,158.67,Aisha,Card
+2024-10-11,Product - styling,17.23,Carlos,Cash
+2024-10-11,Haircut,37.0,Diana,Mobile
+2024-10-11,Beard trim,18.45,Diana,Card
+2024-10-11,Haircut,36.58,Esi,Card
+2024-10-11,Product - shampoo,20.49,Esi,Card
+2024-10-11,Blow dry,36.63,Diana,Mobile
+2024-10-11,Haircut,39.99,Esi,Card
+2024-10-11,Haircut,39.99,Bianca,Card
+2024-10-11,Beard trim,20.87,Carlos,Mobile
+2024-10-11,Highlights,142.27,Carlos,Mobile
+2024-10-11,Beard trim,18.24,Esi,Card
+2024-10-11,Highlights,136.43,Carlos,Card
+2024-10-12,Beard trim,20.23,Diana,Card
+2024-10-12,Beard trim,19.59,Aisha,Mobile
+2024-10-12,Haircut,37.13,Bianca,Cash
+2024-10-12,Haircut,40.93,Carlos,Cash
+2024-10-12,Product - styling,20.69,Diana,Card
+2024-10-12,Treatment,63.48,Bianca,Card
+2024-10-12,Haircut,36.76,Diana,Card
+2024-10-12,Haircut,40.81,Diana,Mobile
+2024-10-12,Product - styling,18.06,Bianca,Card
+2024-10-12,Blow dry,33.58,Carlos,Card
+2024-10-12,Color,100.57,Esi,Card
+2024-10-12,Color,115.69,Diana,Cash
+2024-10-12,Haircut,45.87,Aisha,Card
+2024-10-12,Treatment,66.8,Diana,Card
+2024-10-12,Product - styling,19.97,Esi,Card
+2024-10-12,Blow dry,31.61,Diana,Card
+2024-10-12,Color,125.37,Diana,Mobile
+2024-10-14,Blow dry,32.41,Aisha,Card
+2024-10-14,Beard trim,20.49,Diana,Mobile
+2024-10-14,Blow dry,32.51,Esi,Card
+2024-10-14,Product - shampoo,25.23,Carlos,Card
+2024-10-15,Blow dry,37.35,Aisha,Card
+2024-10-15,Product - shampoo,21.16,Esi,Card
+2024-10-15,Color,107.14,Esi,Mobile
+2024-10-15,Haircut,39.07,Bianca,Mobile
+2024-10-15,Color,123.39,Aisha,Card
+2024-10-15,Highlights,155.71,Esi,Cash
+2024-10-15,Blow dry,35.68,Esi,Card
+2024-10-15,Beard trim,22.73,Aisha,Cash
+2024-10-16,Color,123.1,Aisha,Cash
+2024-10-16,Haircut,42.48,Carlos,Cash
+2024-10-16,Beard trim,22.19,Esi,Mobile
+2024-10-16,Beard trim,21.07,Bianca,Card
+2024-10-16,Haircut,41.16,Diana,Card
+2024-10-16,Haircut,40.48,Esi,Card
+2024-10-16,Product - styling,16.28,Carlos,Card
+2024-10-16,Haircut,37.22,Aisha,Card
+2024-10-16,Treatment,64.22,Aisha,Card
+2024-10-16,Color,103.28,Bianca,Card
+2024-10-16,Blow dry,31.85,Aisha,Card
+2024-10-17,Treatment,66.31,Bianca,Cash
+2024-10-17,Treatment,57.44,Aisha,Card
+2024-10-17,Product - shampoo,24.34,Aisha,Cash
+2024-10-17,Beard trim,21.17,Carlos,Cash
+2024-10-17,Product - shampoo,21.52,Diana,Cash
+2024-10-17,Treatment,62.5,Carlos,Card
+2024-10-17,Blow dry,33.11,Esi,Card
+2024-10-17,Product - shampoo,21.13,Aisha,Card
+2024-10-17,Haircut,39.06,Aisha,Card
+2024-10-17,Color,119.37,Diana,Mobile
+2024-10-17,Haircut,37.07,Carlos,Card
+2024-10-17,Product - shampoo,20.69,Aisha,Card
+2024-10-17,Haircut,42.68,Aisha,Cash
+2024-10-17,Haircut,42.64,Diana,Card
+2024-10-17,Haircut,39.97,Bianca,Cash
+2024-10-18,Blow dry,35.31,Carlos,Card
+2024-10-18,Blow dry,37.62,Bianca,Card
+2024-10-18,Haircut,40.19,Carlos,Card
+2024-10-18,Haircut,39.25,Carlos,Cash
+2024-10-18,Product - shampoo,23.31,Diana,Card
+2024-10-18,Color,124.34,Aisha,Card
+2024-10-18,Haircut,40.44,Diana,Card
+2024-10-18,Highlights,149.81,Bianca,Mobile
+2024-10-18,Beard trim,21.21,Esi,Card
+2024-10-18,Haircut,36.06,Diana,Card
+2024-10-18,Color,102.4,Aisha,Card
+2024-10-18,Beard trim,19.54,Esi,Cash
+2024-10-18,Haircut,40.46,Diana,Card
+2024-10-18,Product - shampoo,24.78,Esi,Card
+2024-10-18,Blow dry,36.94,Bianca,Card
+2024-10-18,Beard trim,22.36,Diana,Card
+2024-10-18,Haircut,41.36,Diana,Card
+2024-10-18,Product - shampoo,24.61,Diana,Card
+2024-10-18,Highlights,150.42,Bianca,Card
+2024-10-19,Haircut,39.75,Diana,Card
+2024-10-19,Blow dry,39.29,Diana,Card
+2024-10-19,Color,101.95,Aisha,Card
+2024-10-19,Blow dry,36.6,Diana,Card
+2024-10-19,Beard trim,20.85,Bianca,Cash
+2024-10-19,Product - styling,18.86,Esi,Card
+2024-10-19,Color,109.6,Diana,Card
+2024-10-19,Haircut,41.0,Esi,Cash
+2024-10-19,Beard trim,22.07,Aisha,Card
+2024-10-19,Haircut,36.79,Bianca,Cash
+2024-10-19,Highlights,146.2,Esi,Card
+2024-10-19,Blow dry,31.87,Aisha,Cash
+2024-10-19,Beard trim,21.45,Diana,Cash
+2024-10-19,Product - shampoo,24.31,Carlos,Card
+2024-10-19,Haircut,41.53,Diana,Cash
+2024-10-19,Haircut,36.79,Carlos,Card
+2024-10-19,Product - shampoo,22.02,Carlos,Card
+2024-10-19,Highlights,143.73,Bianca,Card
+2024-10-19,Haircut,44.16,Diana,Card
+2024-10-19,Beard trim,18.67,Diana,Mobile
+2024-10-19,Haircut,39.04,Carlos,Card
+2024-10-19,Blow dry,37.09,Aisha,Mobile
+2024-10-19,Color,105.34,Carlos,Card
+2024-10-19,Haircut,42.91,Diana,Card
+2024-10-19,Color,105.39,Bianca,Card
+2024-10-19,Haircut,42.34,Esi,Card
+2024-10-19,Blow dry,38.64,Diana,Card
+2024-10-19,Product - styling,16.24,Aisha,Mobile
+2024-10-21,Blow dry,34.9,Carlos,Card
+2024-10-21,Haircut,43.84,Esi,Mobile
+2024-10-21,Beard trim,20.45,Aisha,Card
+2024-10-21,Beard trim,19.09,Diana,Card
+2024-10-21,Beard trim,19.46,Bianca,Card
+2024-10-21,Treatment,63.36,Bianca,Card
+2024-10-21,Blow dry,36.73,Bianca,Card
+2024-10-21,Color,99.62,Carlos,Card
+2024-10-21,Product - shampoo,20.86,Bianca,Cash
+2024-10-21,Color,106.85,Carlos,Mobile
+2024-10-21,Haircut,36.96,Carlos,Mobile
+2024-10-21,Color,116.67,Diana,Card
+2024-10-21,Beard trim,21.39,Esi,Card
+2024-10-21,Haircut,45.5,Aisha,Cash
+2024-10-21,Color,107.83,Bianca,Card
+2024-10-22,Beard trim,21.24,Carlos,Card
+2024-10-22,Highlights,170.77,Bianca,Cash
+2024-10-22,Color,116.54,Carlos,Card
+2024-10-22,Highlights,151.02,Aisha,Mobile
+2024-10-22,Product - shampoo,22.54,Carlos,Mobile
+2024-10-22,Blow dry,38.68,Aisha,Card
+2024-10-22,Color,116.13,Carlos,Mobile
+2024-10-22,Haircut,40.99,Bianca,Cash
+2024-10-22,Product - shampoo,23.15,Aisha,Cash
+2024-10-22,Product - shampoo,24.68,Aisha,Cash
+2024-10-23,Beard trim,19.19,Esi,Card
+2024-10-23,Color,112.7,Aisha,Cash
+2024-10-23,Beard trim,19.15,Esi,Card
+2024-10-23,Haircut,43.11,Aisha,Card
+2024-10-23,Haircut,37.18,Bianca,Mobile
+2024-10-23,Blow dry,33.03,Aisha,Mobile
+2024-10-23,Blow dry,39.03,Bianca,Card
+2024-10-23,Haircut,43.65,Diana,Card
+2024-10-23,Product - shampoo,21.66,Diana,Cash
+2024-10-23,Product - styling,17.75,Diana,Card
+2024-10-23,Haircut,41.46,Aisha,Card
+2024-10-23,Beard trim,21.75,Esi,Card
+2024-10-23,Color,103.11,Bianca,Mobile
+2024-10-23,Beard trim,19.59,Aisha,Card
+2024-10-23,Haircut,41.41,Carlos,Card
+2024-10-24,Haircut,39.43,Esi,Card
+2024-10-24,Haircut,37.78,Bianca,Card
+2024-10-24,Beard trim,20.13,Aisha,Card
+2024-10-24,Blow dry,38.9,Aisha,Mobile
+2024-10-24,Haircut,41.27,Diana,Card
+2024-10-24,Product - styling,19.17,Carlos,Card
+2024-10-24,Product - shampoo,22.06,Esi,Card
+2024-10-24,Blow dry,33.87,Diana,Cash
+2024-10-24,Beard trim,19.05,Bianca,Card
+2024-10-24,Product - shampoo,23.46,Esi,Card
+2024-10-24,Haircut,40.13,Aisha,Card
+2024-10-24,Color,100.57,Aisha,Card
+2024-10-24,Product - styling,19.99,Aisha,Card
+2024-10-24,Beard trim,20.46,Diana,Cash
+2024-10-24,Haircut,41.12,Bianca,Mobile
+2024-10-24,Product - shampoo,22.11,Carlos,Card
+2024-10-24,Haircut,40.6,Carlos,Mobile
+2024-10-24,Haircut,44.51,Esi,Mobile
+2024-10-25,Haircut,41.18,Bianca,Card
+2024-10-25,Haircut,38.31,Bianca,Card
+2024-10-25,Haircut,37.81,Aisha,Card
+2024-10-25,Highlights,167.95,Bianca,Card
+2024-10-25,Color,119.05,Bianca,Cash
+2024-10-25,Blow dry,36.71,Diana,Cash
+2024-10-25,Haircut,41.56,Bianca,Card
+2024-10-25,Product - styling,16.73,Bianca,Card
+2024-10-25,Haircut,43.24,Carlos,Mobile
+2024-10-25,Beard trim,20.58,Esi,Cash
+2024-10-25,Product - shampoo,23.37,Carlos,Mobile
+2024-10-25,Haircut,41.78,Diana,Mobile
+2024-10-25,Haircut,39.3,Diana,Card
+2024-10-25,Highlights,156.04,Carlos,Mobile
+2024-10-25,Color,110.74,Carlos,Card
+2024-10-25,Product - styling,16.61,Aisha,Card
+2024-10-26,Highlights,157.19,Carlos,Card
+2024-10-26,Haircut,36.15,Aisha,Card
+2024-10-26,Product - shampoo,23.5,Aisha,Cash
+2024-10-26,Treatment,57.62,Carlos,Card
+2024-10-26,Highlights,139.38,Bianca,Card
+2024-10-26,Haircut,41.94,Diana,Cash
+2024-10-26,Product - styling,18.11,Bianca,Card
+2024-10-26,Beard trim,20.23,Esi,Card
+2024-10-26,Treatment,68.05,Esi,Cash
+2024-10-26,Haircut,41.89,Diana,Card
+2024-10-26,Haircut,45.29,Aisha,Mobile
+2024-10-26,Haircut,39.43,Esi,Card
+2024-10-26,Haircut,42.12,Bianca,Mobile
+2024-10-26,Color,124.98,Aisha,Card
+2024-10-26,Product - shampoo,19.9,Carlos,Card
+2024-10-26,Product - styling,16.99,Esi,Card
+2024-10-26,Treatment,60.72,Carlos,Mobile
+2024-10-26,Haircut,44.64,Esi,Mobile
+2024-10-26,Haircut,45.8,Carlos,Card
+2024-10-26,Product - shampoo,23.56,Diana,Cash
+2024-10-26,Haircut,43.01,Bianca,Mobile
+2024-10-28,Haircut,37.92,Bianca,Cash
+2024-10-28,Beard trim,18.87,Carlos,Card
+2024-10-28,Treatment,68.71,Bianca,Card
+2024-10-28,Product - shampoo,22.14,Carlos,Cash
+2024-10-28,Product - styling,18.56,Bianca,Card
+2024-10-28,Product - styling,19.92,Bianca,Card
+2024-10-28,Product - styling,19.89,Esi,Mobile
+2024-10-29,Beard trim,22.92,Esi,Card
+2024-10-29,Haircut,43.11,Diana,Cash
+2024-10-29,Haircut,38.6,Bianca,Card
+2024-10-29,Treatment,62.25,Carlos,Mobile
+2024-10-29,Haircut,38.91,Carlos,Card
+2024-10-29,Beard trim,21.48,Aisha,Mobile
+2024-10-29,Beard trim,18.57,Aisha,Card
+2024-10-29,Haircut,38.58,Esi,Card
+2024-10-29,Treatment,62.79,Diana,Cash
+2024-10-30,Haircut,45.82,Carlos,Card
+2024-10-30,Haircut,45.82,Carlos,Card
+2024-10-30,Color,120.44,Esi,Card
+2024-10-30,Beard trim,21.73,Esi,Card
+2024-10-30,Haircut,38.72,Aisha,Cash
+2024-10-30,Product - styling,16.4,Esi,Card
+2024-10-30,Color,104.13,Diana,Card
+2024-10-30,Product - shampoo,21.16,Bianca,Mobile
+2024-10-30,Highlights,141.74,Aisha,Mobile
+2024-10-30,Haircut,38.42,Esi,Mobile
+2024-10-30,Highlights,155.76,Diana,Mobile
+2024-10-30,Highlights,136.57,Aisha,Card
+2024-10-31,Haircut,36.6,Bianca,Cash
+2024-10-31,Color,121.54,Aisha,Mobile
+2024-10-31,Beard trim,21.97,Diana,Cash
+2024-10-31,Blow dry,34.08,Bianca,Cash
+2024-10-31,Highlights,151.7,Bianca,Cash
+2024-10-31,Color,102.73,Carlos,Mobile
+2024-10-31,Haircut,39.7,Aisha,Mobile
+2024-10-31,Color,124.67,Aisha,Mobile
+2024-10-31,Blow dry,36.99,Aisha,Mobile
+2024-10-31,Haircut,36.97,Carlos,Card
+2024-10-31,Product - shampoo,19.9,Aisha,Card
+2024-10-31,Haircut,45.37,Diana,Card
+2024-10-31,Color,103.0,Carlos,Card
+2024-11-01,Color,108.44,Bianca,Card
+2024-11-01,Highlights,165.45,Carlos,Card
+2024-11-01,Color,113.11,Carlos,Card
+2024-11-01,Color,118.07,Diana,Card
+2024-11-01,Beard trim,20.78,Carlos,Card
+2024-11-01,Haircut,44.85,Carlos,Card
+2024-11-01,Beard trim,21.28,Diana,Card
+2024-11-01,Haircut,45.27,Carlos,Mobile
+2024-11-01,Product - shampoo,20.79,Esi,Mobile
+2024-11-01,Haircut,45.2,Aisha,Cash
+2024-11-01,Product - styling,18.19,Esi,Card
+2024-11-01,Product - shampoo,20.08,Aisha,Cash
+2024-11-01,Beard trim,22.64,Diana,Mobile
+2024-11-01,Product - shampoo,20.62,Esi,Mobile
+2024-11-01,Color,112.17,Carlos,Card
+2024-11-01,Product - styling,19.72,Carlos,Card
+2024-11-01,Blow dry,38.36,Aisha,Card
+2024-11-01,Highlights,139.74,Esi,Card
+2024-11-02,Beard trim,19.66,Aisha,Card
+2024-11-02,Blow dry,36.31,Aisha,Card
+2024-11-02,Highlights,166.06,Diana,Card
+2024-11-02,Blow dry,31.74,Diana,Card
+2024-11-02,Product - shampoo,22.38,Aisha,Mobile
+2024-11-02,Color,105.4,Diana,Card
+2024-11-02,Highlights,155.21,Esi,Card
+2024-11-02,Blow dry,36.14,Esi,Card
+2024-11-02,Highlights,166.82,Bianca,Card
+2024-11-02,Haircut,37.24,Carlos,Cash
+2024-11-02,Blow dry,39.55,Bianca,Cash
+2024-11-02,Haircut,38.22,Aisha,Card
+2024-11-02,Haircut,36.56,Esi,Card
+2024-11-02,Color,117.53,Esi,Card
+2024-11-02,Blow dry,34.12,Esi,Cash
+2024-11-02,Highlights,152.4,Carlos,Card
+2024-11-02,Haircut,40.66,Esi,Card
+2024-11-02,Haircut,44.6,Aisha,Card
+2024-11-02,Product - shampoo,21.07,Carlos,Mobile
+2024-11-02,Product - styling,16.7,Aisha,Mobile
+2024-11-02,Color,108.6,Esi,Card
+2024-11-02,Product - styling,20.18,Carlos,Card
+2024-11-02,Treatment,56.13,Aisha,Mobile
+2024-11-02,Treatment,66.9,Diana,Mobile
+2024-11-02,Product - styling,17.61,Bianca,Mobile
+2024-11-02,Haircut,39.73,Diana,Mobile
+2024-11-02,Haircut,39.31,Esi,Card
+2024-11-02,Haircut,41.33,Esi,Card
+2024-11-04,Haircut,41.56,Diana,Mobile
+2024-11-04,Haircut,44.21,Aisha,Card
+2024-11-04,Color,124.96,Carlos,Card
+2024-11-04,Color,115.0,Bianca,Mobile
+2024-11-04,Beard trim,21.26,Aisha,Mobile
+2024-11-04,Product - shampoo,20.19,Carlos,Card
+2024-11-04,Haircut,45.58,Diana,Card
+2024-11-04,Treatment,68.55,Esi,Card
+2024-11-04,Product - styling,17.73,Diana,Card
+2024-11-04,Color,114.37,Bianca,Card
+2024-11-04,Product - shampoo,19.94,Esi,Mobile
+2024-11-04,Haircut,43.98,Diana,Card
+2024-11-04,Haircut,40.12,Esi,Card
+2024-11-04,Color,99.08,Aisha,Mobile
+2024-11-04,Haircut,38.55,Esi,Cash
+2024-11-05,Haircut,44.46,Carlos,Card
+2024-11-05,Haircut,38.63,Bianca,Mobile
+2024-11-05,Haircut,40.51,Aisha,Cash
+2024-11-05,Haircut,38.23,Diana,Mobile
+2024-11-05,Product - styling,17.66,Carlos,Card
+2024-11-05,Product - styling,19.78,Diana,Cash
+2024-11-05,Color,120.9,Bianca,Mobile
+2024-11-05,Haircut,42.27,Diana,Mobile
+2024-11-05,Product - shampoo,20.38,Bianca,Card
+2024-11-05,Treatment,55.26,Diana,Card
+2024-11-06,Product - styling,17.9,Bianca,Mobile
+2024-11-06,Product - shampoo,22.53,Diana,Card
+2024-11-06,Blow dry,39.34,Esi,Cash
+2024-11-06,Color,105.13,Bianca,Cash
+2024-11-06,Highlights,165.65,Diana,Mobile
+2024-11-06,Product - styling,18.16,Bianca,Cash
+2024-11-07,Color,100.95,Aisha,Card
+2024-11-07,Haircut,40.62,Diana,Card
+2024-11-07,Color,114.94,Esi,Card
+2024-11-07,Haircut,45.84,Bianca,Cash
+2024-11-07,Beard trim,19.72,Carlos,Cash
+2024-11-07,Color,116.05,Esi,Card
+2024-11-07,Haircut,45.03,Bianca,Card
+2024-11-07,Beard trim,22.23,Aisha,Card
+2024-11-07,Beard trim,18.07,Aisha,Card
+2024-11-07,Beard trim,19.95,Esi,Card
+2024-11-07,Beard trim,19.78,Aisha,Mobile
+2024-11-07,Beard trim,18.71,Aisha,Cash
+2024-11-07,Treatment,64.1,Diana,Card
+2024-11-07,Blow dry,38.2,Esi,Card
+2024-11-07,Haircut,39.4,Carlos,Card
+2024-11-07,Haircut,45.78,Diana,Card
+2024-11-07,Blow dry,39.0,Diana,Card
+2024-11-07,Treatment,55.81,Aisha,Card
+2024-11-07,Haircut,44.42,Esi,Cash
+2024-11-07,Color,105.09,Carlos,Mobile
+2024-11-08,Haircut,45.83,Diana,Mobile
+2024-11-08,Blow dry,40.14,Aisha,Card
+2024-11-08,Haircut,38.33,Bianca,Card
+2024-11-08,Product - styling,17.96,Aisha,Card
+2024-11-08,Highlights,139.8,Diana,Cash
+2024-11-08,Beard trim,20.6,Bianca,Card
+2024-11-08,Product - styling,17.13,Diana,Cash
+2024-11-08,Color,122.33,Diana,Mobile
+2024-11-08,Haircut,45.32,Diana,Card
+2024-11-08,Haircut,37.06,Esi,Card
+2024-11-08,Highlights,167.4,Aisha,Mobile
+2024-11-08,Haircut,36.37,Bianca,Mobile
+2024-11-08,Blow dry,36.93,Diana,Card
+2024-11-08,Haircut,39.45,Carlos,Card
+2024-11-08,Product - shampoo,20.75,Carlos,Mobile
+2024-11-08,Highlights,167.11,Bianca,Mobile
+2024-11-08,Haircut,39.02,Esi,Mobile
+2024-11-08,Blow dry,38.37,Carlos,Card
+2024-11-08,Beard trim,20.71,Bianca,Card
+2024-11-08,Haircut,38.22,Bianca,Card
+2024-11-08,Haircut,37.6,Esi,Card
+2024-11-08,Color,121.53,Diana,Card
+2024-11-08,Treatment,64.28,Carlos,Cash
+2024-11-08,Color,108.9,Carlos,Cash
+2024-11-08,Haircut,44.37,Esi,Card
+2024-11-08,Beard trim,21.25,Aisha,Card
+2024-11-08,Highlights,142.7,Diana,Cash
+2024-11-08,Haircut,41.01,Esi,Card
+2024-11-09,Blow dry,33.16,Esi,Mobile
+2024-11-09,Treatment,61.96,Aisha,Cash
+2024-11-09,Treatment,66.97,Carlos,Card
+2024-11-09,Product - shampoo,20.44,Diana,Card
+2024-11-09,Haircut,41.64,Diana,Card
+2024-11-09,Product - styling,17.37,Esi,Card
+2024-11-09,Beard trim,19.17,Diana,Card
+2024-11-09,Haircut,43.97,Bianca,Cash
+2024-11-09,Haircut,38.78,Bianca,Mobile
+2024-11-09,Beard trim,21.48,Bianca,Card
+2024-11-09,Blow dry,32.98,Bianca,Cash
+2024-11-09,Haircut,36.77,Carlos,Card
+2024-11-09,Beard trim,18.44,Bianca,Card
+2024-11-09,Blow dry,36.14,Aisha,Card
+2024-11-09,Blow dry,39.89,Aisha,Card
+2024-11-09,Beard trim,19.2,Esi,Card
+2024-11-09,Blow dry,34.48,Diana,Mobile
+2024-11-09,Color,113.86,Bianca,Mobile
+2024-11-09,Product - shampoo,24.21,Aisha,Card
+2024-11-09,Beard trim,19.08,Esi,Card
+2024-11-09,Highlights,143.67,Diana,Cash
+2024-11-09,Beard trim,18.36,Diana,Card
+2024-11-09,Beard trim,21.62,Diana,Card
+2024-11-09,Beard trim,22.32,Aisha,Card
+2024-11-09,Highlights,153.77,Diana,Cash
+2024-11-09,Blow dry,34.2,Aisha,Card
+2024-11-09,Highlights,137.65,Bianca,Card
+2024-11-11,Highlights,148.06,Esi,Card
+2024-11-11,Blow dry,34.9,Bianca,Card
+2024-11-11,Haircut,41.59,Carlos,Card
+2024-11-11,Haircut,43.79,Carlos,Card
+2024-11-11,Highlights,164.85,Aisha,Cash
+2024-11-11,Haircut,38.06,Carlos,Cash
+2024-11-11,Color,109.6,Esi,Card
+2024-11-11,Blow dry,36.04,Aisha,Mobile
+2024-11-11,Blow dry,38.75,Carlos,Card
+2024-11-11,Beard trim,18.71,Esi,Mobile
+2024-11-11,Haircut,43.45,Carlos,Card
+2024-11-11,Beard trim,19.42,Esi,Card
+2024-11-12,Haircut,40.84,Bianca,Card
+2024-11-12,Beard trim,20.74,Bianca,Card
+2024-11-12,Treatment,55.13,Diana,Mobile
+2024-11-12,Beard trim,21.56,Aisha,Card
+2024-11-12,Beard trim,18.5,Diana,Cash
+2024-11-12,Highlights,168.43,Diana,Card
+2024-11-12,Haircut,37.51,Diana,Cash
+2024-11-12,Haircut,37.64,Bianca,Mobile
+2024-11-12,Highlights,157.58,Bianca,Card
+2024-11-12,Haircut,36.06,Diana,Card
+2024-11-12,Beard trim,21.63,Bianca,Mobile
+2024-11-12,Treatment,58.26,Aisha,Card
+2024-11-12,Blow dry,31.94,Bianca,Cash
+2024-11-13,Beard trim,21.08,Esi,Card
+2024-11-13,Haircut,36.1,Bianca,Mobile
+2024-11-13,Color,106.85,Aisha,Card
+2024-11-13,Product - styling,16.51,Diana,Card
+2024-11-13,Highlights,144.62,Aisha,Cash
+2024-11-13,Haircut,45.74,Bianca,Card
+2024-11-13,Haircut,39.14,Carlos,Mobile
+2024-11-13,Color,103.99,Bianca,Card
+2024-11-13,Product - styling,18.01,Esi,Card
+2024-11-13,Haircut,43.51,Diana,Cash
+2024-11-13,Haircut,44.77,Bianca,Cash
+2024-11-13,Haircut,36.86,Aisha,Card
+2024-11-13,Product - styling,18.54,Aisha,Card
+2024-11-13,Treatment,55.88,Esi,Card
+2024-11-13,Highlights,162.99,Carlos,Card
+2024-11-13,Treatment,64.37,Aisha,Card
+2024-11-13,Haircut,36.52,Carlos,Mobile
+2024-11-13,Beard trim,22.84,Carlos,Card
+2024-11-14,Beard trim,20.36,Bianca,Mobile
+2024-11-14,Highlights,143.04,Bianca,Card
+2024-11-14,Blow dry,36.96,Aisha,Card
+2024-11-14,Haircut,37.76,Esi,Card
+2024-11-14,Haircut,45.17,Aisha,Card
+2024-11-14,Product - shampoo,22.89,Esi,Card
+2024-11-14,Haircut,37.95,Diana,Mobile
+2024-11-14,Blow dry,32.5,Bianca,Cash
+2024-11-14,Beard trim,18.4,Aisha,Card
+2024-11-14,Haircut,43.96,Esi,Card
+2024-11-14,Color,125.51,Esi,Cash
+2024-11-14,Haircut,40.51,Aisha,Card
+2024-11-14,Beard trim,20.32,Diana,Mobile
+2024-11-14,Beard trim,18.91,Esi,Card
+2024-11-14,Blow dry,31.61,Bianca,Card
+2024-11-14,Product - shampoo,21.24,Esi,Mobile
+2024-11-14,Highlights,167.45,Aisha,Card
+2024-11-14,Haircut,37.31,Aisha,Mobile
+2024-11-14,Product - shampoo,21.92,Diana,Cash
+2024-11-14,Color,105.98,Carlos,Card
+2024-11-14,Haircut,36.71,Esi,Card
+2024-11-14,Haircut,44.83,Carlos,Card
+2024-11-14,Blow dry,33.8,Carlos,Cash
+2024-11-15,Color,105.31,Aisha,Card
+2024-11-15,Blow dry,32.4,Bianca,Mobile
+2024-11-15,Haircut,36.31,Esi,Card
+2024-11-15,Product - shampoo,22.85,Diana,Card
+2024-11-15,Haircut,39.52,Aisha,Card
+2024-11-15,Haircut,45.46,Diana,Card
+2024-11-15,Color,125.41,Aisha,Mobile
+2024-11-15,Haircut,41.47,Carlos,Cash
+2024-11-15,Beard trim,18.44,Aisha,Card
+2024-11-15,Beard trim,20.98,Esi,Mobile
+2024-11-15,Haircut,39.83,Esi,Card
+2024-11-15,Blow dry,31.89,Aisha,Card
+2024-11-15,Blow dry,32.94,Aisha,Card
+2024-11-15,Highlights,165.39,Carlos,Cash
+2024-11-15,Haircut,41.8,Carlos,Card
+2024-11-15,Haircut,45.36,Esi,Card
+2024-11-15,Product - shampoo,20.38,Esi,Card
+2024-11-15,Haircut,39.32,Bianca,Card
+2024-11-15,Beard trim,22.48,Bianca,Cash
+2024-11-15,Beard trim,18.38,Esi,Mobile
+2024-11-15,Color,108.9,Aisha,Card
+2024-11-15,Beard trim,18.87,Esi,Cash
+2024-11-15,Highlights,147.24,Carlos,Cash
+2024-11-15,Highlights,145.33,Diana,Card
+2024-11-15,Beard trim,19.14,Bianca,Card
+2024-11-15,Highlights,159.67,Aisha,Card
+2024-11-16,Product - shampoo,23.3,Aisha,Card
+2024-11-16,Haircut,37.49,Carlos,Card
+2024-11-16,Product - styling,20.48,Diana,Card
+2024-11-16,Treatment,57.12,Esi,Cash
+2024-11-16,Haircut,40.71,Carlos,Card
+2024-11-16,Treatment,62.52,Esi,Card
+2024-11-16,Highlights,149.4,Esi,Card
+2024-11-16,Beard trim,19.91,Carlos,Mobile
+2024-11-16,Product - shampoo,23.4,Bianca,Card
+2024-11-16,Treatment,58.24,Aisha,Cash
+2024-11-16,Blow dry,37.99,Carlos,Card
+2024-11-16,Treatment,62.14,Bianca,Card
+2024-11-16,Haircut,39.69,Esi,Card
+2024-11-16,Beard trim,20.86,Carlos,Card
+2024-11-16,Highlights,154.15,Diana,Card
+2024-11-16,Haircut,36.72,Bianca,Mobile
+2024-11-16,Haircut,42.71,Bianca,Card
+2024-11-16,Color,124.78,Carlos,Card
+2024-11-16,Blow dry,33.27,Aisha,Card
+2024-11-16,Haircut,41.4,Aisha,Card
+2024-11-16,Beard trim,19.82,Carlos,Card
+2024-11-16,Beard trim,21.01,Bianca,Card
+2024-11-16,Beard trim,21.46,Bianca,Card
+2024-11-16,Product - styling,17.6,Carlos,Mobile
+2024-11-18,Treatment,59.47,Esi,Card
+2024-11-18,Haircut,43.87,Esi,Mobile
+2024-11-18,Haircut,36.76,Carlos,Mobile
+2024-11-18,Highlights,171.5,Bianca,Mobile
+2024-11-18,Beard trim,18.31,Esi,Mobile
+2024-11-18,Beard trim,18.79,Carlos,Cash
+2024-11-18,Product - styling,19.43,Esi,Card
+2024-11-18,Treatment,66.1,Esi,Cash
+2024-11-18,Product - shampoo,20.18,Diana,Cash
+2024-11-18,Haircut,45.94,Aisha,Card
+2024-11-18,Haircut,39.28,Aisha,Mobile
+2024-11-18,Product - styling,17.81,Diana,Card
+2024-11-19,Blow dry,35.35,Diana,Mobile
+2024-11-19,Haircut,41.25,Diana,Cash
+2024-11-19,Haircut,41.3,Aisha,Card
+2024-11-19,Highlights,137.22,Bianca,Card
+2024-11-19,Product - styling,18.67,Carlos,Mobile
+2024-11-19,Color,119.77,Diana,Card
+2024-11-19,Color,121.04,Carlos,Card
+2024-11-19,Product - styling,17.06,Bianca,Mobile
+2024-11-19,Product - shampoo,20.86,Carlos,Card
+2024-11-19,Color,121.75,Bianca,Card
+2024-11-19,Product - shampoo,20.98,Esi,Mobile
+2024-11-19,Haircut,44.96,Diana,Card
+2024-11-19,Beard trim,19.65,Bianca,Card
+2024-11-19,Blow dry,34.6,Esi,Card
+2024-11-20,Color,107.13,Diana,Cash
+2024-11-20,Color,115.86,Carlos,Cash
+2024-11-20,Product - shampoo,21.09,Bianca,Cash
+2024-11-20,Highlights,161.27,Esi,Card
+2024-11-20,Haircut,36.73,Diana,Card
+2024-11-20,Product - shampoo,24.01,Esi,Card
+2024-11-20,Beard trim,22.24,Diana,Card
+2024-11-20,Haircut,36.74,Diana,Card
+2024-11-20,Product - shampoo,21.85,Carlos,Mobile
+2024-11-20,Product - styling,16.29,Bianca,Card
+2024-11-20,Beard trim,20.55,Carlos,Card
+2024-11-20,Product - styling,19.97,Aisha,Cash
+2024-11-21,Haircut,38.69,Carlos,Card
+2024-11-21,Haircut,41.81,Esi,Card
+2024-11-21,Haircut,37.22,Diana,Mobile
+2024-11-21,Blow dry,38.21,Esi,Card
+2024-11-21,Haircut,36.74,Bianca,Mobile
+2024-11-21,Beard trim,18.28,Bianca,Card
+2024-11-21,Product - shampoo,23.97,Bianca,Card
+2024-11-21,Haircut,39.05,Aisha,Cash
+2024-11-21,Haircut,37.38,Esi,Card
+2024-11-21,Product - styling,18.64,Carlos,Card
+2024-11-21,Highlights,147.0,Diana,Mobile
+2024-11-21,Haircut,42.92,Esi,Card
+2024-11-21,Color,118.51,Carlos,Card
+2024-11-21,Haircut,37.87,Diana,Mobile
+2024-11-21,Haircut,42.67,Esi,Card
+2024-11-21,Haircut,44.57,Esi,Mobile
+2024-11-21,Haircut,36.22,Bianca,Cash
+2024-11-21,Beard trim,21.06,Esi,Card
+2024-11-21,Blow dry,31.62,Diana,Card
+2024-11-21,Haircut,45.46,Aisha,Cash
+2024-11-22,Haircut,43.93,Esi,Mobile
+2024-11-22,Highlights,136.6,Diana,Cash
+2024-11-22,Color,112.24,Aisha,Card
+2024-11-22,Product - styling,17.53,Aisha,Card
+2024-11-22,Color,112.76,Esi,Mobile
+2024-11-22,Blow dry,33.79,Aisha,Card
+2024-11-22,Product - styling,17.72,Aisha,Card
+2024-11-22,Treatment,66.03,Diana,Card
+2024-11-22,Haircut,40.32,Esi,Mobile
+2024-11-22,Product - shampoo,19.97,Aisha,Cash
+2024-11-22,Highlights,138.65,Bianca,Card
+2024-11-22,Haircut,41.9,Aisha,Cash
+2024-11-22,Color,119.95,Diana,Mobile
+2024-11-22,Haircut,39.6,Esi,Card
+2024-11-22,Blow dry,35.54,Diana,Cash
+2024-11-22,Beard trim,18.56,Diana,Card
+2024-11-22,Blow dry,34.59,Aisha,Mobile
+2024-11-22,Haircut,41.39,Esi,Cash
+2024-11-22,Color,111.84,Bianca,Card
+2024-11-22,Haircut,40.69,Bianca,Card
+2024-11-22,Blow dry,40.07,Bianca,Card
+2024-11-22,Color,121.79,Diana,Card
+2024-11-22,Haircut,39.99,Diana,Card
+2024-11-22,Beard trim,19.81,Diana,Card
+2024-11-22,Haircut,39.48,Esi,Card
+2024-11-23,Haircut,38.05,Bianca,Card
+2024-11-23,Blow dry,31.87,Carlos,Mobile
+2024-11-23,Color,117.26,Bianca,Card
+2024-11-23,Blow dry,38.81,Aisha,Card
+2024-11-23,Beard trim,18.05,Esi,Card
+2024-11-23,Treatment,60.68,Esi,Mobile
+2024-11-23,Haircut,43.77,Esi,Cash
+2024-11-23,Color,101.34,Bianca,Card
+2024-11-23,Blow dry,31.83,Diana,Mobile
+2024-11-23,Blow dry,38.01,Esi,Card
+2024-11-23,Haircut,44.07,Carlos,Card
+2024-11-23,Haircut,43.08,Bianca,Cash
+2024-11-23,Highlights,165.01,Aisha,Card
+2024-11-23,Beard trim,21.61,Carlos,Mobile
+2024-11-23,Haircut,45.55,Bianca,Card
+2024-11-23,Haircut,43.62,Bianca,Cash
+2024-11-23,Beard trim,18.04,Aisha,Cash
+2024-11-23,Color,101.32,Diana,Cash
+2024-11-23,Color,119.31,Diana,Mobile
+2024-11-23,Treatment,56.57,Aisha,Cash
+2024-11-23,Blow dry,36.11,Bianca,Cash
+2024-11-23,Color,105.05,Bianca,Card
+2024-11-23,Blow dry,34.34,Carlos,Mobile
+2024-11-23,Product - styling,17.83,Carlos,Card
+2024-11-23,Highlights,158.7,Bianca,Card
+2024-11-23,Blow dry,39.86,Carlos,Cash
+2024-11-23,Haircut,44.15,Aisha,Cash
+2024-11-25,Blow dry,36.27,Aisha,Card
+2024-11-25,Haircut,41.14,Esi,Card
+2024-11-25,Product - styling,16.9,Esi,Card
+2024-11-25,Highlights,141.06,Diana,Mobile
+2024-11-25,Color,123.2,Carlos,Card
+2024-11-25,Blow dry,31.58,Aisha,Mobile
+2024-11-25,Product - styling,18.32,Carlos,Mobile
+2024-11-25,Product - shampoo,23.22,Aisha,Cash
+2024-11-25,Treatment,67.27,Carlos,Card
+2024-11-25,Beard trim,22.3,Aisha,Card
+2024-11-25,Treatment,57.83,Aisha,Mobile
+2024-11-25,Beard trim,20.33,Carlos,Mobile
+2024-11-26,Product - styling,18.98,Esi,Mobile
+2024-11-26,Blow dry,39.83,Diana,Cash
+2024-11-26,Treatment,64.46,Aisha,Mobile
+2024-11-26,Beard trim,18.9,Esi,Card
+2024-11-26,Product - shampoo,21.43,Diana,Cash
+2024-11-26,Color,100.68,Carlos,Card
+2024-11-26,Highlights,140.63,Carlos,Mobile
+2024-11-26,Treatment,67.02,Carlos,Mobile
+2024-11-26,Product - shampoo,21.84,Diana,Mobile
+2024-11-26,Color,99.3,Aisha,Card
+2024-11-26,Beard trim,20.07,Aisha,Cash
+2024-11-26,Blow dry,37.11,Bianca,Card
+2024-11-26,Treatment,67.53,Aisha,Card
+2024-11-26,Blow dry,37.54,Carlos,Cash
+2024-11-27,Haircut,39.25,Diana,Mobile
+2024-11-27,Haircut,36.92,Diana,Card
+2024-11-27,Haircut,36.45,Diana,Cash
+2024-11-27,Haircut,43.5,Carlos,Card
+2024-11-27,Beard trim,20.88,Aisha,Mobile
+2024-11-27,Blow dry,35.98,Esi,Card
+2024-11-27,Haircut,45.99,Diana,Card
+2024-11-27,Product - styling,20.21,Aisha,Cash
+2024-11-27,Beard trim,22.63,Esi,Mobile
+2024-11-27,Product - styling,20.05,Carlos,Mobile
+2024-11-27,Color,118.94,Carlos,Card
+2024-11-27,Haircut,44.8,Esi,Mobile
+2024-11-27,Product - styling,17.67,Bianca,Mobile
+2024-11-27,Treatment,64.27,Diana,Card
+2024-11-27,Haircut,44.99,Aisha,Mobile
+2024-11-27,Treatment,67.79,Bianca,Card
+2024-11-27,Haircut,44.5,Esi,Card
+2024-11-27,Product - styling,17.57,Aisha,Cash
+2024-11-28,Blow dry,38.85,Esi,Cash
+2024-11-28,Treatment,61.63,Aisha,Cash
+2024-11-28,Haircut,37.03,Esi,Card
+2024-11-28,Blow dry,35.81,Bianca,Mobile
+2024-11-28,Color,121.55,Aisha,Card
+2024-11-28,Haircut,45.55,Bianca,Cash
+2024-11-28,Product - shampoo,23.95,Aisha,Mobile
+2024-11-28,Haircut,42.46,Bianca,Card
+2024-11-28,Beard trim,19.16,Diana,Cash
+2024-11-28,Color,126.24,Esi,Cash
+2024-11-28,Haircut,44.86,Esi,Cash
+2024-11-28,Blow dry,35.81,Esi,Mobile
+2024-11-28,Haircut,38.17,Bianca,Card
+2024-11-28,Haircut,41.21,Bianca,Cash
+2024-11-28,Blow dry,37.66,Esi,Card
+2024-11-28,Highlights,154.1,Diana,Card
+2024-11-28,Blow dry,38.36,Diana,Card
+2024-11-28,Beard trim,20.05,Carlos,Card
+2024-11-28,Haircut,45.6,Diana,Cash
+2024-11-28,Beard trim,19.86,Esi,Card
+2024-11-28,Haircut,42.29,Diana,Mobile
+2024-11-29,Product - shampoo,24.22,Carlos,Cash
+2024-11-29,Highlights,157.52,Diana,Card
+2024-11-29,Color,119.92,Diana,Card
+2024-11-29,Product - shampoo,24.02,Bianca,Card
+2024-11-29,Haircut,36.56,Carlos,Card
+2024-11-29,Product - shampoo,23.46,Diana,Cash
+2024-11-29,Beard trim,21.29,Bianca,Cash
+2024-11-29,Color,99.2,Carlos,Card
+2024-11-29,Treatment,57.14,Carlos,Card
+2024-11-29,Haircut,40.05,Aisha,Card
+2024-11-29,Blow dry,31.95,Carlos,Card
+2024-11-29,Blow dry,37.94,Esi,Mobile
+2024-11-29,Beard trim,21.85,Bianca,Cash
+2024-11-29,Haircut,38.41,Aisha,Mobile
+2024-11-29,Beard trim,19.06,Bianca,Card
+2024-11-29,Product - shampoo,24.14,Carlos,Cash
+2024-11-29,Product - styling,16.92,Bianca,Card
+2024-11-29,Color,121.15,Aisha,Card
+2024-11-29,Blow dry,38.49,Carlos,Card
+2024-11-29,Haircut,41.5,Bianca,Mobile
+2024-11-29,Beard trim,22.85,Diana,Card
+2024-11-29,Beard trim,22.01,Aisha,Cash
+2024-11-29,Haircut,43.75,Esi,Card
+2024-11-29,Beard trim,18.79,Esi,Card
+2024-11-29,Haircut,36.43,Carlos,Card
+2024-11-29,Haircut,44.38,Esi,Card
+2024-11-29,Product - shampoo,20.51,Diana,Mobile
+2024-11-29,Highlights,172.22,Aisha,Cash
+2024-11-29,Blow dry,35.12,Carlos,Card
+2024-11-29,Haircut,44.58,Bianca,Card
+2024-11-29,Haircut,41.14,Aisha,Mobile
+2024-11-30,Product - shampoo,22.29,Esi,Card
+2024-11-30,Beard trim,19.73,Aisha,Card
+2024-11-30,Blow dry,35.04,Carlos,Cash
+2024-11-30,Beard trim,20.85,Esi,Cash
+2024-11-30,Treatment,56.17,Esi,Mobile
+2024-11-30,Haircut,45.32,Carlos,Mobile
+2024-11-30,Haircut,40.87,Carlos,Card
+2024-11-30,Product - shampoo,20.29,Aisha,Card
+2024-11-30,Product - styling,17.63,Aisha,Card
+2024-11-30,Color,117.37,Aisha,Mobile
+2024-11-30,Blow dry,39.44,Esi,Card
+2024-11-30,Blow dry,38.55,Bianca,Cash
+2024-11-30,Product - shampoo,20.59,Carlos,Mobile
+2024-11-30,Haircut,39.82,Aisha,Card
+2024-11-30,Color,99.63,Bianca,Cash
+2024-11-30,Haircut,39.0,Esi,Card
+2024-11-30,Blow dry,31.77,Aisha,Cash
+2024-11-30,Beard trim,20.02,Aisha,Mobile
+2024-11-30,Highlights,148.97,Aisha,Mobile
+2024-11-30,Haircut,36.75,Esi,Mobile
+2024-11-30,Product - styling,19.7,Aisha,Cash
+2024-11-30,Blow dry,34.63,Carlos,Card
+2024-11-30,Blow dry,33.74,Diana,Card
+2024-11-30,Blow dry,34.81,Esi,Card
+2024-11-30,Haircut,40.21,Aisha,Card
+2024-12-02,Treatment,62.63,Carlos,Card
+2024-12-02,Beard trim,19.91,Bianca,Cash
+2024-12-02,Blow dry,31.64,Bianca,Cash
+2024-12-02,Color,124.55,Aisha,Card
+2024-12-02,Product - shampoo,25.16,Aisha,Card
+2024-12-02,Product - styling,18.97,Aisha,Mobile
+2024-12-02,Highlights,167.09,Aisha,Cash
+2024-12-02,Beard trim,21.24,Carlos,Cash
+2024-12-02,Haircut,36.12,Diana,Mobile
+2024-12-02,Blow dry,35.16,Esi,Card
+2024-12-02,Product - styling,17.34,Carlos,Card
+2024-12-02,Product - styling,20.47,Esi,Card
+2024-12-02,Haircut,41.7,Bianca,Card
+2024-12-02,Color,123.07,Esi,Card
+2024-12-03,Product - shampoo,20.93,Aisha,Card
+2024-12-03,Beard trim,19.7,Diana,Mobile
+2024-12-03,Haircut,44.72,Esi,Card
+2024-12-03,Color,113.54,Bianca,Mobile
+2024-12-03,Treatment,59.38,Diana,Card
+2024-12-03,Beard trim,22.61,Esi,Card
+2024-12-03,Beard trim,20.74,Bianca,Mobile
+2024-12-03,Highlights,137.34,Bianca,Card
+2024-12-03,Beard trim,22.27,Carlos,Card
+2024-12-03,Treatment,57.86,Esi,Cash
+2024-12-03,Haircut,39.25,Aisha,Mobile
+2024-12-03,Beard trim,20.91,Diana,Card
+2024-12-04,Color,118.22,Diana,Mobile
+2024-12-04,Highlights,142.22,Carlos,Cash
+2024-12-04,Treatment,65.92,Diana,Card
+2024-12-04,Highlights,166.63,Aisha,Card
+2024-12-04,Haircut,36.13,Diana,Card
+2024-12-04,Highlights,170.84,Diana,Mobile
+2024-12-04,Highlights,138.94,Carlos,Mobile
+2024-12-04,Blow dry,36.88,Aisha,Card
+2024-12-04,Haircut,40.77,Bianca,Cash
+2024-12-04,Treatment,65.71,Carlos,Card
+2024-12-04,Blow dry,34.38,Bianca,Card
+2024-12-04,Color,122.32,Aisha,Cash
+2024-12-04,Beard trim,22.43,Bianca,Card
+2024-12-04,Beard trim,20.11,Bianca,Card
+2024-12-04,Highlights,150.73,Esi,Mobile
+2024-12-05,Haircut,45.26,Diana,Card
+2024-12-05,Product - styling,20.6,Bianca,Card
+2024-12-05,Product - styling,17.56,Diana,Mobile
+2024-12-05,Product - styling,20.03,Bianca,Mobile
+2024-12-05,Haircut,45.36,Aisha,Card
+2024-12-05,Product - shampoo,20.38,Esi,Cash
+2024-12-05,Highlights,166.46,Carlos,Cash
+2024-12-05,Blow dry,36.71,Carlos,Card
+2024-12-05,Haircut,45.22,Aisha,Mobile
+2024-12-05,Product - shampoo,24.93,Esi,Mobile
+2024-12-05,Haircut,36.6,Carlos,Cash
+2024-12-05,Haircut,41.66,Carlos,Card
+2024-12-05,Highlights,135.35,Aisha,Card
+2024-12-05,Highlights,147.77,Carlos,Mobile
+2024-12-05,Beard trim,21.77,Esi,Card
+2024-12-05,Haircut,43.1,Bianca,Card
+2024-12-05,Color,100.7,Diana,Card
+2024-12-05,Beard trim,21.34,Bianca,Card
+2024-12-05,Haircut,38.75,Bianca,Card
+2024-12-05,Highlights,137.35,Carlos,Cash
+2024-12-05,Highlights,139.88,Carlos,Card
+2024-12-05,Beard trim,18.76,Esi,Card
+2024-12-06,Haircut,43.59,Esi,Card
+2024-12-06,Color,122.59,Aisha,Cash
+2024-12-06,Haircut,36.18,Esi,Card
+2024-12-06,Blow dry,33.49,Esi,Card
+2024-12-06,Haircut,36.36,Esi,Card
+2024-12-06,Color,114.23,Carlos,Mobile
+2024-12-06,Haircut,43.99,Bianca,Card
+2024-12-06,Haircut,44.22,Carlos,Card
+2024-12-06,Product - shampoo,24.15,Diana,Card
+2024-12-06,Blow dry,38.35,Aisha,Card
+2024-12-06,Blow dry,36.47,Carlos,Mobile
+2024-12-06,Blow dry,37.94,Diana,Card
+2024-12-06,Beard trim,22.52,Carlos,Cash
+2024-12-06,Blow dry,35.73,Carlos,Card
+2024-12-06,Color,115.97,Diana,Cash
+2024-12-06,Color,105.34,Aisha,Cash
+2024-12-06,Color,99.75,Diana,Mobile
+2024-12-06,Treatment,58.37,Bianca,Mobile
+2024-12-06,Product - shampoo,21.54,Aisha,Cash
+2024-12-06,Beard trim,22.71,Bianca,Cash
+2024-12-06,Haircut,37.36,Esi,Card
+2024-12-06,Beard trim,20.59,Carlos,Mobile
+2024-12-06,Beard trim,20.09,Diana,Mobile
+2024-12-06,Beard trim,22.69,Carlos,Card
+2024-12-07,Haircut,44.25,Diana,Mobile
+2024-12-07,Highlights,153.66,Carlos,Card
+2024-12-07,Haircut,42.92,Carlos,Card
+2024-12-07,Haircut,39.91,Esi,Card
+2024-12-07,Highlights,137.64,Aisha,Card
+2024-12-07,Blow dry,32.88,Diana,Cash
+2024-12-07,Color,109.4,Esi,Card
+2024-12-07,Treatment,62.77,Esi,Card
+2024-12-07,Beard trim,18.1,Diana,Card
+2024-12-07,Highlights,140.32,Bianca,Card
+2024-12-07,Highlights,161.54,Aisha,Card
+2024-12-07,Beard trim,22.68,Diana,Mobile
+2024-12-07,Haircut,36.21,Carlos,Cash
+2024-12-07,Product - shampoo,20.63,Aisha,Card
+2024-12-07,Beard trim,19.48,Aisha,Card
+2024-12-07,Treatment,58.83,Aisha,Card
+2024-12-07,Beard trim,22.99,Esi,Card
+2024-12-07,Color,108.05,Diana,Card
+2024-12-07,Treatment,56.98,Diana,Mobile
+2024-12-07,Highlights,146.65,Bianca,Card
+2024-12-07,Haircut,36.95,Carlos,Card
+2024-12-07,Beard trim,22.19,Carlos,Card
+2024-12-07,Beard trim,22.14,Esi,Card
+2024-12-07,Haircut,39.42,Carlos,Card
+2024-12-07,Beard trim,18.78,Aisha,Card
+2024-12-07,Highlights,145.87,Carlos,Card
+2024-12-09,Beard trim,21.36,Diana,Card
+2024-12-09,Haircut,41.68,Diana,Mobile
+2024-12-09,Haircut,40.24,Carlos,Card
+2024-12-09,Blow dry,37.44,Diana,Card
+2024-12-09,Blow dry,33.34,Diana,Card
+2024-12-09,Product - shampoo,24.97,Aisha,Card
+2024-12-09,Product - styling,20.07,Esi,Mobile
+2024-12-09,Haircut,41.45,Esi,Card
+2024-12-09,Product - shampoo,24.17,Bianca,Card
+2024-12-09,Beard trim,21.59,Diana,Card
+2024-12-09,Blow dry,33.2,Esi,Cash
+2024-12-09,Beard trim,19.09,Diana,Card
+2024-12-09,Highlights,148.65,Diana,Card
+2024-12-09,Color,112.38,Bianca,Cash
+2024-12-09,Haircut,36.41,Esi,Mobile
+2024-12-09,Beard trim,21.25,Carlos,Card
+2024-12-09,Blow dry,33.21,Diana,Mobile
+2024-12-10,Haircut,36.05,Aisha,Mobile
+2024-12-10,Haircut,38.23,Diana,Card
+2024-12-10,Product - styling,17.96,Bianca,Card
+2024-12-10,Treatment,58.33,Carlos,Cash
+2024-12-10,Color,122.32,Aisha,Cash
+2024-12-10,Product - styling,19.76,Esi,Mobile
+2024-12-11,Beard trim,19.5,Bianca,Card
+2024-12-11,Product - shampoo,24.13,Carlos,Card
+2024-12-11,Treatment,63.63,Diana,Cash
+2024-12-11,Product - styling,19.61,Esi,Card
+2024-12-11,Haircut,41.42,Carlos,Card
+2024-12-11,Blow dry,40.14,Bianca,Card
+2024-12-11,Haircut,41.86,Aisha,Mobile
+2024-12-12,Beard trim,21.37,Diana,Card
+2024-12-12,Blow dry,35.17,Esi,Card
+2024-12-12,Color,105.51,Diana,Mobile
+2024-12-12,Haircut,44.25,Bianca,Card
+2024-12-12,Product - styling,19.75,Bianca,Card
+2024-12-12,Treatment,58.66,Carlos,Card
+2024-12-12,Haircut,37.07,Carlos,Card
+2024-12-12,Blow dry,39.72,Bianca,Card
+2024-12-12,Haircut,39.73,Carlos,Card
+2024-12-12,Treatment,62.02,Carlos,Card
+2024-12-12,Color,112.7,Aisha,Cash
+2024-12-12,Treatment,58.8,Carlos,Card
+2024-12-12,Haircut,37.56,Aisha,Cash
+2024-12-12,Color,118.61,Aisha,Card
+2024-12-12,Product - shampoo,19.99,Diana,Mobile
+2024-12-12,Color,112.88,Diana,Card
+2024-12-12,Product - shampoo,24.16,Diana,Mobile
+2024-12-12,Beard trim,22.82,Carlos,Card
+2024-12-12,Highlights,150.07,Bianca,Card
+2024-12-13,Color,120.71,Bianca,Card
+2024-12-13,Haircut,37.1,Esi,Cash
+2024-12-13,Haircut,40.86,Bianca,Cash
+2024-12-13,Beard trim,21.39,Bianca,Card
+2024-12-13,Haircut,39.03,Carlos,Card
+2024-12-13,Color,111.57,Bianca,Card
+2024-12-13,Blow dry,35.79,Diana,Mobile
+2024-12-13,Haircut,44.45,Carlos,Mobile
+2024-12-13,Highlights,136.95,Esi,Card
+2024-12-13,Treatment,64.82,Carlos,Card
+2024-12-13,Haircut,41.98,Aisha,Cash
+2024-12-13,Highlights,148.55,Aisha,Mobile
+2024-12-13,Product - shampoo,20.2,Esi,Card
+2024-12-13,Product - styling,20.5,Diana,Card
+2024-12-13,Product - styling,16.66,Esi,Card
+2024-12-13,Haircut,44.6,Aisha,Card
+2024-12-13,Product - shampoo,24.91,Aisha,Card
+2024-12-13,Highlights,136.96,Esi,Card
+2024-12-13,Haircut,37.89,Bianca,Card
+2024-12-13,Treatment,62.35,Aisha,Cash
+2024-12-14,Haircut,39.33,Bianca,Card
+2024-12-14,Haircut,36.28,Bianca,Cash
+2024-12-14,Product - styling,17.62,Carlos,Card
+2024-12-14,Highlights,167.25,Carlos,Card
+2024-12-14,Haircut,36.57,Bianca,Card
+2024-12-14,Product - styling,20.69,Bianca,Card
+2024-12-14,Beard trim,22.38,Carlos,Mobile
+2024-12-14,Haircut,45.65,Aisha,Cash
+2024-12-14,Beard trim,21.78,Diana,Cash
+2024-12-14,Blow dry,36.34,Aisha,Card
+2024-12-14,Treatment,60.55,Esi,Card
+2024-12-14,Treatment,59.7,Carlos,Card
+2024-12-14,Haircut,38.04,Bianca,Cash
+2024-12-14,Color,108.69,Bianca,Card
+2024-12-14,Highlights,138.95,Carlos,Card
+2024-12-14,Haircut,45.49,Diana,Mobile
+2024-12-14,Haircut,36.47,Carlos,Card
+2024-12-14,Beard trim,18.67,Aisha,Card
+2024-12-14,Color,120.18,Aisha,Card
+2024-12-14,Blow dry,39.76,Diana,Mobile
+2024-12-14,Beard trim,21.64,Aisha,Card
+2024-12-16,Beard trim,18.97,Aisha,Card
+2024-12-16,Haircut,41.44,Aisha,Card
+2024-12-16,Treatment,60.23,Diana,Card
+2024-12-16,Haircut,40.27,Esi,Mobile
+2024-12-16,Product - shampoo,24.71,Carlos,Card
+2024-12-16,Haircut,42.65,Aisha,Cash
+2024-12-16,Blow dry,38.69,Bianca,Mobile
+2024-12-16,Product - styling,19.2,Aisha,Card
+2024-12-17,Color,124.77,Carlos,Card
+2024-12-17,Highlights,153.88,Aisha,Card
+2024-12-17,Treatment,66.97,Diana,Mobile
+2024-12-17,Product - shampoo,21.44,Bianca,Mobile
+2024-12-17,Blow dry,31.88,Bianca,Card
+2024-12-17,Beard trim,18.58,Carlos,Cash
+2024-12-17,Color,121.63,Aisha,Card
+2024-12-17,Highlights,139.34,Esi,Card
+2024-12-17,Blow dry,38.16,Aisha,Card
+2024-12-17,Haircut,43.54,Aisha,Cash
+2024-12-17,Haircut,45.58,Carlos,Card
+2024-12-17,Beard trim,20.68,Diana,Card
+2024-12-17,Highlights,150.34,Bianca,Card
+2024-12-17,Haircut,42.57,Bianca,Mobile
+2024-12-17,Highlights,138.71,Aisha,Cash
+2024-12-18,Highlights,162.33,Bianca,Mobile
+2024-12-18,Beard trim,18.99,Esi,Mobile
+2024-12-18,Color,119.92,Esi,Card
+2024-12-18,Color,122.88,Bianca,Card
+2024-12-18,Color,122.67,Esi,Card
+2024-12-18,Blow dry,39.39,Aisha,Card
+2024-12-18,Blow dry,38.33,Carlos,Card
+2024-12-18,Highlights,136.96,Aisha,Card
+2024-12-18,Beard trim,18.99,Carlos,Cash
+2024-12-18,Haircut,39.18,Esi,Mobile
+2024-12-18,Highlights,166.79,Esi,Card
+2024-12-18,Blow dry,37.64,Diana,Cash
+2024-12-18,Color,119.75,Esi,Card
+2024-12-18,Beard trim,19.38,Bianca,Mobile
+2024-12-18,Highlights,146.38,Aisha,Card
+2024-12-18,Haircut,40.18,Carlos,Card
+2024-12-18,Beard trim,18.9,Diana,Card
+2024-12-18,Haircut,39.49,Esi,Card
+2024-12-18,Color,115.14,Aisha,Mobile
+2024-12-19,Product - shampoo,22.14,Diana,Mobile
+2024-12-19,Beard trim,20.08,Bianca,Mobile
+2024-12-19,Haircut,42.03,Aisha,Cash
+2024-12-19,Beard trim,18.75,Carlos,Card
+2024-12-19,Beard trim,22.29,Aisha,Card
+2024-12-19,Haircut,39.3,Carlos,Card
+2024-12-19,Haircut,37.82,Diana,Mobile
+2024-12-19,Product - shampoo,25.28,Bianca,Card
+2024-12-19,Haircut,44.03,Esi,Card
+2024-12-19,Color,120.94,Esi,Card
+2024-12-19,Highlights,170.29,Bianca,Mobile
+2024-12-19,Treatment,56.03,Esi,Cash
+2024-12-19,Color,117.5,Aisha,Mobile
+2024-12-19,Product - styling,17.99,Diana,Card
+2024-12-19,Haircut,39.28,Esi,Mobile
+2024-12-19,Treatment,55.49,Esi,Card
+2024-12-19,Blow dry,35.06,Diana,Mobile
+2024-12-19,Color,118.68,Diana,Card
+2024-12-19,Beard trim,22.38,Aisha,Card
+2024-12-19,Color,107.32,Bianca,Card
+2024-12-19,Color,105.18,Aisha,Cash
+2024-12-19,Color,115.5,Aisha,Cash
+2024-12-19,Haircut,38.87,Carlos,Card
+2024-12-19,Color,110.45,Bianca,Card
+2024-12-19,Beard trim,20.19,Bianca,Card
+2024-12-19,Haircut,43.08,Bianca,Card
+2024-12-19,Haircut,45.15,Aisha,Cash
+2024-12-20,Treatment,61.03,Aisha,Card
+2024-12-20,Haircut,43.05,Bianca,Card
+2024-12-20,Haircut,38.34,Esi,Mobile
+2024-12-20,Haircut,44.12,Bianca,Card
+2024-12-20,Treatment,58.73,Aisha,Mobile
+2024-12-20,Beard trim,19.75,Diana,Card
+2024-12-20,Blow dry,37.86,Bianca,Card
+2024-12-20,Haircut,39.43,Diana,Mobile
+2024-12-20,Treatment,55.64,Carlos,Card
+2024-12-20,Beard trim,19.49,Bianca,Card
+2024-12-20,Haircut,43.24,Diana,Card
+2024-12-20,Color,100.8,Bianca,Card
+2024-12-20,Beard trim,20.19,Diana,Card
+2024-12-20,Product - shampoo,24.97,Aisha,Card
+2024-12-20,Highlights,168.06,Esi,Mobile
+2024-12-20,Product - styling,16.21,Diana,Mobile
+2024-12-20,Blow dry,31.97,Bianca,Cash
+2024-12-20,Haircut,44.88,Esi,Card
+2024-12-20,Beard trim,22.24,Diana,Cash
+2024-12-21,Beard trim,18.06,Diana,Card
+2024-12-21,Product - styling,16.25,Aisha,Card
+2024-12-21,Beard trim,22.5,Carlos,Card
+2024-12-21,Haircut,36.93,Carlos,Mobile
+2024-12-21,Color,111.23,Aisha,Card
+2024-12-21,Haircut,38.09,Bianca,Card
+2024-12-21,Highlights,149.65,Aisha,Card
+2024-12-21,Treatment,55.91,Aisha,Cash
+2024-12-21,Color,122.54,Carlos,Card
+2024-12-21,Blow dry,34.53,Esi,Card
+2024-12-21,Color,108.46,Esi,Card
+2024-12-21,Color,111.83,Carlos,Mobile
+2024-12-21,Product - shampoo,21.82,Bianca,Card
+2024-12-21,Blow dry,33.86,Carlos,Mobile
+2024-12-21,Product - styling,18.75,Carlos,Cash
+2024-12-21,Blow dry,39.65,Bianca,Cash
+2024-12-21,Blow dry,36.91,Bianca,Card
+2024-12-21,Treatment,63.6,Aisha,Card
+2024-12-21,Highlights,143.74,Carlos,Card
+2024-12-21,Product - styling,19.68,Aisha,Card
+2024-12-23,Color,125.27,Diana,Card
+2024-12-23,Blow dry,34.11,Carlos,Cash
+2024-12-23,Treatment,62.92,Diana,Card
+2024-12-23,Treatment,54.32,Diana,Card
+2024-12-23,Highlights,158.15,Carlos,Mobile
+2024-12-23,Beard trim,20.02,Aisha,Card
+2024-12-23,Haircut,40.45,Diana,Card
+2024-12-23,Blow dry,34.06,Aisha,Card
+2024-12-23,Highlights,163.41,Diana,Card
+2024-12-23,Beard trim,18.3,Esi,Cash
+2024-12-23,Beard trim,19.49,Bianca,Card
+2024-12-23,Haircut,38.96,Aisha,Card
+2024-12-23,Haircut,38.13,Aisha,Card
+2024-12-23,Haircut,43.45,Bianca,Card
+2024-12-23,Beard trim,18.27,Diana,Mobile
+2024-12-24,Haircut,36.75,Carlos,Card
+2024-12-24,Beard trim,20.99,Aisha,Card
+2024-12-24,Beard trim,18.05,Diana,Card
+2024-12-24,Beard trim,18.66,Esi,Card
+2024-12-24,Beard trim,20.67,Carlos,Cash
+2024-12-24,Haircut,43.04,Bianca,Mobile
+2024-12-24,Haircut,38.9,Aisha,Mobile
+2024-12-24,Product - styling,19.57,Bianca,Mobile
+2024-12-24,Color,118.25,Bianca,Card
+2024-12-24,Treatment,65.92,Aisha,Card
+2024-12-24,Haircut,44.2,Carlos,Card
+2024-12-25,Beard trim,19.11,Carlos,Card
+2024-12-25,Beard trim,20.19,Bianca,Card
+2024-12-25,Haircut,43.0,Aisha,Cash
+2024-12-25,Haircut,37.22,Aisha,Cash
+2024-12-25,Beard trim,20.74,Aisha,Card
+2024-12-25,Beard trim,22.14,Esi,Cash
+2024-12-25,Haircut,36.61,Esi,Card
+2024-12-25,Highlights,169.47,Diana,Card
+2024-12-25,Haircut,45.51,Carlos,Mobile
+2024-12-25,Highlights,140.83,Diana,Cash
+2024-12-25,Highlights,149.53,Carlos,Card
+2024-12-25,Highlights,168.61,Bianca,Card
+2024-12-25,Color,116.22,Carlos,Card
+2024-12-25,Highlights,148.44,Bianca,Card
+2024-12-25,Treatment,68.11,Carlos,Cash
+2024-12-26,Blow dry,39.74,Esi,Cash
+2024-12-26,Beard trim,19.31,Diana,Cash
+2024-12-26,Haircut,39.94,Carlos,Card
+2024-12-26,Product - shampoo,25.27,Diana,Card
+2024-12-26,Blow dry,33.83,Bianca,Mobile
+2024-12-26,Color,111.2,Bianca,Card
+2024-12-26,Product - styling,20.61,Aisha,Card
+2024-12-26,Blow dry,31.8,Carlos,Cash
+2024-12-26,Blow dry,35.19,Esi,Card
+2024-12-26,Beard trim,20.87,Diana,Cash
+2024-12-26,Haircut,39.64,Carlos,Card
+2024-12-26,Highlights,152.39,Diana,Cash
+2024-12-26,Beard trim,18.33,Bianca,Mobile
+2024-12-26,Beard trim,18.2,Diana,Mobile
+2024-12-26,Color,107.71,Bianca,Card
+2024-12-26,Color,113.57,Carlos,Cash
+2024-12-27,Highlights,162.0,Aisha,Card
+2024-12-27,Highlights,162.83,Diana,Mobile
+2024-12-27,Haircut,40.55,Esi,Mobile
+2024-12-27,Blow dry,37.85,Bianca,Cash
+2024-12-27,Haircut,43.14,Carlos,Card
+2024-12-27,Blow dry,38.28,Aisha,Card
+2024-12-27,Treatment,61.85,Bianca,Card
+2024-12-27,Color,114.25,Esi,Cash
+2024-12-27,Color,103.84,Carlos,Card
+2024-12-27,Haircut,38.95,Carlos,Mobile
+2024-12-27,Haircut,40.27,Bianca,Card
+2024-12-27,Haircut,42.66,Bianca,Card
+2024-12-27,Product - styling,18.67,Esi,Card
+2024-12-27,Haircut,43.32,Esi,Card
+2024-12-27,Haircut,44.7,Esi,Cash
+2024-12-27,Beard trim,21.94,Carlos,Card
+2024-12-27,Haircut,38.3,Esi,Card
+2024-12-27,Highlights,154.92,Bianca,Card
+2024-12-27,Highlights,145.78,Aisha,Card
+2024-12-27,Color,104.86,Diana,Card
+2024-12-27,Color,112.27,Bianca,Card
+2024-12-27,Haircut,39.24,Carlos,Card
+2024-12-27,Color,113.88,Bianca,Card
+2024-12-27,Color,123.07,Carlos,Card
+2024-12-28,Haircut,37.3,Esi,Mobile
+2024-12-28,Color,118.58,Bianca,Mobile
+2024-12-28,Blow dry,35.15,Bianca,Cash
+2024-12-28,Haircut,44.0,Esi,Card
+2024-12-28,Product - shampoo,20.12,Esi,Cash
+2024-12-28,Color,111.57,Aisha,Mobile
+2024-12-28,Haircut,44.52,Diana,Cash
+2024-12-28,Haircut,40.18,Bianca,Card
+2024-12-28,Product - shampoo,20.65,Bianca,Cash
+2024-12-28,Haircut,41.6,Bianca,Card
+2024-12-28,Haircut,43.16,Esi,Card
+2024-12-28,Color,111.01,Aisha,Cash
+2024-12-28,Haircut,44.71,Carlos,Card
+2024-12-28,Product - shampoo,24.38,Bianca,Card
+2024-12-28,Haircut,43.59,Carlos,Cash
+2024-12-28,Highlights,154.31,Esi,Card
+2024-12-28,Haircut,38.59,Carlos,Cash
+2024-12-28,Haircut,40.7,Carlos,Card
+2024-12-28,Treatment,61.34,Carlos,Card
+2024-12-28,Haircut,42.67,Diana,Card
+2024-12-28,Highlights,159.31,Diana,Card
+2024-12-28,Color,115.1,Bianca,Card
+2024-12-28,Product - styling,16.38,Esi,Card
+2024-12-28,Blow dry,31.88,Aisha,Card
+2024-12-28,Color,103.06,Esi,Card
+2024-12-28,Blow dry,36.97,Carlos,Mobile
+2024-12-28,Treatment,60.15,Aisha,Mobile
+2024-12-30,Product - shampoo,23.05,Carlos,Mobile
+2024-12-30,Color,120.48,Esi,Card
+2024-12-30,Haircut,45.27,Diana,Mobile
+2024-12-30,Blow dry,39.77,Carlos,Card
+2024-12-30,Blow dry,36.9,Diana,Cash
+2024-12-30,Highlights,151.19,Esi,Cash
+2024-12-30,Beard trim,18.92,Carlos,Cash
+2024-12-30,Color,113.84,Bianca,Card
+2024-12-30,Haircut,37.49,Esi,Card
+2024-12-30,Blow dry,39.58,Bianca,Card
+2024-12-30,Color,120.64,Diana,Mobile
+2024-12-31,Haircut,42.92,Esi,Card
+2024-12-31,Haircut,45.12,Carlos,Card
+2024-12-31,Color,104.3,Aisha,Card
+2024-12-31,Beard trim,18.46,Esi,Card
+2024-12-31,Beard trim,18.27,Aisha,Card
+2024-12-31,Haircut,44.19,Esi,Card
+2024-12-31,Beard trim,21.17,Diana,Card
+2024-12-31,Color,125.3,Aisha,Card
+2025-01-01,Haircut,42.02,Diana,Mobile
+2025-01-01,Product - shampoo,21.73,Esi,Card
+2025-01-01,Haircut,43.72,Bianca,Card
+2025-01-01,Highlights,164.66,Carlos,Card
+2025-01-01,Color,106.43,Carlos,Card
+2025-01-01,Blow dry,33.92,Bianca,Card
+2025-01-01,Blow dry,34.14,Aisha,Mobile
+2025-01-01,Haircut,44.28,Carlos,Card
+2025-01-01,Haircut,45.37,Diana,Mobile
+2025-01-01,Color,123.99,Carlos,Card
+2025-01-01,Beard trim,19.69,Aisha,Card
+2025-01-01,Beard trim,22.77,Diana,Card
+2025-01-01,Product - shampoo,24.81,Carlos,Mobile
+2025-01-01,Haircut,36.09,Esi,Card
+2025-01-01,Haircut,40.19,Bianca,Card
+2025-01-01,Color,99.41,Diana,Cash
+2025-01-02,Haircut,36.42,Diana,Card
+2025-01-02,Haircut,38.22,Aisha,Cash
+2025-01-02,Beard trim,19.59,Esi,Cash
+2025-01-02,Product - styling,17.71,Aisha,Card
+2025-01-02,Treatment,64.49,Esi,Cash
+2025-01-02,Blow dry,38.84,Carlos,Mobile
+2025-01-02,Blow dry,39.83,Esi,Card
+2025-01-02,Color,116.88,Carlos,Card
+2025-01-02,Beard trim,19.92,Diana,Card
+2025-01-02,Color,113.21,Aisha,Mobile
+2025-01-02,Haircut,39.29,Carlos,Card
+2025-01-02,Haircut,41.32,Diana,Mobile
+2025-01-03,Product - styling,18.74,Aisha,Mobile
+2025-01-03,Highlights,159.76,Esi,Mobile
+2025-01-03,Color,104.09,Bianca,Cash
+2025-01-03,Haircut,38.84,Aisha,Mobile
+2025-01-03,Color,114.76,Aisha,Cash
+2025-01-03,Beard trim,20.26,Esi,Card
+2025-01-03,Color,120.85,Esi,Card
+2025-01-03,Product - shampoo,24.07,Bianca,Card
+2025-01-03,Color,105.16,Aisha,Card
+2025-01-03,Haircut,38.51,Diana,Card
+2025-01-03,Treatment,58.57,Carlos,Cash
+2025-01-03,Product - styling,17.63,Aisha,Cash
+2025-01-03,Haircut,36.05,Carlos,Mobile
+2025-01-03,Blow dry,39.32,Aisha,Cash
+2025-01-03,Haircut,44.89,Esi,Card
+2025-01-03,Color,100.98,Aisha,Cash
+2025-01-03,Treatment,62.84,Esi,Mobile
+2025-01-03,Treatment,54.04,Carlos,Card
+2025-01-04,Beard trim,21.39,Diana,Cash
+2025-01-04,Color,116.22,Diana,Mobile
+2025-01-04,Blow dry,36.62,Carlos,Card
+2025-01-04,Product - styling,20.04,Esi,Cash
+2025-01-04,Product - styling,17.57,Diana,Cash
+2025-01-04,Blow dry,34.16,Bianca,Card
+2025-01-04,Product - shampoo,20.75,Bianca,Card
+2025-01-04,Treatment,62.42,Aisha,Card
+2025-01-04,Product - styling,19.75,Bianca,Cash
+2025-01-04,Haircut,37.7,Aisha,Mobile
+2025-01-04,Color,115.19,Esi,Card
+2025-01-04,Haircut,44.06,Esi,Card
+2025-01-04,Beard trim,20.23,Carlos,Card
+2025-01-04,Haircut,42.46,Esi,Card
+2025-01-04,Color,108.13,Bianca,Card
+2025-01-04,Beard trim,20.0,Carlos,Card
+2025-01-04,Haircut,36.79,Diana,Mobile
+2025-01-06,Beard trim,18.43,Carlos,Card
+2025-01-06,Product - shampoo,21.69,Aisha,Cash
+2025-01-06,Blow dry,33.81,Aisha,Cash
+2025-01-06,Blow dry,39.66,Esi,Mobile
+2025-01-06,Beard trim,18.29,Carlos,Cash
+2025-01-06,Blow dry,35.14,Bianca,Card
+2025-01-06,Haircut,44.66,Carlos,Card
+2025-01-06,Highlights,167.72,Bianca,Card
+2025-01-06,Blow dry,33.54,Aisha,Card
+2025-01-06,Color,112.96,Carlos,Card
+2025-01-06,Color,125.22,Esi,Mobile
+2025-01-06,Highlights,159.77,Diana,Card
+2025-01-07,Haircut,39.6,Bianca,Cash
+2025-01-07,Haircut,37.94,Aisha,Card
+2025-01-07,Product - styling,19.89,Esi,Cash
+2025-01-07,Beard trim,21.44,Diana,Card
+2025-01-07,Blow dry,32.62,Bianca,Card
+2025-01-07,Haircut,44.78,Carlos,Cash
+2025-01-07,Haircut,40.27,Esi,Card
+2025-01-07,Product - shampoo,24.08,Bianca,Cash
+2025-01-07,Highlights,166.27,Aisha,Cash
+2025-01-07,Product - styling,19.49,Aisha,Mobile
+2025-01-07,Haircut,43.42,Esi,Card
+2025-01-07,Haircut,37.85,Carlos,Cash
+2025-01-07,Haircut,43.42,Carlos,Card
+2025-01-07,Blow dry,32.6,Diana,Card
+2025-01-07,Treatment,68.5,Aisha,Cash
+2025-01-08,Product - styling,18.24,Esi,Card
+2025-01-08,Product - shampoo,24.79,Carlos,Card
+2025-01-08,Haircut,40.33,Carlos,Card
+2025-01-08,Color,121.26,Esi,Mobile
+2025-01-08,Haircut,38.99,Carlos,Card
+2025-01-08,Beard trim,20.32,Esi,Mobile
+2025-01-08,Product - shampoo,20.55,Esi,Card
+2025-01-08,Product - styling,19.29,Esi,Card
+2025-01-08,Color,118.39,Bianca,Card
+2025-01-09,Haircut,36.45,Carlos,Card
+2025-01-09,Haircut,37.54,Esi,Card
+2025-01-09,Product - styling,16.28,Aisha,Card
+2025-01-09,Beard trim,21.3,Esi,Cash
+2025-01-09,Haircut,42.74,Esi,Mobile
+2025-01-09,Product - styling,18.52,Carlos,Cash
+2025-01-09,Product - shampoo,23.23,Carlos,Card
+2025-01-09,Beard trim,18.76,Bianca,Card
+2025-01-09,Beard trim,22.99,Diana,Cash
+2025-01-09,Beard trim,20.09,Diana,Card
+2025-01-09,Blow dry,35.56,Carlos,Cash
+2025-01-09,Color,101.87,Diana,Card
+2025-01-09,Haircut,39.99,Esi,Card
+2025-01-09,Beard trim,20.18,Carlos,Card
+2025-01-09,Product - shampoo,21.02,Bianca,Card
+2025-01-09,Highlights,159.02,Aisha,Card
+2025-01-10,Haircut,41.51,Esi,Card
+2025-01-10,Haircut,36.87,Esi,Card
+2025-01-10,Color,115.87,Diana,Cash
+2025-01-10,Product - shampoo,21.68,Bianca,Mobile
+2025-01-10,Product - styling,20.31,Carlos,Card
+2025-01-10,Blow dry,37.38,Carlos,Card
+2025-01-10,Product - styling,18.28,Esi,Card
+2025-01-10,Color,111.28,Aisha,Card
+2025-01-10,Color,114.58,Aisha,Mobile
+2025-01-10,Beard trim,20.57,Diana,Card
+2025-01-10,Beard trim,20.11,Bianca,Cash
+2025-01-10,Haircut,41.69,Esi,Card
+2025-01-10,Color,111.8,Bianca,Cash
+2025-01-10,Haircut,39.41,Aisha,Card
+2025-01-10,Color,110.98,Aisha,Cash
+2025-01-11,Haircut,39.2,Diana,Card
+2025-01-11,Color,107.96,Aisha,Card
+2025-01-11,Treatment,62.3,Diana,Card
+2025-01-11,Haircut,36.88,Carlos,Mobile
+2025-01-11,Haircut,43.44,Esi,Cash
+2025-01-11,Haircut,37.21,Aisha,Card
+2025-01-11,Blow dry,38.18,Carlos,Card
+2025-01-11,Color,124.6,Carlos,Card
+2025-01-11,Color,114.42,Esi,Cash
+2025-01-11,Product - styling,18.54,Esi,Card
+2025-01-11,Color,121.83,Aisha,Card
+2025-01-11,Color,118.2,Esi,Card
+2025-01-11,Treatment,68.7,Carlos,Card
+2025-01-11,Product - shampoo,19.81,Bianca,Card
+2025-01-11,Haircut,45.9,Aisha,Card
+2025-01-11,Treatment,57.35,Bianca,Mobile
+2025-01-13,Beard trim,20.64,Aisha,Card
+2025-01-13,Haircut,45.53,Bianca,Card
+2025-01-13,Haircut,42.06,Diana,Card
+2025-01-13,Color,113.72,Aisha,Card
+2025-01-13,Beard trim,20.08,Aisha,Mobile
+2025-01-13,Treatment,56.79,Aisha,Cash
+2025-01-13,Haircut,36.79,Carlos,Mobile
+2025-01-13,Blow dry,37.24,Carlos,Mobile
+2025-01-13,Color,104.7,Diana,Card
+2025-01-14,Treatment,67.0,Diana,Mobile
+2025-01-14,Haircut,41.17,Aisha,Card
+2025-01-14,Product - shampoo,21.07,Aisha,Mobile
+2025-01-14,Product - styling,18.25,Esi,Card
+2025-01-14,Color,106.93,Esi,Card
+2025-01-14,Product - styling,16.45,Diana,Card
+2025-01-14,Haircut,40.47,Aisha,Card
+2025-01-14,Product - styling,17.29,Aisha,Card
+2025-01-14,Haircut,38.36,Diana,Card
+2025-01-14,Haircut,45.31,Bianca,Card
+2025-01-14,Product - styling,18.15,Esi,Card
+2025-01-14,Blow dry,32.28,Esi,Card
+2025-01-14,Treatment,65.02,Bianca,Cash
+2025-01-14,Color,113.0,Aisha,Card
+2025-01-14,Beard trim,18.51,Esi,Card
+2025-01-15,Haircut,37.63,Aisha,Mobile
+2025-01-15,Product - shampoo,23.64,Esi,Card
+2025-01-15,Product - shampoo,20.15,Diana,Card
+2025-01-15,Haircut,41.96,Diana,Cash
+2025-01-15,Beard trim,18.81,Esi,Card
+2025-01-15,Beard trim,18.26,Bianca,Card
+2025-01-15,Beard trim,19.13,Carlos,Card
+2025-01-15,Haircut,37.4,Carlos,Card
+2025-01-16,Beard trim,19.52,Bianca,Card
+2025-01-16,Blow dry,33.66,Diana,Cash
+2025-01-16,Haircut,44.51,Esi,Cash
+2025-01-16,Haircut,37.74,Carlos,Card
+2025-01-16,Haircut,41.29,Bianca,Card
+2025-01-16,Blow dry,34.08,Bianca,Card
+2025-01-16,Haircut,36.42,Bianca,Mobile
+2025-01-16,Haircut,41.0,Bianca,Card
+2025-01-16,Color,123.7,Aisha,Card
+2025-01-16,Haircut,45.79,Bianca,Mobile
+2025-01-16,Beard trim,22.8,Carlos,Card
+2025-01-16,Blow dry,39.98,Diana,Mobile
+2025-01-16,Color,112.06,Bianca,Card
+2025-01-16,Blow dry,39.22,Carlos,Card
+2025-01-16,Highlights,158.62,Carlos,Mobile
+2025-01-16,Treatment,63.73,Diana,Card
+2025-01-16,Haircut,43.85,Diana,Cash
+2025-01-17,Color,105.05,Aisha,Cash
+2025-01-17,Treatment,68.49,Bianca,Card
+2025-01-17,Haircut,43.56,Carlos,Mobile
+2025-01-17,Haircut,37.71,Carlos,Mobile
+2025-01-17,Highlights,147.38,Bianca,Card
+2025-01-17,Highlights,153.94,Esi,Cash
+2025-01-17,Color,112.78,Aisha,Card
+2025-01-17,Color,112.9,Aisha,Card
+2025-01-17,Highlights,166.52,Esi,Cash
+2025-01-17,Blow dry,35.85,Aisha,Cash
+2025-01-17,Product - shampoo,21.5,Diana,Cash
+2025-01-17,Color,116.46,Bianca,Cash
+2025-01-17,Haircut,37.64,Diana,Cash
+2025-01-17,Blow dry,34.42,Carlos,Card
+2025-01-17,Haircut,42.63,Diana,Card
+2025-01-17,Haircut,40.84,Carlos,Card
+2025-01-17,Haircut,40.5,Carlos,Mobile
+2025-01-17,Product - styling,17.96,Bianca,Cash
+2025-01-17,Product - styling,19.52,Bianca,Cash
+2025-01-17,Haircut,43.11,Esi,Mobile
+2025-01-18,Color,103.71,Esi,Card
+2025-01-18,Blow dry,35.93,Diana,Cash
+2025-01-18,Blow dry,32.03,Aisha,Card
+2025-01-18,Product - shampoo,23.17,Aisha,Card
+2025-01-18,Haircut,36.24,Esi,Card
+2025-01-18,Haircut,45.62,Bianca,Card
+2025-01-18,Beard trim,18.65,Bianca,Cash
+2025-01-18,Highlights,151.9,Aisha,Card
+2025-01-18,Color,115.15,Diana,Cash
+2025-01-18,Color,115.28,Esi,Card
+2025-01-18,Haircut,40.5,Bianca,Mobile
+2025-01-18,Product - styling,20.07,Diana,Card
+2025-01-18,Product - shampoo,24.8,Esi,Cash
+2025-01-18,Blow dry,35.98,Aisha,Mobile
+2025-01-18,Product - shampoo,23.11,Bianca,Card
+2025-01-18,Haircut,43.61,Diana,Card
+2025-01-18,Highlights,147.83,Bianca,Cash
+2025-01-18,Treatment,63.86,Bianca,Card
+2025-01-18,Haircut,42.4,Carlos,Card
+2025-01-18,Beard trim,22.2,Esi,Cash
+2025-01-18,Beard trim,19.64,Carlos,Card
+2025-01-18,Haircut,39.04,Bianca,Cash
+2025-01-18,Highlights,149.98,Carlos,Card
+2025-01-18,Haircut,41.82,Carlos,Cash
+2025-01-20,Beard trim,18.34,Carlos,Card
+2025-01-20,Blow dry,38.27,Bianca,Mobile
+2025-01-20,Blow dry,39.5,Aisha,Mobile
+2025-01-20,Beard trim,19.9,Bianca,Card
+2025-01-20,Product - shampoo,23.45,Carlos,Cash
+2025-01-20,Haircut,42.49,Aisha,Cash
+2025-01-21,Haircut,41.59,Bianca,Card
+2025-01-21,Haircut,43.99,Bianca,Card
+2025-01-21,Blow dry,32.72,Esi,Mobile
+2025-01-21,Blow dry,33.14,Aisha,Cash
+2025-01-21,Haircut,45.72,Carlos,Mobile
+2025-01-21,Haircut,41.25,Aisha,Card
+2025-01-21,Color,99.82,Diana,Card
+2025-01-21,Haircut,45.54,Aisha,Card
+2025-01-22,Product - styling,19.34,Bianca,Card
+2025-01-22,Product - shampoo,23.08,Aisha,Card
+2025-01-22,Beard trim,20.04,Diana,Card
+2025-01-22,Product - shampoo,23.4,Bianca,Mobile
+2025-01-22,Treatment,62.15,Diana,Card
+2025-01-22,Beard trim,22.57,Bianca,Cash
+2025-01-22,Product - styling,18.36,Bianca,Card
+2025-01-22,Product - shampoo,20.19,Bianca,Card
+2025-01-22,Haircut,37.37,Diana,Mobile
+2025-01-22,Beard trim,22.14,Bianca,Cash
+2025-01-22,Product - shampoo,22.97,Esi,Mobile
+2025-01-22,Beard trim,22.04,Bianca,Card
+2025-01-22,Beard trim,21.64,Esi,Mobile
+2025-01-22,Product - shampoo,23.51,Carlos,Cash
+2025-01-22,Highlights,146.31,Aisha,Cash
+2025-01-22,Blow dry,36.58,Aisha,Card
+2025-01-22,Haircut,37.18,Aisha,Card
+2025-01-22,Beard trim,21.89,Esi,Mobile
+2025-01-22,Treatment,68.12,Carlos,Cash
+2025-01-22,Blow dry,36.38,Esi,Card
+2025-01-23,Color,107.45,Carlos,Cash
+2025-01-23,Product - shampoo,19.85,Diana,Card
+2025-01-23,Haircut,44.14,Aisha,Card
+2025-01-23,Haircut,44.07,Aisha,Card
+2025-01-23,Haircut,44.57,Carlos,Card
+2025-01-23,Haircut,38.14,Aisha,Card
+2025-01-23,Haircut,39.1,Bianca,Card
+2025-01-24,Haircut,42.17,Carlos,Card
+2025-01-24,Haircut,39.26,Diana,Card
+2025-01-24,Beard trim,21.47,Bianca,Cash
+2025-01-24,Blow dry,36.17,Esi,Card
+2025-01-24,Haircut,38.84,Esi,Card
+2025-01-24,Color,112.3,Diana,Mobile
+2025-01-24,Treatment,63.3,Esi,Mobile
+2025-01-24,Haircut,41.03,Diana,Cash
+2025-01-24,Highlights,170.21,Aisha,Card
+2025-01-24,Blow dry,38.48,Diana,Mobile
+2025-01-24,Haircut,42.64,Aisha,Card
+2025-01-24,Blow dry,32.8,Aisha,Card
+2025-01-24,Treatment,62.63,Esi,Card
+2025-01-24,Treatment,58.52,Aisha,Card
+2025-01-25,Blow dry,33.48,Carlos,Card
+2025-01-25,Haircut,43.81,Aisha,Card
+2025-01-25,Blow dry,33.02,Esi,Card
+2025-01-25,Treatment,65.76,Esi,Cash
+2025-01-25,Highlights,140.72,Aisha,Card
+2025-01-25,Haircut,40.0,Carlos,Cash
+2025-01-25,Product - shampoo,21.29,Bianca,Mobile
+2025-01-25,Haircut,39.3,Aisha,Card
+2025-01-25,Product - styling,18.79,Diana,Cash
+2025-01-25,Haircut,45.12,Bianca,Cash
+2025-01-25,Beard trim,19.02,Carlos,Card
+2025-01-25,Haircut,41.35,Carlos,Mobile
+2025-01-25,Blow dry,37.76,Bianca,Card
+2025-01-25,Haircut,41.15,Diana,Card
+2025-01-25,Product - shampoo,24.66,Esi,Card
+2025-01-25,Product - styling,16.33,Esi,Mobile
+2025-01-25,Haircut,37.24,Esi,Card
+2025-01-25,Highlights,141.24,Esi,Card
+2025-01-25,Highlights,135.09,Esi,Card
+2025-01-25,Haircut,38.34,Carlos,Card
+2025-01-25,Color,116.7,Diana,Card
+2025-01-25,Product - shampoo,20.65,Diana,Mobile
+2025-01-27,Color,106.07,Esi,Mobile
+2025-01-27,Haircut,39.99,Bianca,Card
+2025-01-27,Color,107.19,Carlos,Card
+2025-01-27,Highlights,150.51,Bianca,Cash
+2025-01-27,Haircut,37.72,Carlos,Card
+2025-01-27,Color,109.53,Diana,Card
+2025-01-27,Treatment,58.78,Aisha,Card
+2025-01-27,Highlights,160.45,Diana,Card
+2025-01-27,Highlights,135.79,Aisha,Mobile
+2025-01-28,Haircut,40.52,Esi,Card
+2025-01-28,Highlights,139.79,Esi,Cash
+2025-01-28,Blow dry,37.72,Esi,Card
+2025-01-28,Highlights,164.15,Diana,Card
+2025-01-28,Product - shampoo,21.3,Diana,Card
+2025-01-28,Beard trim,18.43,Bianca,Card
+2025-01-29,Blow dry,36.45,Aisha,Card
+2025-01-29,Product - shampoo,24.32,Esi,Card
+2025-01-29,Product - styling,18.64,Carlos,Card
+2025-01-29,Treatment,55.75,Esi,Card
+2025-01-29,Haircut,39.95,Carlos,Cash
+2025-01-29,Haircut,44.88,Bianca,Cash
+2025-01-29,Product - styling,19.31,Esi,Cash
+2025-01-29,Product - styling,18.65,Bianca,Cash
+2025-01-29,Haircut,40.17,Bianca,Card
+2025-01-29,Beard trim,19.2,Carlos,Card
+2025-01-29,Color,103.66,Aisha,Card
+2025-01-29,Haircut,36.05,Carlos,Card
+2025-01-29,Color,104.48,Esi,Card
+2025-01-29,Treatment,62.15,Esi,Card
+2025-01-29,Blow dry,34.53,Bianca,Cash
+2025-01-29,Blow dry,35.11,Diana,Card
+2025-01-30,Haircut,40.81,Diana,Mobile
+2025-01-30,Beard trim,20.24,Bianca,Card
+2025-01-30,Haircut,42.93,Carlos,Card
+2025-01-30,Haircut,37.99,Esi,Card
+2025-01-30,Highlights,166.77,Diana,Cash
+2025-01-30,Haircut,37.71,Bianca,Card
+2025-01-30,Blow dry,39.69,Diana,Card
+2025-01-30,Color,125.33,Carlos,Cash
+2025-01-30,Beard trim,19.93,Bianca,Mobile
+2025-01-30,Blow dry,39.23,Bianca,Card
+2025-01-30,Haircut,37.79,Carlos,Cash
+2025-01-30,Product - styling,20.43,Carlos,Card
+2025-01-30,Highlights,141.97,Diana,Mobile
+2025-01-30,Color,105.39,Esi,Mobile
+2025-01-30,Product - shampoo,23.17,Bianca,Mobile
+2025-01-30,Haircut,38.24,Carlos,Card
+2025-01-30,Treatment,60.64,Diana,Card
+2025-01-30,Highlights,154.51,Diana,Card
+2025-01-31,Color,117.59,Esi,Cash
+2025-01-31,Color,109.36,Bianca,Card
+2025-01-31,Beard trim,18.03,Aisha,Cash
+2025-01-31,Treatment,57.9,Carlos,Cash
+2025-01-31,Haircut,41.85,Esi,Card
+2025-01-31,Color,106.45,Carlos,Card
+2025-01-31,Haircut,44.13,Diana,Card
+2025-01-31,Beard trim,20.75,Bianca,Card
+2025-01-31,Haircut,42.7,Diana,Mobile
+2025-01-31,Haircut,38.59,Aisha,Cash
+2025-01-31,Haircut,39.87,Diana,Mobile
+2025-01-31,Blow dry,40.18,Bianca,Card
+2025-01-31,Haircut,43.87,Bianca,Card
+2025-01-31,Beard trim,22.23,Esi,Card
+2025-01-31,Color,107.22,Carlos,Card
+2025-01-31,Haircut,38.94,Bianca,Card
+2025-01-31,Beard trim,21.67,Aisha,Cash
+2025-01-31,Product - styling,18.86,Carlos,Card
+2025-02-01,Beard trim,21.72,Esi,Mobile
+2025-02-01,Product - shampoo,23.58,Bianca,Mobile
+2025-02-01,Product - styling,17.33,Aisha,Cash
+2025-02-01,Product - styling,18.64,Bianca,Card
+2025-02-01,Haircut,39.09,Bianca,Card
+2025-02-01,Beard trim,19.76,Aisha,Mobile
+2025-02-01,Haircut,36.63,Carlos,Card
+2025-02-01,Haircut,44.59,Diana,Mobile
+2025-02-01,Highlights,148.96,Carlos,Card
+2025-02-01,Haircut,40.55,Esi,Mobile
+2025-02-01,Haircut,40.42,Bianca,Cash
+2025-02-01,Haircut,38.06,Aisha,Mobile
+2025-02-01,Beard trim,21.56,Aisha,Card
+2025-02-01,Beard trim,21.97,Bianca,Cash
+2025-02-01,Haircut,45.8,Diana,Card
+2025-02-01,Blow dry,36.79,Diana,Cash
+2025-02-01,Beard trim,20.58,Carlos,Card
+2025-02-01,Haircut,39.82,Carlos,Mobile
+2025-02-01,Haircut,39.55,Aisha,Card
+2025-02-01,Blow dry,32.95,Carlos,Card
+2025-02-01,Product - styling,19.12,Esi,Mobile
+2025-02-01,Haircut,42.85,Aisha,Card
+2025-02-01,Color,104.53,Carlos,Mobile
+2025-02-03,Haircut,37.97,Esi,Cash
+2025-02-03,Color,99.39,Aisha,Mobile
+2025-02-03,Color,104.56,Bianca,Card
+2025-02-03,Blow dry,39.79,Diana,Card
+2025-02-03,Blow dry,37.62,Carlos,Cash
+2025-02-03,Haircut,45.17,Esi,Cash
+2025-02-03,Highlights,138.79,Bianca,Card
+2025-02-03,Haircut,39.62,Diana,Card
+2025-02-04,Color,114.91,Diana,Card
+2025-02-04,Treatment,57.71,Diana,Card
+2025-02-04,Beard trim,19.45,Aisha,Card
+2025-02-04,Haircut,43.42,Bianca,Mobile
+2025-02-04,Product - styling,18.84,Diana,Card
+2025-02-04,Blow dry,35.81,Carlos,Card
+2025-02-05,Haircut,41.77,Diana,Card
+2025-02-05,Treatment,59.59,Esi,Cash
+2025-02-05,Highlights,156.11,Esi,Card
+2025-02-05,Blow dry,38.96,Bianca,Cash
+2025-02-05,Haircut,43.57,Carlos,Card
+2025-02-05,Haircut,39.24,Carlos,Card
+2025-02-06,Haircut,38.73,Aisha,Card
+2025-02-06,Treatment,59.52,Diana,Cash
+2025-02-06,Beard trim,19.12,Diana,Card
+2025-02-06,Highlights,169.7,Aisha,Cash
+2025-02-06,Color,113.92,Esi,Cash
+2025-02-06,Product - shampoo,20.06,Aisha,Card
+2025-02-06,Product - styling,17.19,Diana,Mobile
+2025-02-06,Haircut,45.32,Esi,Card
+2025-02-06,Haircut,40.63,Bianca,Mobile
+2025-02-06,Beard trim,19.95,Esi,Card
+2025-02-06,Blow dry,38.06,Esi,Cash
+2025-02-06,Haircut,40.63,Aisha,Cash
+2025-02-06,Color,115.1,Esi,Cash
+2025-02-06,Beard trim,21.09,Diana,Card
+2025-02-06,Treatment,60.15,Carlos,Card
+2025-02-06,Haircut,42.38,Carlos,Card
+2025-02-06,Highlights,157.38,Bianca,Card
+2025-02-07,Color,108.87,Aisha,Card
+2025-02-07,Color,102.45,Bianca,Card
+2025-02-07,Blow dry,36.91,Carlos,Mobile
+2025-02-07,Haircut,39.26,Aisha,Card
+2025-02-07,Haircut,40.96,Diana,Card
+2025-02-07,Haircut,38.06,Esi,Card
+2025-02-07,Haircut,39.3,Carlos,Card
+2025-02-07,Product - styling,17.98,Diana,Cash
+2025-02-07,Product - styling,19.21,Carlos,Cash
+2025-02-07,Highlights,163.32,Diana,Card
+2025-02-07,Product - shampoo,19.99,Esi,Cash
+2025-02-07,Blow dry,35.57,Diana,Cash
+2025-02-07,Treatment,68.05,Bianca,Mobile
+2025-02-07,Beard trim,18.86,Esi,Card
+2025-02-07,Beard trim,21.52,Aisha,Card
+2025-02-07,Highlights,137.82,Diana,Cash
+2025-02-07,Blow dry,33.83,Bianca,Mobile
+2025-02-07,Blow dry,35.96,Bianca,Cash
+2025-02-07,Highlights,151.79,Diana,Mobile
+2025-02-07,Haircut,39.83,Esi,Cash
+2025-02-08,Haircut,37.92,Esi,Card
+2025-02-08,Product - shampoo,25.27,Carlos,Card
+2025-02-08,Haircut,40.74,Esi,Card
+2025-02-08,Blow dry,36.73,Aisha,Card
+2025-02-08,Product - shampoo,22.26,Carlos,Mobile
+2025-02-08,Color,113.44,Bianca,Card
+2025-02-08,Color,110.36,Esi,Card
+2025-02-08,Highlights,135.11,Aisha,Cash
+2025-02-08,Product - styling,19.36,Diana,Mobile
+2025-02-08,Haircut,43.04,Diana,Card
+2025-02-08,Color,102.22,Esi,Cash
+2025-02-08,Beard trim,21.85,Bianca,Card
+2025-02-08,Haircut,42.37,Bianca,Card
+2025-02-08,Product - shampoo,23.27,Carlos,Card
+2025-02-08,Blow dry,38.2,Carlos,Card
+2025-02-08,Beard trim,21.01,Esi,Cash
+2025-02-08,Blow dry,37.53,Carlos,Card
+2025-02-08,Product - styling,18.11,Esi,Cash
+2025-02-08,Highlights,170.86,Carlos,Cash
+2025-02-08,Beard trim,19.85,Carlos,Mobile
+2025-02-08,Blow dry,32.38,Carlos,Card
+2025-02-08,Haircut,40.94,Esi,Card
+2025-02-08,Color,117.5,Diana,Card
+2025-02-08,Treatment,64.19,Carlos,Card
+2025-02-10,Treatment,54.44,Bianca,Card
+2025-02-10,Haircut,45.52,Esi,Cash
+2025-02-10,Treatment,68.85,Aisha,Cash
+2025-02-10,Product - shampoo,19.91,Esi,Mobile
+2025-02-10,Color,123.48,Carlos,Card
+2025-02-10,Beard trim,20.31,Esi,Card
+2025-02-10,Color,125.9,Bianca,Cash
+2025-02-10,Highlights,141.09,Carlos,Card
+2025-02-10,Beard trim,18.76,Esi,Mobile
+2025-02-10,Haircut,44.82,Bianca,Cash
+2025-02-10,Product - shampoo,24.85,Bianca,Card
+2025-02-10,Product - shampoo,21.74,Aisha,Card
+2025-02-10,Haircut,39.99,Carlos,Card
+2025-02-10,Treatment,58.89,Bianca,Card
+2025-02-11,Blow dry,31.89,Esi,Card
+2025-02-11,Haircut,40.76,Bianca,Mobile
+2025-02-11,Treatment,63.37,Carlos,Card
+2025-02-11,Beard trim,19.33,Esi,Card
+2025-02-11,Beard trim,18.08,Aisha,Card
+2025-02-11,Treatment,57.14,Diana,Mobile
+2025-02-11,Treatment,57.57,Carlos,Mobile
+2025-02-11,Product - styling,18.56,Aisha,Card
+2025-02-12,Beard trim,19.75,Diana,Mobile
+2025-02-12,Product - shampoo,22.14,Esi,Mobile
+2025-02-12,Beard trim,18.1,Diana,Card
+2025-02-12,Haircut,38.44,Esi,Card
+2025-02-12,Beard trim,19.38,Carlos,Card
+2025-02-12,Blow dry,33.69,Esi,Card
+2025-02-12,Haircut,44.88,Aisha,Card
+2025-02-13,Color,114.67,Aisha,Mobile
+2025-02-13,Color,121.78,Diana,Mobile
+2025-02-13,Treatment,60.36,Aisha,Mobile
+2025-02-13,Product - shampoo,22.11,Diana,Card
+2025-02-13,Beard trim,19.86,Esi,Mobile
+2025-02-13,Product - shampoo,25.06,Carlos,Cash
+2025-02-13,Beard trim,20.23,Diana,Card
+2025-02-13,Haircut,45.56,Bianca,Cash
+2025-02-13,Haircut,39.68,Carlos,Mobile
+2025-02-13,Color,99.29,Carlos,Mobile
+2025-02-13,Haircut,37.99,Bianca,Card
+2025-02-13,Haircut,41.18,Esi,Card
+2025-02-13,Highlights,152.01,Carlos,Mobile
+2025-02-13,Highlights,169.06,Aisha,Card
+2025-02-13,Blow dry,33.48,Bianca,Card
+2025-02-14,Blow dry,34.06,Carlos,Cash
+2025-02-14,Color,119.32,Diana,Cash
+2025-02-14,Beard trim,19.8,Aisha,Mobile
+2025-02-14,Product - styling,20.2,Aisha,Card
+2025-02-14,Product - shampoo,22.83,Carlos,Card
+2025-02-14,Beard trim,20.32,Esi,Cash
+2025-02-14,Blow dry,39.04,Bianca,Card
+2025-02-14,Haircut,42.1,Esi,Cash
+2025-02-14,Color,106.23,Bianca,Card
+2025-02-14,Haircut,36.45,Aisha,Cash
+2025-02-14,Highlights,154.04,Bianca,Card
+2025-02-14,Beard trim,19.04,Aisha,Cash
+2025-02-14,Treatment,57.01,Aisha,Cash
+2025-02-14,Haircut,38.04,Bianca,Card
+2025-02-14,Blow dry,40.24,Diana,Mobile
+2025-02-14,Beard trim,18.37,Aisha,Card
+2025-02-14,Product - shampoo,21.6,Bianca,Mobile
+2025-02-14,Haircut,43.44,Diana,Card
+2025-02-14,Beard trim,20.31,Bianca,Mobile
+2025-02-14,Color,108.33,Carlos,Card
+2025-02-14,Haircut,39.86,Aisha,Card
+2025-02-14,Product - styling,18.83,Bianca,Cash
+2025-02-15,Haircut,40.56,Aisha,Cash
+2025-02-15,Product - styling,16.84,Aisha,Cash
+2025-02-15,Treatment,66.66,Carlos,Cash
+2025-02-15,Color,121.19,Aisha,Mobile
+2025-02-15,Beard trim,18.62,Diana,Card
+2025-02-15,Haircut,36.81,Esi,Card
+2025-02-15,Haircut,39.61,Carlos,Mobile
+2025-02-15,Blow dry,39.27,Esi,Card
+2025-02-15,Haircut,45.45,Diana,Card
+2025-02-15,Treatment,68.84,Carlos,Card
+2025-02-15,Haircut,38.23,Diana,Card
+2025-02-15,Beard trim,22.58,Diana,Card
+2025-02-15,Highlights,153.57,Aisha,Card
+2025-02-15,Beard trim,20.13,Esi,Mobile
+2025-02-15,Beard trim,21.63,Esi,Card
+2025-02-15,Highlights,170.74,Esi,Card
+2025-02-15,Product - styling,16.87,Esi,Card
+2025-02-15,Haircut,43.46,Bianca,Card
+2025-02-15,Product - shampoo,25.23,Bianca,Mobile
+2025-02-15,Color,100.03,Bianca,Card
+2025-02-17,Product - styling,16.46,Carlos,Card
+2025-02-17,Beard trim,22.4,Diana,Card
+2025-02-17,Blow dry,40.19,Aisha,Card
+2025-02-17,Beard trim,18.23,Esi,Cash
+2025-02-17,Product - shampoo,23.79,Bianca,Cash
+2025-02-17,Haircut,36.53,Bianca,Mobile
+2025-02-17,Color,100.74,Carlos,Card
+2025-02-17,Blow dry,35.0,Esi,Cash
+2025-02-17,Haircut,43.39,Aisha,Card
+2025-02-17,Haircut,44.68,Carlos,Card
+2025-02-17,Color,110.32,Diana,Cash
+2025-02-17,Beard trim,20.52,Diana,Cash
+2025-02-18,Product - styling,18.02,Esi,Card
+2025-02-18,Haircut,36.39,Aisha,Cash
+2025-02-18,Highlights,144.34,Aisha,Mobile
+2025-02-18,Haircut,36.54,Bianca,Cash
+2025-02-18,Treatment,56.36,Diana,Cash
+2025-02-18,Haircut,40.96,Carlos,Mobile
+2025-02-18,Treatment,65.09,Bianca,Card
+2025-02-18,Product - styling,18.76,Diana,Card
+2025-02-18,Haircut,40.02,Diana,Cash
+2025-02-18,Color,112.47,Carlos,Card
+2025-02-18,Product - shampoo,23.92,Bianca,Card
+2025-02-19,Treatment,64.72,Aisha,Mobile
+2025-02-19,Haircut,37.01,Bianca,Card
+2025-02-19,Beard trim,21.84,Diana,Card
+2025-02-19,Haircut,45.13,Diana,Cash
+2025-02-19,Haircut,43.76,Esi,Cash
+2025-02-19,Treatment,65.15,Carlos,Mobile
+2025-02-19,Color,110.39,Esi,Cash
+2025-02-19,Haircut,44.45,Aisha,Cash
+2025-02-19,Product - shampoo,21.96,Esi,Mobile
+2025-02-19,Product - shampoo,22.14,Bianca,Card
+2025-02-19,Highlights,146.31,Diana,Cash
+2025-02-19,Color,118.6,Esi,Card
+2025-02-20,Product - shampoo,23.36,Diana,Card
+2025-02-20,Product - styling,16.37,Diana,Mobile
+2025-02-20,Haircut,43.57,Carlos,Card
+2025-02-20,Beard trim,21.28,Aisha,Mobile
+2025-02-20,Haircut,41.04,Diana,Card
+2025-02-20,Blow dry,33.37,Aisha,Card
+2025-02-20,Color,104.77,Esi,Mobile
+2025-02-20,Haircut,37.5,Carlos,Card
+2025-02-20,Product - styling,18.16,Bianca,Card
+2025-02-20,Blow dry,35.2,Bianca,Card
+2025-02-20,Blow dry,32.22,Esi,Card
+2025-02-20,Haircut,41.37,Carlos,Card
+2025-02-20,Haircut,40.01,Esi,Mobile
+2025-02-20,Highlights,136.96,Diana,Card
+2025-02-20,Haircut,41.8,Esi,Card
+2025-02-20,Beard trim,18.18,Carlos,Mobile
+2025-02-20,Haircut,36.21,Esi,Card
+2025-02-20,Haircut,38.68,Esi,Card
+2025-02-20,Beard trim,19.79,Diana,Mobile
+2025-02-20,Product - shampoo,23.06,Esi,Cash
+2025-02-21,Treatment,68.26,Aisha,Card
+2025-02-21,Blow dry,33.65,Carlos,Card
+2025-02-21,Color,115.15,Aisha,Card
+2025-02-21,Beard trim,18.39,Bianca,Mobile
+2025-02-21,Treatment,55.31,Bianca,Card
+2025-02-21,Product - styling,16.95,Esi,Card
+2025-02-21,Product - shampoo,23.85,Aisha,Mobile
+2025-02-21,Beard trim,18.21,Esi,Card
+2025-02-21,Product - styling,19.64,Carlos,Mobile
+2025-02-21,Color,100.57,Bianca,Mobile
+2025-02-21,Blow dry,38.27,Diana,Cash
+2025-02-21,Beard trim,19.74,Esi,Card
+2025-02-21,Haircut,38.88,Bianca,Cash
+2025-02-21,Beard trim,18.96,Aisha,Cash
+2025-02-21,Beard trim,18.56,Bianca,Mobile
+2025-02-21,Beard trim,22.83,Aisha,Card
+2025-02-21,Haircut,36.59,Aisha,Mobile
+2025-02-21,Haircut,43.31,Aisha,Card
+2025-02-21,Highlights,137.95,Diana,Card
+2025-02-22,Treatment,55.57,Carlos,Cash
+2025-02-22,Beard trim,18.28,Bianca,Mobile
+2025-02-22,Haircut,40.51,Aisha,Mobile
+2025-02-22,Beard trim,21.91,Diana,Mobile
+2025-02-22,Product - styling,18.0,Aisha,Card
+2025-02-22,Blow dry,36.26,Bianca,Card
+2025-02-22,Color,115.39,Diana,Cash
+2025-02-22,Haircut,45.93,Diana,Card
+2025-02-22,Haircut,37.53,Aisha,Card
+2025-02-22,Haircut,41.63,Carlos,Mobile
+2025-02-22,Beard trim,18.53,Aisha,Cash
+2025-02-22,Highlights,142.0,Esi,Mobile
+2025-02-22,Haircut,41.71,Carlos,Cash
+2025-02-22,Haircut,37.07,Aisha,Card
+2025-02-22,Blow dry,36.56,Diana,Mobile
+2025-02-22,Product - styling,20.23,Aisha,Mobile
+2025-02-22,Beard trim,22.36,Esi,Mobile
+2025-02-22,Highlights,162.9,Aisha,Cash
+2025-02-22,Highlights,137.02,Bianca,Card
+2025-02-22,Haircut,39.84,Bianca,Cash
+2025-02-24,Color,107.37,Aisha,Card
+2025-02-24,Beard trim,19.58,Aisha,Card
+2025-02-24,Blow dry,37.13,Diana,Card
+2025-02-24,Highlights,140.23,Bianca,Card
+2025-02-24,Treatment,54.87,Bianca,Cash
+2025-02-24,Blow dry,37.47,Diana,Card
+2025-02-24,Beard trim,20.1,Esi,Cash
+2025-02-24,Haircut,40.12,Diana,Mobile
+2025-02-24,Highlights,152.53,Bianca,Card
+2025-02-24,Highlights,161.9,Carlos,Cash
+2025-02-24,Haircut,42.68,Carlos,Card
+2025-02-24,Product - shampoo,24.86,Esi,Card
+2025-02-25,Haircut,40.04,Aisha,Card
+2025-02-25,Product - shampoo,24.69,Diana,Card
+2025-02-25,Highlights,171.39,Diana,Cash
+2025-02-25,Color,102.78,Esi,Card
+2025-02-26,Blow dry,37.88,Aisha,Card
+2025-02-26,Color,124.7,Aisha,Card
+2025-02-26,Highlights,145.08,Esi,Cash
+2025-02-26,Blow dry,40.11,Esi,Card
+2025-02-26,Haircut,42.65,Esi,Card
+2025-02-26,Haircut,40.9,Diana,Cash
+2025-02-26,Haircut,38.96,Bianca,Card
+2025-02-26,Product - styling,19.97,Bianca,Mobile
+2025-02-26,Haircut,45.46,Bianca,Mobile
+2025-02-26,Color,107.43,Aisha,Mobile
+2025-02-26,Beard trim,22.79,Carlos,Card
+2025-02-26,Blow dry,38.74,Aisha,Mobile
+2025-02-26,Highlights,165.63,Bianca,Card
+2025-02-27,Blow dry,38.82,Aisha,Card
+2025-02-27,Color,104.17,Diana,Cash
+2025-02-27,Blow dry,34.13,Aisha,Cash
+2025-02-27,Highlights,136.72,Carlos,Cash
+2025-02-27,Treatment,68.56,Bianca,Cash
+2025-02-27,Blow dry,38.8,Esi,Cash
+2025-02-27,Haircut,40.19,Aisha,Mobile
+2025-02-27,Haircut,37.58,Bianca,Card
+2025-02-27,Product - styling,18.5,Bianca,Card
+2025-02-27,Beard trim,18.48,Carlos,Card
+2025-02-27,Beard trim,19.21,Bianca,Card
+2025-02-27,Product - shampoo,20.84,Carlos,Card
+2025-02-27,Treatment,64.3,Carlos,Card
+2025-02-27,Product - shampoo,21.45,Aisha,Card
+2025-02-27,Beard trim,18.99,Aisha,Card
+2025-02-27,Treatment,59.7,Esi,Card
+2025-02-27,Haircut,37.37,Esi,Card
+2025-02-27,Beard trim,18.13,Esi,Card
+2025-02-28,Treatment,63.68,Diana,Card
+2025-02-28,Product - shampoo,23.26,Aisha,Cash
+2025-02-28,Haircut,36.57,Bianca,Mobile
+2025-02-28,Color,118.11,Carlos,Card
+2025-02-28,Blow dry,35.04,Esi,Mobile
+2025-02-28,Haircut,45.3,Aisha,Card
+2025-02-28,Beard trim,19.73,Bianca,Card
+2025-02-28,Haircut,40.28,Carlos,Card
+2025-02-28,Product - styling,18.1,Esi,Card
+2025-02-28,Product - shampoo,22.21,Diana,Card
+2025-02-28,Product - shampoo,22.74,Esi,Card
+2025-02-28,Haircut,37.62,Diana,Card
+2025-02-28,Product - shampoo,23.76,Carlos,Card
+2025-02-28,Haircut,43.67,Esi,Card
+2025-02-28,Product - shampoo,21.0,Esi,Cash
+2025-02-28,Product - styling,17.25,Bianca,Card
+2025-02-28,Blow dry,33.54,Diana,Card
+2025-02-28,Haircut,45.79,Diana,Card
+2025-02-28,Color,107.81,Carlos,Card
+2025-03-01,Product - shampoo,22.42,Carlos,Cash
+2025-03-01,Product - styling,20.32,Aisha,Card
+2025-03-01,Product - shampoo,22.0,Bianca,Card
+2025-03-01,Haircut,37.35,Carlos,Card
+2025-03-01,Beard trim,22.72,Diana,Cash
+2025-03-01,Blow dry,31.65,Aisha,Mobile
+2025-03-01,Beard trim,20.72,Aisha,Card
+2025-03-01,Product - shampoo,24.17,Aisha,Cash
+2025-03-01,Product - styling,18.8,Bianca,Card
+2025-03-01,Haircut,43.05,Bianca,Card
+2025-03-01,Highlights,161.71,Aisha,Card
+2025-03-01,Haircut,40.01,Aisha,Mobile
+2025-03-01,Beard trim,21.6,Esi,Card
+2025-03-01,Product - styling,18.34,Bianca,Card
+2025-03-01,Color,100.64,Diana,Mobile
+2025-03-01,Blow dry,40.1,Aisha,Card
+2025-03-01,Color,105.53,Aisha,Card
+2025-03-01,Color,117.08,Esi,Card
+2025-03-03,Beard trim,22.81,Aisha,Card
+2025-03-03,Haircut,39.24,Esi,Cash
+2025-03-03,Haircut,44.22,Esi,Card
+2025-03-03,Product - styling,19.28,Bianca,Card
+2025-03-03,Color,107.86,Aisha,Mobile
+2025-03-03,Blow dry,39.23,Esi,Mobile
+2025-03-04,Product - styling,18.36,Esi,Card
+2025-03-04,Beard trim,21.5,Carlos,Card
+2025-03-04,Blow dry,35.88,Bianca,Card
+2025-03-04,Haircut,37.26,Diana,Card
+2025-03-04,Blow dry,36.18,Carlos,Card
+2025-03-04,Beard trim,18.45,Aisha,Card
+2025-03-04,Highlights,141.85,Bianca,Mobile
+2025-03-04,Haircut,41.58,Aisha,Card
+2025-03-04,Color,108.39,Aisha,Card
+2025-03-04,Treatment,59.66,Carlos,Cash
+2025-03-04,Blow dry,36.73,Carlos,Card
+2025-03-05,Color,111.67,Esi,Card
+2025-03-05,Color,101.95,Aisha,Cash
+2025-03-05,Color,107.06,Aisha,Card
+2025-03-05,Treatment,61.28,Bianca,Card
+2025-03-05,Haircut,39.2,Aisha,Card
+2025-03-05,Highlights,142.96,Esi,Cash
+2025-03-05,Highlights,153.13,Esi,Card
+2025-03-05,Beard trim,18.4,Esi,Cash
+2025-03-05,Beard trim,22.6,Esi,Card
+2025-03-05,Haircut,44.98,Bianca,Mobile
+2025-03-05,Beard trim,22.91,Diana,Mobile
+2025-03-06,Color,111.32,Diana,Card
+2025-03-06,Highlights,156.62,Carlos,Cash
+2025-03-06,Haircut,45.92,Bianca,Mobile
+2025-03-06,Beard trim,21.42,Aisha,Mobile
+2025-03-06,Beard trim,20.59,Carlos,Card
+2025-03-06,Haircut,44.06,Bianca,Card
+2025-03-06,Color,116.3,Carlos,Cash
+2025-03-06,Color,120.87,Esi,Card
+2025-03-06,Treatment,64.45,Diana,Card
+2025-03-06,Haircut,37.56,Carlos,Card
+2025-03-06,Blow dry,34.66,Bianca,Cash
+2025-03-06,Blow dry,38.95,Aisha,Cash
+2025-03-06,Color,101.74,Bianca,Mobile
+2025-03-06,Blow dry,36.73,Diana,Cash
+2025-03-06,Color,126.44,Diana,Card
+2025-03-06,Haircut,44.61,Carlos,Cash
+2025-03-06,Highlights,151.06,Carlos,Card
+2025-03-06,Color,102.45,Aisha,Card
+2025-03-07,Color,116.31,Aisha,Card
+2025-03-07,Color,122.64,Aisha,Cash
+2025-03-07,Highlights,138.44,Esi,Mobile
+2025-03-07,Color,118.55,Carlos,Card
+2025-03-07,Haircut,42.67,Carlos,Cash
+2025-03-07,Blow dry,37.36,Diana,Mobile
+2025-03-07,Highlights,151.53,Esi,Cash
+2025-03-07,Product - shampoo,21.79,Bianca,Card
+2025-03-07,Blow dry,33.34,Esi,Card
+2025-03-07,Haircut,39.68,Aisha,Card
+2025-03-07,Beard trim,19.09,Carlos,Mobile
+2025-03-07,Haircut,43.46,Aisha,Mobile
+2025-03-07,Color,121.77,Carlos,Cash
+2025-03-07,Color,111.78,Bianca,Cash
+2025-03-07,Highlights,149.84,Bianca,Mobile
+2025-03-07,Haircut,45.37,Aisha,Card
+2025-03-07,Haircut,37.82,Carlos,Card
+2025-03-07,Product - shampoo,20.79,Aisha,Card
+2025-03-07,Product - styling,17.49,Carlos,Cash
+2025-03-07,Blow dry,38.42,Carlos,Card
+2025-03-07,Treatment,56.1,Esi,Card
+2025-03-07,Color,100.21,Carlos,Card
+2025-03-07,Treatment,60.49,Aisha,Mobile
+2025-03-07,Haircut,38.27,Carlos,Mobile
+2025-03-07,Color,117.45,Aisha,Card
+2025-03-07,Haircut,38.77,Bianca,Cash
+2025-03-07,Beard trim,22.57,Carlos,Cash
+2025-03-07,Treatment,65.81,Carlos,Card
+2025-03-08,Color,117.92,Esi,Cash
+2025-03-08,Color,117.79,Bianca,Mobile
+2025-03-08,Highlights,138.19,Aisha,Card
+2025-03-08,Color,108.34,Esi,Card
+2025-03-08,Highlights,164.21,Esi,Cash
+2025-03-08,Treatment,62.24,Carlos,Card
+2025-03-08,Color,104.13,Carlos,Mobile
+2025-03-08,Haircut,37.56,Aisha,Card
+2025-03-08,Haircut,43.01,Aisha,Card
+2025-03-08,Highlights,148.31,Aisha,Card
+2025-03-08,Haircut,40.65,Carlos,Card
+2025-03-08,Haircut,37.92,Esi,Card
+2025-03-08,Haircut,45.36,Bianca,Card
+2025-03-08,Highlights,137.54,Diana,Mobile
+2025-03-08,Product - styling,19.47,Diana,Card
+2025-03-08,Haircut,43.98,Carlos,Card
+2025-03-08,Product - styling,16.98,Diana,Card
+2025-03-08,Color,116.05,Esi,Card
+2025-03-08,Haircut,39.93,Carlos,Card
+2025-03-08,Blow dry,36.65,Bianca,Cash
+2025-03-08,Product - shampoo,20.04,Aisha,Card
+2025-03-08,Beard trim,22.0,Bianca,Card
+2025-03-08,Product - shampoo,23.32,Diana,Mobile
+2025-03-08,Blow dry,37.29,Carlos,Cash
+2025-03-08,Highlights,155.86,Bianca,Card
+2025-03-08,Haircut,36.97,Aisha,Mobile
+2025-03-10,Product - shampoo,21.08,Diana,Mobile
+2025-03-10,Color,119.43,Diana,Cash
+2025-03-10,Haircut,38.88,Esi,Mobile
+2025-03-10,Beard trim,19.67,Carlos,Card
+2025-03-10,Color,100.69,Carlos,Card
+2025-03-10,Beard trim,22.51,Carlos,Mobile
+2025-03-10,Beard trim,19.66,Carlos,Card
+2025-03-10,Haircut,36.04,Esi,Card
+2025-03-10,Blow dry,34.01,Diana,Card
+2025-03-10,Color,108.99,Bianca,Mobile
+2025-03-10,Beard trim,20.2,Esi,Mobile
+2025-03-10,Haircut,40.75,Bianca,Card
+2025-03-11,Blow dry,35.07,Esi,Card
+2025-03-11,Haircut,45.82,Diana,Card
+2025-03-11,Haircut,36.66,Carlos,Card
+2025-03-11,Color,109.3,Carlos,Card
+2025-03-11,Haircut,45.9,Diana,Card
+2025-03-11,Product - styling,18.15,Carlos,Card
+2025-03-11,Product - styling,18.3,Bianca,Card
+2025-03-11,Beard trim,20.97,Bianca,Mobile
+2025-03-11,Beard trim,22.84,Diana,Card
+2025-03-11,Product - styling,18.22,Aisha,Card
+2025-03-12,Highlights,148.22,Esi,Mobile
+2025-03-12,Product - styling,16.93,Diana,Mobile
+2025-03-12,Haircut,36.51,Carlos,Card
+2025-03-12,Color,109.83,Bianca,Cash
+2025-03-12,Beard trim,18.7,Carlos,Card
+2025-03-12,Haircut,45.28,Diana,Mobile
+2025-03-12,Color,125.99,Carlos,Mobile
+2025-03-12,Color,108.23,Carlos,Card
+2025-03-12,Haircut,44.11,Bianca,Card
+2025-03-12,Beard trim,18.61,Bianca,Mobile
+2025-03-12,Haircut,36.36,Bianca,Card
+2025-03-13,Treatment,68.11,Carlos,Mobile
+2025-03-13,Haircut,43.46,Carlos,Card
+2025-03-13,Color,102.46,Diana,Card
+2025-03-13,Product - shampoo,20.59,Esi,Card
+2025-03-13,Haircut,37.8,Esi,Card
+2025-03-13,Treatment,60.16,Bianca,Card
+2025-03-13,Haircut,36.65,Bianca,Cash
+2025-03-13,Beard trim,19.9,Bianca,Card
+2025-03-13,Highlights,162.2,Aisha,Cash
+2025-03-13,Blow dry,37.7,Aisha,Cash
+2025-03-13,Product - styling,20.17,Aisha,Card
+2025-03-13,Color,103.0,Esi,Mobile
+2025-03-13,Haircut,40.43,Bianca,Card
+2025-03-13,Blow dry,34.74,Diana,Card
+2025-03-13,Blow dry,37.61,Bianca,Card
+2025-03-13,Blow dry,38.61,Diana,Card
+2025-03-13,Highlights,151.02,Aisha,Mobile
+2025-03-13,Beard trim,20.42,Esi,Mobile
+2025-03-13,Haircut,39.46,Bianca,Card
+2025-03-14,Color,114.97,Bianca,Card
+2025-03-14,Blow dry,38.61,Esi,Mobile
+2025-03-14,Haircut,40.01,Aisha,Card
+2025-03-14,Blow dry,39.3,Aisha,Card
+2025-03-14,Color,124.7,Diana,Card
+2025-03-14,Haircut,40.52,Diana,Card
+2025-03-14,Beard trim,21.25,Aisha,Card
+2025-03-14,Beard trim,20.68,Carlos,Card
+2025-03-14,Haircut,38.77,Esi,Card
+2025-03-14,Product - shampoo,23.0,Aisha,Mobile
+2025-03-14,Treatment,55.07,Bianca,Card
+2025-03-14,Product - styling,17.23,Bianca,Card
+2025-03-14,Beard trim,22.35,Esi,Card
+2025-03-14,Product - styling,17.23,Bianca,Card
+2025-03-14,Highlights,163.09,Diana,Card
+2025-03-14,Beard trim,19.44,Bianca,Card
+2025-03-14,Haircut,39.95,Aisha,Cash
+2025-03-14,Product - styling,16.56,Bianca,Card
+2025-03-14,Blow dry,33.37,Diana,Card
+2025-03-14,Highlights,149.14,Diana,Mobile
+2025-03-14,Product - styling,17.42,Bianca,Card
+2025-03-14,Beard trim,21.39,Aisha,Mobile
+2025-03-14,Color,103.85,Carlos,Card
+2025-03-14,Highlights,165.74,Bianca,Mobile
+2025-03-15,Color,111.75,Esi,Card
+2025-03-15,Beard trim,19.92,Esi,Card
+2025-03-15,Haircut,45.29,Bianca,Card
+2025-03-15,Haircut,38.5,Bianca,Card
+2025-03-15,Color,123.6,Bianca,Cash
+2025-03-15,Product - styling,16.46,Carlos,Card
+2025-03-15,Color,105.85,Esi,Mobile
+2025-03-15,Blow dry,32.86,Bianca,Mobile
+2025-03-15,Product - shampoo,21.02,Carlos,Mobile
+2025-03-15,Blow dry,34.87,Bianca,Card
+2025-03-15,Haircut,39.26,Diana,Card
+2025-03-15,Product - shampoo,23.9,Aisha,Card
+2025-03-15,Product - styling,17.43,Aisha,Card
+2025-03-15,Haircut,43.3,Esi,Mobile
+2025-03-15,Haircut,38.6,Aisha,Cash
+2025-03-15,Product - shampoo,24.29,Esi,Card
+2025-03-15,Blow dry,36.19,Aisha,Card
+2025-03-15,Blow dry,37.72,Aisha,Mobile
+2025-03-15,Product - styling,16.66,Diana,Card
+2025-03-15,Haircut,45.82,Diana,Card
+2025-03-15,Highlights,164.12,Bianca,Card
+2025-03-15,Treatment,58.44,Bianca,Card
+2025-03-15,Haircut,44.85,Esi,Card
+2025-03-15,Haircut,41.75,Diana,Cash
+2025-03-17,Beard trim,18.43,Diana,Card
+2025-03-17,Haircut,38.14,Esi,Mobile
+2025-03-17,Beard trim,22.71,Carlos,Cash
+2025-03-17,Haircut,36.62,Bianca,Card
+2025-03-17,Haircut,36.01,Aisha,Card
+2025-03-17,Blow dry,35.5,Diana,Card
+2025-03-17,Haircut,38.91,Carlos,Mobile
+2025-03-17,Haircut,39.45,Diana,Card
+2025-03-17,Color,111.53,Aisha,Card
+2025-03-17,Product - shampoo,25.16,Bianca,Card
+2025-03-18,Blow dry,36.15,Aisha,Card
+2025-03-18,Haircut,45.46,Bianca,Cash
+2025-03-18,Beard trim,22.45,Bianca,Card
+2025-03-18,Highlights,169.84,Diana,Card
+2025-03-18,Beard trim,18.64,Diana,Mobile
+2025-03-18,Haircut,42.58,Bianca,Card
+2025-03-18,Highlights,140.67,Diana,Card
+2025-03-18,Product - styling,18.89,Esi,Card
+2025-03-18,Blow dry,37.23,Esi,Card
+2025-03-18,Haircut,38.13,Esi,Cash
+2025-03-18,Product - shampoo,24.6,Diana,Card
+2025-03-18,Haircut,41.87,Aisha,Card
+2025-03-18,Highlights,164.38,Carlos,Card
+2025-03-18,Treatment,59.73,Diana,Mobile
+2025-03-18,Color,124.63,Bianca,Cash
+2025-03-19,Treatment,68.04,Aisha,Card
+2025-03-19,Color,118.55,Diana,Card
+2025-03-19,Haircut,36.71,Diana,Mobile
+2025-03-19,Product - styling,17.09,Diana,Card
+2025-03-19,Haircut,42.01,Aisha,Card
+2025-03-19,Color,106.51,Bianca,Mobile
+2025-03-19,Haircut,44.37,Carlos,Cash
+2025-03-19,Color,100.64,Aisha,Card
+2025-03-19,Haircut,37.48,Carlos,Card
+2025-03-19,Haircut,40.98,Esi,Mobile
+2025-03-19,Product - styling,17.57,Carlos,Card
+2025-03-19,Beard trim,20.58,Esi,Card
+2025-03-19,Color,118.91,Esi,Mobile
+2025-03-19,Product - shampoo,22.47,Diana,Card
+2025-03-19,Haircut,41.93,Esi,Card
+2025-03-19,Haircut,40.97,Bianca,Cash
+2025-03-20,Haircut,41.4,Aisha,Card
+2025-03-20,Treatment,54.27,Carlos,Cash
+2025-03-20,Color,102.98,Carlos,Cash
+2025-03-20,Beard trim,19.53,Aisha,Card
+2025-03-20,Haircut,41.22,Carlos,Card
+2025-03-20,Product - styling,19.67,Aisha,Cash
+2025-03-20,Beard trim,19.87,Esi,Mobile
+2025-03-20,Haircut,38.43,Bianca,Mobile
+2025-03-20,Beard trim,22.69,Carlos,Cash
+2025-03-20,Blow dry,38.81,Diana,Card
+2025-03-20,Product - shampoo,22.04,Carlos,Mobile
+2025-03-20,Treatment,55.88,Carlos,Card
+2025-03-20,Beard trim,22.1,Diana,Card
+2025-03-20,Color,99.66,Diana,Card
+2025-03-20,Product - shampoo,22.1,Carlos,Card
+2025-03-20,Treatment,64.9,Aisha,Card
+2025-03-20,Product - shampoo,20.09,Carlos,Cash
+2025-03-20,Beard trim,19.82,Esi,Card
+2025-03-20,Haircut,40.11,Carlos,Card
+2025-03-20,Haircut,43.94,Diana,Card
+2025-03-20,Highlights,146.25,Carlos,Mobile
+2025-03-21,Haircut,41.39,Bianca,Card
+2025-03-21,Blow dry,38.6,Diana,Card
+2025-03-21,Haircut,39.51,Aisha,Mobile
+2025-03-21,Treatment,56.46,Esi,Card
+2025-03-21,Haircut,44.32,Bianca,Card
+2025-03-21,Color,111.07,Esi,Mobile
+2025-03-21,Beard trim,21.96,Aisha,Mobile
+2025-03-21,Highlights,139.6,Esi,Card
+2025-03-21,Treatment,54.47,Aisha,Cash
+2025-03-21,Treatment,64.44,Diana,Card
+2025-03-21,Beard trim,20.14,Diana,Card
+2025-03-21,Color,113.55,Aisha,Cash
+2025-03-21,Product - shampoo,24.23,Esi,Mobile
+2025-03-21,Haircut,37.22,Esi,Card
+2025-03-21,Treatment,64.83,Aisha,Mobile
+2025-03-21,Blow dry,31.92,Esi,Mobile
+2025-03-21,Color,124.36,Diana,Card
+2025-03-21,Color,110.73,Bianca,Mobile
+2025-03-21,Beard trim,18.14,Aisha,Cash
+2025-03-21,Treatment,56.7,Aisha,Card
+2025-03-21,Blow dry,36.33,Carlos,Card
+2025-03-21,Product - shampoo,19.92,Aisha,Cash
+2025-03-21,Blow dry,35.62,Carlos,Card
+2025-03-22,Blow dry,35.04,Carlos,Card
+2025-03-22,Blow dry,35.76,Bianca,Card
+2025-03-22,Blow dry,38.8,Aisha,Card
+2025-03-22,Haircut,43.46,Diana,Mobile
+2025-03-22,Treatment,54.58,Esi,Cash
+2025-03-22,Color,116.3,Aisha,Cash
+2025-03-22,Treatment,59.95,Esi,Cash
+2025-03-22,Beard trim,19.2,Bianca,Card
+2025-03-22,Product - styling,17.38,Diana,Cash
+2025-03-22,Beard trim,19.29,Bianca,Cash
+2025-03-22,Haircut,38.76,Aisha,Card
+2025-03-22,Highlights,137.93,Bianca,Card
+2025-03-22,Color,117.77,Diana,Cash
+2025-03-22,Color,99.15,Carlos,Cash
+2025-03-22,Product - shampoo,20.98,Diana,Card
+2025-03-22,Beard trim,18.08,Diana,Card
+2025-03-22,Blow dry,35.43,Esi,Card
+2025-03-22,Treatment,55.71,Carlos,Mobile
+2025-03-22,Haircut,40.62,Bianca,Card
+2025-03-22,Highlights,141.32,Diana,Cash
+2025-03-22,Haircut,45.96,Bianca,Card
+2025-03-22,Haircut,41.32,Bianca,Card
+2025-03-24,Treatment,59.58,Aisha,Card
+2025-03-24,Beard trim,18.18,Esi,Card
+2025-03-24,Color,125.79,Aisha,Card
+2025-03-24,Color,125.56,Bianca,Card
+2025-03-24,Blow dry,32.54,Bianca,Cash
+2025-03-24,Color,126.41,Diana,Card
+2025-03-24,Product - styling,19.23,Bianca,Mobile
+2025-03-24,Product - styling,16.87,Esi,Cash
+2025-03-24,Product - shampoo,19.81,Aisha,Card
+2025-03-24,Haircut,39.84,Carlos,Card
+2025-03-24,Highlights,140.12,Diana,Cash
+2025-03-24,Haircut,44.1,Esi,Mobile
+2025-03-24,Highlights,163.56,Carlos,Mobile
+2025-03-24,Highlights,143.63,Carlos,Card
+2025-03-24,Haircut,38.61,Carlos,Mobile
+2025-03-25,Haircut,45.73,Carlos,Card
+2025-03-25,Blow dry,36.79,Bianca,Mobile
+2025-03-25,Haircut,39.21,Carlos,Cash
+2025-03-25,Product - shampoo,25.27,Diana,Cash
+2025-03-25,Blow dry,38.8,Aisha,Cash
+2025-03-25,Haircut,36.96,Carlos,Mobile
+2025-03-25,Beard trim,18.22,Esi,Card
+2025-03-25,Haircut,38.25,Carlos,Cash
+2025-03-25,Treatment,58.57,Carlos,Card
+2025-03-25,Blow dry,36.42,Carlos,Card
+2025-03-25,Color,124.72,Carlos,Mobile
+2025-03-26,Haircut,40.09,Esi,Mobile
+2025-03-26,Beard trim,18.22,Esi,Card
+2025-03-26,Beard trim,22.32,Aisha,Card
+2025-03-26,Haircut,37.13,Diana,Mobile
+2025-03-26,Product - styling,19.56,Aisha,Card
+2025-03-26,Beard trim,18.59,Diana,Cash
+2025-03-26,Haircut,39.01,Aisha,Mobile
+2025-03-26,Color,107.87,Esi,Card
+2025-03-26,Haircut,41.79,Carlos,Card
+2025-03-26,Product - shampoo,21.15,Bianca,Card
+2025-03-26,Product - styling,20.33,Carlos,Cash
+2025-03-26,Product - shampoo,20.27,Bianca,Card
+2025-03-26,Haircut,44.62,Bianca,Card
+2025-03-27,Highlights,156.55,Esi,Card
+2025-03-27,Haircut,41.44,Esi,Mobile
+2025-03-27,Beard trim,20.55,Esi,Card
+2025-03-27,Haircut,37.89,Bianca,Cash
+2025-03-27,Highlights,135.56,Aisha,Mobile
+2025-03-27,Highlights,164.78,Bianca,Card
+2025-03-27,Haircut,42.9,Bianca,Cash
+2025-03-27,Product - styling,18.34,Esi,Card
+2025-03-27,Treatment,58.25,Carlos,Card
+2025-03-27,Blow dry,37.25,Diana,Card
+2025-03-27,Beard trim,19.03,Bianca,Cash
+2025-03-27,Product - styling,16.44,Carlos,Card
+2025-03-27,Haircut,40.12,Bianca,Cash
+2025-03-27,Product - shampoo,22.39,Carlos,Card
+2025-03-27,Blow dry,38.03,Carlos,Card
+2025-03-27,Blow dry,36.53,Esi,Card
+2025-03-27,Color,120.05,Esi,Card
+2025-03-27,Beard trim,18.61,Bianca,Card
+2025-03-27,Haircut,39.61,Bianca,Card
+2025-03-28,Treatment,68.08,Carlos,Cash
+2025-03-28,Blow dry,36.35,Diana,Card
+2025-03-28,Product - styling,18.25,Aisha,Card
+2025-03-28,Haircut,43.23,Diana,Card
+2025-03-28,Product - styling,17.35,Bianca,Cash
+2025-03-28,Blow dry,31.69,Aisha,Cash
+2025-03-28,Haircut,38.97,Diana,Cash
+2025-03-28,Color,112.79,Carlos,Mobile
+2025-03-28,Beard trim,20.37,Esi,Mobile
+2025-03-28,Color,114.82,Bianca,Cash
+2025-03-28,Haircut,42.14,Bianca,Mobile
+2025-03-28,Product - shampoo,24.9,Bianca,Cash
+2025-03-28,Haircut,44.88,Carlos,Card
+2025-03-28,Blow dry,35.74,Bianca,Card
+2025-03-28,Haircut,41.41,Carlos,Card
+2025-03-28,Haircut,38.18,Aisha,Card
+2025-03-28,Color,106.17,Diana,Card
+2025-03-28,Blow dry,36.03,Esi,Card
+2025-03-28,Highlights,158.49,Bianca,Card
+2025-03-29,Haircut,43.14,Esi,Card
+2025-03-29,Haircut,36.72,Esi,Cash
+2025-03-29,Haircut,36.04,Carlos,Card
+2025-03-29,Color,120.18,Aisha,Cash
+2025-03-29,Haircut,38.74,Carlos,Card
+2025-03-29,Highlights,156.47,Bianca,Cash
+2025-03-29,Highlights,160.2,Aisha,Card
+2025-03-29,Haircut,36.19,Bianca,Card
+2025-03-29,Highlights,156.68,Aisha,Cash
+2025-03-29,Blow dry,38.52,Bianca,Cash
+2025-03-29,Blow dry,37.84,Esi,Card
+2025-03-29,Color,113.07,Diana,Card
+2025-03-29,Beard trim,21.75,Diana,Cash
+2025-03-29,Haircut,37.74,Carlos,Card
+2025-03-29,Blow dry,32.02,Carlos,Cash
+2025-03-29,Haircut,41.35,Bianca,Card
+2025-03-29,Haircut,39.57,Bianca,Card
+2025-03-29,Color,124.93,Esi,Mobile
+2025-03-29,Blow dry,33.98,Aisha,Card
+2025-03-29,Product - shampoo,19.89,Diana,Cash
+2025-03-29,Haircut,38.34,Aisha,Card
+2025-03-29,Haircut,43.9,Diana,Mobile
+2025-03-29,Beard trim,19.31,Esi,Mobile
+2025-03-29,Beard trim,21.63,Esi,Card
+2025-03-29,Haircut,37.25,Bianca,Card
+2025-03-31,Haircut,36.31,Esi,Cash
+2025-03-31,Haircut,37.76,Diana,Card
+2025-03-31,Haircut,37.29,Bianca,Card
+2025-03-31,Haircut,44.93,Aisha,Cash
+2025-03-31,Haircut,43.03,Bianca,Card
+2025-03-31,Highlights,169.15,Carlos,Card
+2025-03-31,Haircut,44.49,Bianca,Card
+2025-03-31,Color,111.51,Carlos,Mobile
+2025-03-31,Blow dry,37.05,Aisha,Mobile
+2025-03-31,Haircut,38.57,Carlos,Mobile
+2025-03-31,Haircut,38.62,Diana,Card
+2025-03-31,Haircut,45.27,Bianca,Cash
+2025-03-31,Highlights,153.86,Diana,Card
+2025-03-31,Color,111.92,Bianca,Cash
+2025-03-31,Haircut,44.35,Bianca,Card
+2025-04-01,Highlights,149.41,Carlos,Card
+2025-04-01,Blow dry,33.95,Esi,Card
+2025-04-01,Haircut,40.4,Carlos,Card
+2025-04-01,Product - styling,16.28,Esi,Card
+2025-04-01,Haircut,36.89,Diana,Mobile
+2025-04-01,Beard trim,19.11,Esi,Mobile
+2025-04-01,Blow dry,32.39,Diana,Card
+2025-04-01,Haircut,43.72,Esi,Cash
+2025-04-01,Beard trim,21.02,Esi,Card
+2025-04-01,Color,109.08,Esi,Card
+2025-04-01,Color,125.8,Aisha,Cash
+2025-04-01,Product - styling,16.67,Carlos,Mobile
+2025-04-02,Haircut,42.01,Diana,Card
+2025-04-02,Haircut,45.75,Bianca,Card
+2025-04-02,Haircut,37.53,Diana,Card
+2025-04-02,Color,102.84,Aisha,Cash
+2025-04-02,Beard trim,18.36,Carlos,Card
+2025-04-02,Haircut,44.62,Esi,Card
+2025-04-02,Color,99.12,Carlos,Cash
+2025-04-02,Haircut,42.29,Bianca,Card
+2025-04-02,Product - shampoo,25.02,Esi,Card
+2025-04-02,Color,113.03,Diana,Cash
+2025-04-02,Treatment,58.95,Bianca,Mobile
+2025-04-02,Color,121.66,Bianca,Card
+2025-04-02,Treatment,68.81,Carlos,Card
+2025-04-02,Treatment,64.4,Esi,Cash
+2025-04-02,Blow dry,37.86,Carlos,Mobile
+2025-04-02,Treatment,66.82,Carlos,Mobile
+2025-04-02,Product - styling,20.34,Carlos,Card
+2025-04-02,Beard trim,22.28,Bianca,Cash
+2025-04-02,Product - shampoo,22.81,Diana,Card
+2025-04-02,Blow dry,39.23,Diana,Card
+2025-04-03,Haircut,39.1,Carlos,Cash
+2025-04-03,Color,118.11,Esi,Card
+2025-04-03,Product - shampoo,21.67,Bianca,Cash
+2025-04-03,Color,109.98,Diana,Card
+2025-04-03,Beard trim,21.97,Diana,Card
+2025-04-03,Color,113.37,Bianca,Cash
+2025-04-03,Highlights,170.41,Esi,Card
+2025-04-03,Blow dry,37.82,Carlos,Cash
+2025-04-03,Product - shampoo,22.62,Bianca,Mobile
+2025-04-03,Treatment,55.21,Diana,Mobile
+2025-04-03,Product - styling,19.31,Esi,Card
+2025-04-03,Blow dry,38.58,Carlos,Mobile
+2025-04-03,Treatment,65.02,Esi,Mobile
+2025-04-03,Blow dry,38.59,Esi,Mobile
+2025-04-03,Product - styling,16.51,Diana,Cash
+2025-04-03,Blow dry,35.89,Diana,Card
+2025-04-04,Color,107.45,Esi,Card
+2025-04-04,Highlights,154.38,Carlos,Mobile
+2025-04-04,Blow dry,33.72,Aisha,Card
+2025-04-04,Haircut,42.09,Bianca,Card
+2025-04-04,Color,100.34,Bianca,Card
+2025-04-04,Color,116.76,Diana,Card
+2025-04-04,Blow dry,31.91,Esi,Card
+2025-04-04,Haircut,44.86,Esi,Card
+2025-04-04,Haircut,40.26,Aisha,Card
+2025-04-04,Haircut,39.14,Carlos,Card
+2025-04-04,Color,120.32,Carlos,Mobile
+2025-04-04,Highlights,158.6,Esi,Mobile
+2025-04-04,Product - styling,17.77,Bianca,Card
+2025-04-04,Haircut,44.99,Aisha,Cash
+2025-04-04,Haircut,42.73,Carlos,Cash
+2025-04-04,Haircut,43.9,Bianca,Card
+2025-04-04,Blow dry,36.55,Diana,Cash
+2025-04-04,Product - shampoo,22.25,Diana,Mobile
+2025-04-04,Color,105.36,Carlos,Mobile
+2025-04-04,Highlights,146.1,Bianca,Card
+2025-04-04,Highlights,157.51,Aisha,Card
+2025-04-04,Product - styling,17.46,Diana,Card
+2025-04-04,Product - shampoo,20.46,Carlos,Mobile
+2025-04-04,Haircut,42.9,Bianca,Card
+2025-04-04,Treatment,54.29,Bianca,Card
+2025-04-04,Highlights,168.39,Diana,Card
+2025-04-04,Product - shampoo,21.38,Carlos,Card
+2025-04-04,Treatment,60.72,Diana,Card
+2025-04-05,Treatment,68.69,Aisha,Mobile
+2025-04-05,Product - styling,18.06,Aisha,Cash
+2025-04-05,Blow dry,34.33,Esi,Cash
+2025-04-05,Haircut,45.15,Aisha,Mobile
+2025-04-05,Treatment,62.48,Esi,Card
+2025-04-05,Haircut,43.89,Aisha,Cash
+2025-04-05,Product - styling,18.08,Bianca,Cash
+2025-04-05,Haircut,40.94,Diana,Card
+2025-04-05,Color,114.79,Esi,Card
+2025-04-05,Highlights,138.96,Esi,Card
+2025-04-05,Product - shampoo,23.09,Carlos,Card
+2025-04-05,Highlights,165.37,Diana,Mobile
+2025-04-05,Treatment,55.02,Aisha,Card
+2025-04-05,Beard trim,18.42,Esi,Card
+2025-04-05,Product - shampoo,24.16,Diana,Card
+2025-04-05,Color,124.04,Bianca,Card
+2025-04-05,Haircut,44.36,Esi,Card
+2025-04-05,Beard trim,21.41,Esi,Card
+2025-04-05,Highlights,170.64,Carlos,Card
+2025-04-05,Color,115.23,Carlos,Card
+2025-04-07,Haircut,38.74,Bianca,Mobile
+2025-04-07,Color,118.74,Carlos,Card
+2025-04-07,Highlights,155.8,Bianca,Card
+2025-04-07,Highlights,137.58,Bianca,Card
+2025-04-07,Product - shampoo,20.13,Esi,Card
+2025-04-07,Beard trim,20.08,Aisha,Cash
+2025-04-07,Blow dry,32.45,Bianca,Cash
+2025-04-07,Product - shampoo,20.76,Aisha,Cash
+2025-04-07,Highlights,146.07,Diana,Cash
+2025-04-07,Haircut,39.45,Carlos,Cash
+2025-04-07,Color,111.88,Esi,Card
+2025-04-07,Product - shampoo,21.8,Diana,Card
+2025-04-07,Color,101.88,Esi,Mobile
+2025-04-07,Blow dry,34.23,Carlos,Cash
+2025-04-07,Haircut,45.77,Carlos,Mobile
+2025-04-07,Highlights,140.62,Carlos,Mobile
+2025-04-08,Highlights,158.52,Diana,Cash
+2025-04-08,Haircut,38.4,Aisha,Mobile
+2025-04-08,Blow dry,32.31,Bianca,Card
+2025-04-08,Highlights,144.13,Esi,Cash
+2025-04-08,Product - styling,19.99,Carlos,Card
+2025-04-08,Haircut,42.77,Bianca,Mobile
+2025-04-08,Beard trim,21.26,Bianca,Card
+2025-04-08,Treatment,58.62,Carlos,Cash
+2025-04-08,Haircut,44.33,Diana,Card
+2025-04-08,Blow dry,32.53,Esi,Cash
+2025-04-08,Haircut,39.39,Carlos,Cash
+2025-04-09,Blow dry,32.2,Esi,Card
+2025-04-09,Product - shampoo,24.24,Bianca,Card
+2025-04-09,Highlights,149.04,Esi,Card
+2025-04-09,Color,105.77,Bianca,Card
+2025-04-09,Beard trim,20.08,Diana,Card
+2025-04-09,Haircut,39.12,Diana,Card
+2025-04-09,Haircut,40.19,Aisha,Cash
+2025-04-09,Color,107.96,Bianca,Card
+2025-04-09,Treatment,60.26,Diana,Card
+2025-04-09,Blow dry,34.29,Diana,Mobile
+2025-04-09,Highlights,155.57,Carlos,Card
+2025-04-09,Beard trim,18.16,Carlos,Cash
+2025-04-10,Haircut,39.66,Esi,Mobile
+2025-04-10,Haircut,45.56,Bianca,Mobile
+2025-04-10,Product - styling,16.54,Esi,Card
+2025-04-10,Product - shampoo,21.6,Aisha,Cash
+2025-04-10,Product - shampoo,21.45,Esi,Cash
+2025-04-10,Highlights,168.02,Aisha,Card
+2025-04-10,Blow dry,35.26,Aisha,Card
+2025-04-10,Haircut,42.6,Esi,Mobile
+2025-04-10,Blow dry,35.14,Esi,Mobile
+2025-04-10,Blow dry,34.29,Carlos,Card
+2025-04-10,Haircut,42.31,Esi,Cash
+2025-04-10,Blow dry,35.52,Esi,Cash
+2025-04-10,Haircut,41.72,Bianca,Cash
+2025-04-10,Treatment,54.7,Aisha,Cash
+2025-04-10,Color,102.07,Bianca,Mobile
+2025-04-10,Beard trim,22.75,Carlos,Card
+2025-04-10,Beard trim,21.12,Esi,Card
+2025-04-10,Haircut,39.08,Diana,Card
+2025-04-10,Color,117.36,Diana,Card
+2025-04-10,Treatment,62.73,Esi,Card
+2025-04-11,Color,106.32,Diana,Card
+2025-04-11,Haircut,45.45,Diana,Mobile
+2025-04-11,Haircut,43.42,Bianca,Mobile
+2025-04-11,Beard trim,21.88,Esi,Card
+2025-04-11,Beard trim,21.96,Esi,Mobile
+2025-04-11,Beard trim,21.69,Diana,Mobile
+2025-04-11,Color,122.1,Bianca,Card
+2025-04-11,Product - shampoo,20.07,Aisha,Card
+2025-04-11,Haircut,39.93,Bianca,Card
+2025-04-11,Haircut,39.91,Diana,Cash
+2025-04-11,Haircut,43.13,Aisha,Card
+2025-04-11,Color,104.59,Carlos,Mobile
+2025-04-11,Treatment,68.66,Aisha,Card
+2025-04-11,Treatment,68.17,Aisha,Mobile
+2025-04-11,Color,122.1,Esi,Cash
+2025-04-11,Blow dry,38.89,Diana,Mobile
+2025-04-11,Product - shampoo,21.24,Diana,Card
+2025-04-11,Haircut,40.71,Bianca,Card
+2025-04-11,Highlights,146.82,Bianca,Card
+2025-04-12,Beard trim,20.62,Carlos,Mobile
+2025-04-12,Blow dry,35.07,Aisha,Card
+2025-04-12,Beard trim,18.95,Esi,Mobile
+2025-04-12,Color,105.26,Bianca,Card
+2025-04-12,Color,102.82,Esi,Card
+2025-04-12,Haircut,37.31,Aisha,Mobile
+2025-04-12,Beard trim,18.86,Aisha,Mobile
+2025-04-12,Beard trim,22.65,Esi,Cash
+2025-04-12,Blow dry,35.15,Aisha,Cash
+2025-04-12,Color,103.98,Diana,Card
+2025-04-12,Product - shampoo,24.61,Bianca,Card
+2025-04-12,Color,117.25,Carlos,Card
+2025-04-12,Beard trim,19.22,Carlos,Card
+2025-04-12,Haircut,45.32,Carlos,Cash
+2025-04-12,Haircut,36.89,Carlos,Card
+2025-04-12,Haircut,37.1,Esi,Card
+2025-04-12,Haircut,37.81,Bianca,Cash
+2025-04-12,Highlights,165.79,Aisha,Cash
+2025-04-12,Product - shampoo,24.05,Carlos,Mobile
+2025-04-12,Blow dry,36.33,Diana,Card
+2025-04-12,Beard trim,21.72,Aisha,Card
+2025-04-12,Highlights,156.68,Diana,Card
+2025-04-12,Beard trim,20.49,Diana,Card
+2025-04-12,Highlights,169.9,Carlos,Cash
+2025-04-12,Haircut,37.81,Bianca,Cash
+2025-04-12,Haircut,39.8,Bianca,Card
+2025-04-12,Product - styling,16.98,Carlos,Mobile
+2025-04-12,Beard trim,20.93,Bianca,Card
+2025-04-12,Highlights,156.16,Diana,Mobile
+2025-04-12,Haircut,43.59,Aisha,Card
+2025-04-12,Product - styling,18.17,Aisha,Card
+2025-04-12,Blow dry,38.03,Bianca,Card
+2025-04-12,Haircut,38.3,Diana,Mobile
+2025-04-14,Product - shampoo,21.98,Bianca,Card
+2025-04-14,Blow dry,34.26,Aisha,Card
+2025-04-14,Highlights,166.6,Aisha,Card
+2025-04-14,Color,102.23,Esi,Card
+2025-04-14,Treatment,56.43,Esi,Card
+2025-04-14,Haircut,40.12,Bianca,Cash
+2025-04-14,Haircut,42.0,Esi,Card
+2025-04-14,Haircut,37.98,Aisha,Card
+2025-04-14,Blow dry,35.63,Esi,Cash
+2025-04-14,Haircut,37.94,Carlos,Cash
+2025-04-14,Haircut,39.42,Carlos,Card
+2025-04-14,Color,122.04,Esi,Card
+2025-04-14,Color,100.93,Carlos,Card
+2025-04-14,Haircut,43.22,Diana,Mobile
+2025-04-15,Product - shampoo,24.12,Diana,Mobile
+2025-04-15,Blow dry,34.75,Esi,Card
+2025-04-15,Color,103.71,Bianca,Card
+2025-04-15,Haircut,41.3,Bianca,Mobile
+2025-04-15,Beard trim,20.17,Carlos,Mobile
+2025-04-15,Highlights,169.92,Esi,Card
+2025-04-15,Haircut,39.55,Aisha,Card
+2025-04-15,Beard trim,18.13,Esi,Card
+2025-04-15,Blow dry,31.81,Bianca,Mobile
+2025-04-15,Blow dry,37.72,Carlos,Card
+2025-04-15,Color,124.5,Carlos,Mobile
+2025-04-15,Haircut,40.13,Esi,Card
+2025-04-15,Beard trim,21.49,Carlos,Card
+2025-04-15,Treatment,61.97,Diana,Cash
+2025-04-16,Treatment,58.66,Esi,Card
+2025-04-16,Blow dry,35.97,Esi,Card
+2025-04-16,Haircut,39.16,Aisha,Mobile
+2025-04-16,Beard trim,19.47,Carlos,Card
+2025-04-16,Beard trim,18.46,Esi,Cash
+2025-04-16,Blow dry,38.44,Carlos,Cash
+2025-04-16,Haircut,45.39,Esi,Mobile
+2025-04-16,Haircut,41.46,Bianca,Card
+2025-04-16,Beard trim,21.14,Aisha,Cash
+2025-04-16,Beard trim,22.34,Bianca,Card
+2025-04-17,Treatment,65.46,Aisha,Mobile
+2025-04-17,Treatment,60.97,Diana,Cash
+2025-04-17,Haircut,41.88,Bianca,Card
+2025-04-17,Beard trim,18.51,Bianca,Mobile
+2025-04-17,Highlights,163.97,Carlos,Card
+2025-04-17,Beard trim,19.15,Carlos,Cash
+2025-04-17,Treatment,56.94,Esi,Mobile
+2025-04-17,Haircut,40.7,Esi,Mobile
+2025-04-17,Haircut,39.73,Diana,Mobile
+2025-04-17,Highlights,169.55,Diana,Card
+2025-04-17,Product - shampoo,21.41,Esi,Cash
+2025-04-17,Product - styling,19.19,Esi,Card
+2025-04-17,Haircut,43.44,Bianca,Card
+2025-04-17,Product - styling,17.57,Bianca,Card
+2025-04-17,Product - styling,18.62,Bianca,Card
+2025-04-17,Product - shampoo,24.15,Diana,Card
+2025-04-17,Haircut,42.36,Carlos,Card
+2025-04-17,Beard trim,18.31,Diana,Card
+2025-04-17,Haircut,41.34,Esi,Card
+2025-04-17,Color,115.62,Aisha,Card
+2025-04-17,Product - styling,17.94,Bianca,Cash
+2025-04-17,Haircut,40.34,Bianca,Card
+2025-04-18,Product - styling,19.19,Aisha,Card
+2025-04-18,Haircut,42.31,Carlos,Cash
+2025-04-18,Haircut,38.75,Diana,Cash
+2025-04-18,Haircut,42.35,Aisha,Cash
+2025-04-18,Beard trim,20.92,Carlos,Cash
+2025-04-18,Beard trim,22.85,Esi,Mobile
+2025-04-18,Haircut,43.13,Diana,Mobile
+2025-04-18,Haircut,36.1,Carlos,Card
+2025-04-18,Haircut,37.79,Aisha,Mobile
+2025-04-18,Product - shampoo,21.6,Carlos,Card
+2025-04-18,Treatment,58.68,Carlos,Card
+2025-04-18,Haircut,36.14,Esi,Card
+2025-04-18,Treatment,54.09,Bianca,Card
+2025-04-18,Product - shampoo,24.28,Carlos,Card
+2025-04-18,Haircut,44.95,Diana,Card
+2025-04-18,Product - styling,19.04,Bianca,Card
+2025-04-18,Haircut,40.59,Carlos,Card
+2025-04-18,Haircut,43.92,Aisha,Card
+2025-04-18,Haircut,40.88,Carlos,Mobile
+2025-04-18,Color,120.47,Bianca,Card
+2025-04-18,Color,123.23,Carlos,Card
+2025-04-18,Product - shampoo,21.33,Diana,Card
+2025-04-19,Highlights,138.52,Aisha,Mobile
+2025-04-19,Haircut,38.85,Diana,Card
+2025-04-19,Blow dry,37.34,Esi,Card
+2025-04-19,Product - styling,19.66,Bianca,Cash
+2025-04-19,Blow dry,39.4,Carlos,Mobile
+2025-04-19,Product - styling,19.5,Esi,Mobile
+2025-04-19,Blow dry,36.46,Esi,Card
+2025-04-19,Treatment,62.37,Aisha,Cash
+2025-04-19,Haircut,40.14,Carlos,Cash
+2025-04-19,Treatment,65.4,Bianca,Mobile
+2025-04-19,Product - styling,17.12,Bianca,Mobile
+2025-04-19,Haircut,39.6,Esi,Card
+2025-04-19,Beard trim,22.91,Carlos,Mobile
+2025-04-19,Haircut,43.06,Aisha,Cash
+2025-04-19,Haircut,36.83,Carlos,Cash
+2025-04-19,Product - styling,20.01,Esi,Card
+2025-04-19,Beard trim,21.16,Bianca,Cash
+2025-04-19,Product - styling,17.74,Carlos,Card
+2025-04-19,Beard trim,22.57,Aisha,Card
+2025-04-19,Product - shampoo,24.38,Aisha,Card
+2025-04-19,Blow dry,38.63,Esi,Cash
+2025-04-19,Beard trim,18.61,Aisha,Card
+2025-04-19,Highlights,136.3,Bianca,Cash
+2025-04-19,Highlights,157.94,Carlos,Card
+2025-04-21,Product - shampoo,24.06,Esi,Card
+2025-04-21,Haircut,38.49,Diana,Card
+2025-04-21,Blow dry,32.0,Diana,Card
+2025-04-21,Blow dry,36.0,Esi,Card
+2025-04-21,Haircut,43.61,Bianca,Mobile
+2025-04-21,Haircut,37.52,Bianca,Card
+2025-04-21,Highlights,154.93,Bianca,Card
+2025-04-21,Beard trim,21.74,Diana,Card
+2025-04-21,Product - styling,17.18,Diana,Card
+2025-04-21,Treatment,62.39,Aisha,Mobile
+2025-04-21,Color,102.6,Bianca,Card
+2025-04-21,Color,116.53,Bianca,Card
+2025-04-21,Color,104.99,Carlos,Card
+2025-04-21,Haircut,42.96,Diana,Card
+2025-04-21,Haircut,45.49,Aisha,Card
+2025-04-21,Product - shampoo,25.23,Esi,Card
+2025-04-21,Beard trim,18.03,Bianca,Card
+2025-04-22,Haircut,38.67,Aisha,Mobile
+2025-04-22,Color,114.56,Esi,Mobile
+2025-04-22,Haircut,41.36,Aisha,Mobile
+2025-04-22,Product - styling,16.94,Diana,Mobile
+2025-04-22,Product - shampoo,21.44,Carlos,Mobile
+2025-04-22,Color,120.41,Esi,Mobile
+2025-04-22,Haircut,40.74,Aisha,Card
+2025-04-22,Blow dry,39.6,Diana,Cash
+2025-04-22,Haircut,37.73,Diana,Card
+2025-04-22,Color,112.43,Carlos,Card
+2025-04-22,Haircut,41.2,Esi,Card
+2025-04-22,Blow dry,37.3,Diana,Card
+2025-04-22,Blow dry,37.59,Esi,Card
+2025-04-23,Treatment,58.5,Bianca,Card
+2025-04-23,Highlights,164.55,Diana,Card
+2025-04-23,Highlights,152.48,Bianca,Card
+2025-04-23,Blow dry,33.99,Esi,Card
+2025-04-23,Color,104.59,Aisha,Card
+2025-04-23,Color,111.97,Carlos,Card
+2025-04-23,Beard trim,21.61,Bianca,Mobile
+2025-04-23,Product - shampoo,20.24,Aisha,Card
+2025-04-23,Color,99.53,Carlos,Mobile
+2025-04-23,Blow dry,35.33,Carlos,Cash
+2025-04-24,Treatment,66.34,Esi,Card
+2025-04-24,Haircut,45.21,Diana,Card
+2025-04-24,Highlights,142.65,Esi,Card
+2025-04-24,Product - styling,20.13,Diana,Card
+2025-04-24,Product - styling,18.18,Bianca,Card
+2025-04-24,Haircut,44.51,Aisha,Card
+2025-04-24,Highlights,171.88,Esi,Card
+2025-04-24,Blow dry,35.77,Bianca,Card
+2025-04-24,Beard trim,22.45,Bianca,Cash
+2025-04-24,Product - shampoo,21.6,Bianca,Cash
+2025-04-24,Color,123.55,Aisha,Card
+2025-04-24,Highlights,140.63,Aisha,Card
+2025-04-24,Product - shampoo,21.26,Diana,Card
+2025-04-24,Product - styling,18.83,Esi,Card
+2025-04-24,Beard trim,18.45,Aisha,Cash
+2025-04-24,Haircut,44.66,Diana,Mobile
+2025-04-24,Beard trim,22.63,Bianca,Card
+2025-04-24,Haircut,45.37,Bianca,Card
+2025-04-24,Beard trim,21.94,Esi,Mobile
+2025-04-25,Blow dry,37.29,Esi,Card
+2025-04-25,Treatment,60.8,Aisha,Card
+2025-04-25,Blow dry,33.79,Diana,Cash
+2025-04-25,Product - styling,18.84,Carlos,Cash
+2025-04-25,Color,124.38,Carlos,Card
+2025-04-25,Color,102.13,Esi,Cash
+2025-04-25,Product - shampoo,21.43,Carlos,Mobile
+2025-04-25,Highlights,159.82,Esi,Card
+2025-04-25,Color,100.23,Diana,Card
+2025-04-25,Haircut,44.63,Esi,Mobile
+2025-04-25,Haircut,39.86,Aisha,Cash
+2025-04-25,Beard trim,20.09,Esi,Card
+2025-04-25,Color,107.71,Esi,Cash
+2025-04-25,Blow dry,36.16,Bianca,Mobile
+2025-04-25,Treatment,67.21,Aisha,Card
+2025-04-25,Color,110.42,Aisha,Card
+2025-04-25,Treatment,64.23,Carlos,Card
+2025-04-25,Beard trim,22.83,Diana,Mobile
+2025-04-26,Product - styling,20.42,Diana,Card
+2025-04-26,Color,100.97,Diana,Card
+2025-04-26,Product - shampoo,22.86,Bianca,Card
+2025-04-26,Haircut,42.77,Esi,Cash
+2025-04-26,Beard trim,19.84,Esi,Card
+2025-04-26,Beard trim,18.47,Bianca,Mobile
+2025-04-26,Beard trim,22.1,Aisha,Card
+2025-04-26,Treatment,66.81,Bianca,Card
+2025-04-26,Haircut,40.74,Aisha,Mobile
+2025-04-26,Treatment,58.73,Diana,Card
+2025-04-26,Haircut,36.84,Esi,Card
+2025-04-26,Color,117.59,Esi,Card
+2025-04-26,Haircut,38.98,Diana,Cash
+2025-04-26,Highlights,160.76,Diana,Card
+2025-04-26,Blow dry,33.99,Bianca,Cash
+2025-04-26,Product - shampoo,22.84,Carlos,Mobile
+2025-04-26,Haircut,39.37,Esi,Mobile
+2025-04-26,Haircut,40.51,Carlos,Mobile
+2025-04-26,Color,109.06,Aisha,Card
+2025-04-26,Color,119.56,Diana,Card
+2025-04-26,Haircut,43.87,Esi,Mobile
+2025-04-26,Product - shampoo,21.2,Carlos,Cash
+2025-04-26,Highlights,159.49,Diana,Mobile
+2025-04-26,Treatment,57.72,Esi,Card
+2025-04-26,Haircut,39.21,Esi,Cash
+2025-04-26,Treatment,56.89,Aisha,Mobile
+2025-04-28,Highlights,154.9,Carlos,Cash
+2025-04-28,Haircut,38.13,Aisha,Card
+2025-04-28,Beard trim,19.53,Carlos,Cash
+2025-04-28,Product - shampoo,21.33,Carlos,Card
+2025-04-28,Blow dry,34.26,Esi,Cash
+2025-04-28,Haircut,39.63,Carlos,Card
+2025-04-28,Blow dry,38.52,Diana,Cash
+2025-04-28,Haircut,43.33,Diana,Cash
+2025-04-28,Haircut,39.34,Carlos,Card
+2025-04-28,Highlights,169.52,Esi,Cash
+2025-04-28,Color,120.15,Esi,Card
+2025-04-28,Haircut,44.28,Carlos,Mobile
+2025-04-28,Product - styling,20.54,Carlos,Mobile
+2025-04-28,Color,120.49,Aisha,Cash
+2025-04-28,Product - shampoo,24.69,Bianca,Card
+2025-04-28,Haircut,40.95,Aisha,Mobile
+2025-04-29,Blow dry,33.76,Diana,Card
+2025-04-29,Blow dry,34.24,Bianca,Card
+2025-04-29,Product - styling,17.94,Esi,Mobile
+2025-04-29,Beard trim,22.21,Bianca,Card
+2025-04-29,Product - shampoo,20.15,Carlos,Mobile
+2025-04-29,Highlights,162.01,Esi,Cash
+2025-04-29,Color,125.89,Diana,Card
+2025-04-29,Haircut,37.89,Carlos,Card
+2025-04-29,Beard trim,21.54,Carlos,Card
+2025-04-29,Treatment,66.69,Bianca,Card
+2025-04-29,Blow dry,34.68,Carlos,Cash
+2025-04-29,Haircut,43.28,Esi,Card
+2025-04-29,Beard trim,20.45,Diana,Mobile
+2025-04-30,Blow dry,37.19,Bianca,Cash
+2025-04-30,Haircut,42.63,Carlos,Card
+2025-04-30,Highlights,159.89,Bianca,Mobile
+2025-04-30,Haircut,42.3,Aisha,Card
+2025-04-30,Product - styling,18.02,Esi,Card
+2025-04-30,Haircut,41.2,Bianca,Card
+2025-04-30,Treatment,63.08,Aisha,Mobile
+2025-04-30,Color,120.29,Diana,Card
+2025-04-30,Haircut,41.51,Carlos,Cash
+2025-04-30,Haircut,37.98,Bianca,Mobile
+2025-04-30,Haircut,44.19,Esi,Mobile
+2025-04-30,Treatment,60.66,Diana,Cash
+2025-04-30,Color,114.25,Diana,Cash
+2025-04-30,Beard trim,20.05,Aisha,Cash
+2025-04-30,Color,103.85,Bianca,Cash
+2025-04-30,Highlights,162.28,Aisha,Card
+2025-04-30,Blow dry,34.02,Bianca,Card
+2025-04-30,Highlights,147.56,Esi,Card
+2025-05-01,Highlights,161.88,Carlos,Card
+2025-05-01,Beard trim,19.29,Bianca,Mobile
+2025-05-01,Product - shampoo,24.87,Diana,Card
+2025-05-01,Haircut,39.77,Carlos,Card
+2025-05-01,Treatment,61.96,Aisha,Card
+2025-05-01,Blow dry,38.91,Bianca,Mobile
+2025-05-01,Haircut,40.96,Esi,Card
+2025-05-01,Beard trim,22.05,Aisha,Cash
+2025-05-01,Beard trim,22.94,Esi,Mobile
+2025-05-01,Beard trim,21.46,Diana,Cash
+2025-05-01,Haircut,41.07,Bianca,Cash
+2025-05-01,Haircut,36.68,Carlos,Mobile
+2025-05-01,Highlights,144.09,Aisha,Card
+2025-05-01,Product - shampoo,20.84,Carlos,Card
+2025-05-01,Product - shampoo,25.06,Aisha,Card
+2025-05-01,Highlights,141.53,Diana,Card
+2025-05-01,Highlights,137.97,Aisha,Card
+2025-05-01,Product - styling,16.6,Aisha,Card
+2025-05-01,Color,116.02,Bianca,Card
+2025-05-01,Highlights,160.29,Esi,Card
+2025-05-02,Haircut,42.62,Bianca,Card
+2025-05-02,Treatment,62.76,Diana,Card
+2025-05-02,Treatment,66.25,Esi,Card
+2025-05-02,Haircut,38.58,Aisha,Cash
+2025-05-02,Blow dry,36.52,Aisha,Card
+2025-05-02,Haircut,37.28,Aisha,Mobile
+2025-05-02,Product - shampoo,24.8,Carlos,Card
+2025-05-02,Highlights,156.52,Diana,Card
+2025-05-02,Blow dry,34.47,Aisha,Card
+2025-05-02,Haircut,40.12,Esi,Card
+2025-05-02,Product - shampoo,23.49,Diana,Card
+2025-05-02,Product - shampoo,21.97,Aisha,Card
+2025-05-02,Product - styling,18.19,Esi,Card
+2025-05-02,Haircut,42.32,Carlos,Cash
+2025-05-02,Haircut,44.36,Esi,Mobile
+2025-05-02,Haircut,38.07,Diana,Card
+2025-05-02,Highlights,137.75,Esi,Mobile
+2025-05-02,Product - shampoo,20.07,Aisha,Cash
+2025-05-02,Haircut,38.24,Bianca,Cash
+2025-05-02,Haircut,39.93,Esi,Card
+2025-05-02,Beard trim,20.49,Bianca,Cash
+2025-05-02,Beard trim,22.76,Bianca,Mobile
+2025-05-03,Haircut,38.23,Bianca,Card
+2025-05-03,Product - shampoo,23.31,Esi,Card
+2025-05-03,Blow dry,33.1,Diana,Cash
+2025-05-03,Product - shampoo,24.88,Carlos,Cash
+2025-05-03,Beard trim,21.71,Carlos,Card
+2025-05-03,Highlights,163.84,Bianca,Cash
+2025-05-03,Blow dry,38.02,Diana,Card
+2025-05-03,Product - shampoo,24.72,Bianca,Cash
+2025-05-03,Beard trim,19.06,Diana,Card
+2025-05-03,Highlights,157.02,Diana,Card
+2025-05-03,Color,123.3,Carlos,Card
+2025-05-03,Blow dry,32.24,Aisha,Cash
+2025-05-03,Treatment,55.31,Carlos,Mobile
+2025-05-03,Haircut,38.1,Bianca,Card
+2025-05-03,Haircut,45.33,Bianca,Card
+2025-05-03,Haircut,45.31,Esi,Mobile
+2025-05-03,Haircut,37.14,Esi,Card
+2025-05-03,Haircut,36.76,Bianca,Card
+2025-05-03,Blow dry,36.3,Carlos,Card
+2025-05-03,Beard trim,19.16,Aisha,Mobile
+2025-05-03,Color,106.39,Esi,Card
+2025-05-03,Haircut,40.59,Bianca,Card
+2025-05-03,Blow dry,34.1,Diana,Card
+2025-05-03,Product - styling,17.55,Bianca,Cash
+2025-05-03,Beard trim,19.09,Esi,Card
+2025-05-03,Haircut,40.61,Aisha,Card
+2025-05-05,Haircut,40.81,Diana,Card
+2025-05-05,Haircut,44.2,Carlos,Cash
+2025-05-05,Treatment,65.34,Aisha,Card
+2025-05-05,Beard trim,21.01,Bianca,Card
+2025-05-05,Beard trim,19.11,Carlos,Cash
+2025-05-05,Highlights,159.5,Aisha,Mobile
+2025-05-05,Product - styling,20.17,Diana,Card
+2025-05-05,Haircut,40.05,Diana,Card
+2025-05-05,Blow dry,34.33,Carlos,Card
+2025-05-05,Haircut,41.12,Aisha,Card
+2025-05-05,Product - styling,19.38,Esi,Cash
+2025-05-05,Beard trim,18.82,Diana,Card
+2025-05-06,Treatment,67.74,Esi,Card
+2025-05-06,Haircut,39.47,Carlos,Cash
+2025-05-06,Haircut,44.07,Esi,Mobile
+2025-05-06,Beard trim,18.15,Bianca,Card
+2025-05-06,Haircut,40.93,Esi,Card
+2025-05-06,Beard trim,18.81,Bianca,Card
+2025-05-06,Haircut,37.93,Esi,Card
+2025-05-06,Treatment,59.11,Carlos,Card
+2025-05-06,Color,110.8,Aisha,Card
+2025-05-06,Beard trim,18.84,Esi,Card
+2025-05-06,Product - shampoo,24.27,Bianca,Cash
+2025-05-06,Haircut,41.85,Bianca,Card
+2025-05-06,Haircut,38.0,Bianca,Card
+2025-05-07,Highlights,145.76,Esi,Card
+2025-05-07,Beard trim,20.95,Bianca,Card
+2025-05-07,Treatment,64.93,Diana,Card
+2025-05-07,Color,102.73,Bianca,Mobile
+2025-05-07,Highlights,138.6,Carlos,Card
+2025-05-07,Treatment,55.03,Esi,Card
+2025-05-07,Highlights,136.73,Carlos,Mobile
+2025-05-07,Haircut,43.06,Bianca,Card
+2025-05-07,Haircut,44.66,Carlos,Card
+2025-05-07,Beard trim,21.32,Aisha,Cash
+2025-05-07,Product - styling,18.92,Carlos,Card
+2025-05-07,Highlights,136.31,Esi,Card
+2025-05-07,Product - styling,17.62,Aisha,Card
+2025-05-08,Treatment,57.71,Bianca,Card
+2025-05-08,Color,112.85,Diana,Mobile
+2025-05-08,Color,124.15,Diana,Card
+2025-05-08,Beard trim,21.65,Diana,Card
+2025-05-08,Haircut,44.27,Bianca,Card
+2025-05-08,Treatment,55.14,Esi,Card
+2025-05-08,Product - styling,18.92,Bianca,Cash
+2025-05-08,Haircut,44.05,Carlos,Mobile
+2025-05-08,Product - shampoo,22.16,Aisha,Mobile
+2025-05-08,Beard trim,21.69,Carlos,Card
+2025-05-08,Beard trim,20.44,Diana,Card
+2025-05-08,Haircut,40.31,Carlos,Card
+2025-05-08,Blow dry,35.46,Carlos,Cash
+2025-05-08,Highlights,155.39,Aisha,Card
+2025-05-08,Treatment,58.6,Carlos,Cash
+2025-05-08,Haircut,39.67,Aisha,Cash
+2025-05-08,Color,109.15,Esi,Card
+2025-05-08,Color,109.96,Carlos,Mobile
+2025-05-08,Haircut,43.15,Diana,Cash
+2025-05-08,Haircut,42.74,Bianca,Mobile
+2025-05-08,Product - shampoo,24.02,Aisha,Card
+2025-05-09,Color,106.83,Esi,Card
+2025-05-09,Color,113.41,Carlos,Card
+2025-05-09,Haircut,42.09,Aisha,Mobile
+2025-05-09,Haircut,36.9,Esi,Cash
+2025-05-09,Color,101.05,Bianca,Mobile
+2025-05-09,Highlights,143.13,Esi,Mobile
+2025-05-09,Beard trim,19.75,Bianca,Cash
+2025-05-09,Beard trim,19.12,Diana,Card
+2025-05-09,Product - shampoo,21.01,Bianca,Card
+2025-05-09,Beard trim,22.84,Carlos,Card
+2025-05-09,Beard trim,20.64,Diana,Mobile
+2025-05-09,Haircut,45.85,Diana,Card
+2025-05-09,Color,102.5,Bianca,Cash
+2025-05-09,Color,109.48,Aisha,Mobile
+2025-05-09,Treatment,57.92,Esi,Mobile
+2025-05-09,Haircut,37.97,Bianca,Cash
+2025-05-09,Product - shampoo,23.91,Aisha,Cash
+2025-05-09,Haircut,44.4,Bianca,Card
+2025-05-09,Beard trim,21.93,Carlos,Card
+2025-05-09,Haircut,40.74,Carlos,Card
+2025-05-09,Product - shampoo,21.23,Bianca,Card
+2025-05-09,Blow dry,34.94,Diana,Card
+2025-05-10,Beard trim,22.88,Diana,Cash
+2025-05-10,Beard trim,22.17,Carlos,Card
+2025-05-10,Color,108.17,Aisha,Card
+2025-05-10,Blow dry,38.91,Esi,Card
+2025-05-10,Product - styling,18.04,Aisha,Cash
+2025-05-10,Blow dry,36.87,Bianca,Card
+2025-05-10,Haircut,45.12,Bianca,Card
+2025-05-10,Highlights,143.88,Diana,Cash
+2025-05-10,Beard trim,18.67,Esi,Cash
+2025-05-10,Color,104.38,Bianca,Cash
+2025-05-10,Haircut,36.24,Carlos,Card
+2025-05-10,Haircut,44.06,Esi,Card
+2025-05-10,Blow dry,37.72,Esi,Mobile
+2025-05-10,Treatment,62.35,Diana,Card
+2025-05-10,Haircut,41.37,Diana,Card
+2025-05-10,Beard trim,20.66,Aisha,Cash
+2025-05-10,Haircut,37.67,Bianca,Card
+2025-05-10,Beard trim,18.37,Carlos,Card
+2025-05-10,Blow dry,33.71,Diana,Card
+2025-05-10,Color,115.52,Aisha,Card
+2025-05-12,Haircut,45.68,Carlos,Mobile
+2025-05-12,Color,125.92,Carlos,Card
+2025-05-12,Haircut,44.7,Diana,Card
+2025-05-12,Beard trim,19.49,Bianca,Cash
+2025-05-12,Haircut,43.67,Esi,Card
+2025-05-12,Beard trim,21.65,Esi,Mobile
+2025-05-12,Beard trim,18.97,Bianca,Mobile
+2025-05-12,Highlights,166.54,Bianca,Card
+2025-05-12,Product - shampoo,20.55,Bianca,Card
+2025-05-12,Beard trim,18.22,Carlos,Card
+2025-05-12,Beard trim,20.98,Carlos,Card
+2025-05-12,Product - shampoo,21.27,Diana,Card
+2025-05-12,Haircut,41.76,Esi,Card
+2025-05-13,Highlights,147.5,Esi,Mobile
+2025-05-13,Haircut,41.99,Carlos,Cash
+2025-05-13,Blow dry,36.3,Diana,Cash
+2025-05-13,Treatment,63.48,Esi,Mobile
+2025-05-13,Blow dry,32.27,Carlos,Cash
+2025-05-13,Haircut,39.54,Aisha,Card
+2025-05-13,Haircut,42.99,Carlos,Card
+2025-05-13,Haircut,44.68,Diana,Card
+2025-05-13,Color,99.32,Diana,Card
+2025-05-13,Product - shampoo,24.9,Aisha,Cash
+2025-05-13,Treatment,55.46,Aisha,Card
+2025-05-13,Beard trim,20.46,Bianca,Cash
+2025-05-13,Blow dry,37.45,Carlos,Card
+2025-05-14,Product - shampoo,24.43,Esi,Mobile
+2025-05-14,Blow dry,36.63,Bianca,Mobile
+2025-05-14,Haircut,41.3,Bianca,Card
+2025-05-14,Haircut,37.89,Bianca,Mobile
+2025-05-14,Color,100.28,Carlos,Card
+2025-05-14,Blow dry,35.55,Carlos,Card
+2025-05-14,Highlights,150.74,Esi,Cash
+2025-05-14,Color,120.56,Carlos,Card
+2025-05-14,Product - styling,16.85,Bianca,Cash
+2025-05-14,Beard trim,19.72,Diana,Cash
+2025-05-14,Blow dry,40.23,Diana,Cash
+2025-05-14,Color,102.31,Aisha,Card
+2025-05-14,Beard trim,18.24,Carlos,Card
+2025-05-15,Color,125.72,Carlos,Cash
+2025-05-15,Color,108.5,Bianca,Cash
+2025-05-15,Product - shampoo,24.93,Carlos,Cash
+2025-05-15,Color,101.26,Diana,Card
+2025-05-15,Product - styling,18.88,Aisha,Card
+2025-05-15,Beard trim,20.67,Diana,Mobile
+2025-05-15,Product - shampoo,23.17,Diana,Card
+2025-05-15,Beard trim,20.5,Aisha,Card
+2025-05-15,Haircut,36.46,Aisha,Card
+2025-05-15,Color,119.32,Bianca,Cash
+2025-05-15,Product - styling,19.65,Bianca,Cash
+2025-05-15,Beard trim,19.06,Aisha,Card
+2025-05-15,Treatment,59.24,Aisha,Mobile
+2025-05-16,Highlights,149.49,Bianca,Cash
+2025-05-16,Color,125.73,Aisha,Cash
+2025-05-16,Product - styling,17.74,Esi,Mobile
+2025-05-16,Blow dry,35.76,Carlos,Mobile
+2025-05-16,Highlights,147.15,Diana,Cash
+2025-05-16,Beard trim,20.25,Bianca,Card
+2025-05-16,Product - shampoo,20.02,Bianca,Mobile
+2025-05-16,Beard trim,22.59,Esi,Card
+2025-05-16,Blow dry,36.25,Carlos,Card
+2025-05-16,Haircut,42.56,Carlos,Card
+2025-05-16,Haircut,40.57,Esi,Cash
+2025-05-16,Color,118.52,Carlos,Card
+2025-05-16,Treatment,68.61,Diana,Card
+2025-05-16,Haircut,40.26,Aisha,Card
+2025-05-16,Beard trim,18.9,Esi,Mobile
+2025-05-16,Highlights,165.14,Diana,Card
+2025-05-16,Color,103.93,Diana,Cash
+2025-05-16,Color,116.01,Bianca,Card
+2025-05-16,Color,117.1,Diana,Mobile
+2025-05-16,Blow dry,31.58,Aisha,Mobile
+2025-05-16,Product - styling,19.11,Diana,Cash
+2025-05-16,Treatment,56.6,Esi,Card
+2025-05-17,Haircut,44.56,Aisha,Card
+2025-05-17,Blow dry,39.6,Esi,Card
+2025-05-17,Haircut,41.37,Carlos,Card
+2025-05-17,Beard trim,19.3,Esi,Cash
+2025-05-17,Product - shampoo,23.38,Diana,Card
+2025-05-17,Beard trim,20.22,Aisha,Cash
+2025-05-17,Beard trim,22.09,Esi,Cash
+2025-05-17,Haircut,41.97,Aisha,Card
+2025-05-17,Product - styling,19.13,Aisha,Card
+2025-05-17,Beard trim,19.41,Bianca,Card
+2025-05-17,Haircut,41.34,Aisha,Card
+2025-05-17,Haircut,44.83,Diana,Card
+2025-05-17,Blow dry,33.82,Aisha,Mobile
+2025-05-17,Product - shampoo,23.65,Aisha,Card
+2025-05-17,Highlights,160.96,Aisha,Cash
+2025-05-17,Beard trim,19.89,Carlos,Card
+2025-05-17,Beard trim,18.55,Diana,Card
+2025-05-17,Blow dry,36.2,Carlos,Cash
+2025-05-17,Haircut,39.02,Bianca,Card
+2025-05-17,Product - styling,16.96,Bianca,Card
+2025-05-17,Product - styling,16.78,Aisha,Mobile
+2025-05-17,Color,114.31,Esi,Card
+2025-05-17,Haircut,37.2,Diana,Mobile
+2025-05-17,Highlights,152.57,Esi,Card
+2025-05-17,Product - shampoo,22.05,Aisha,Card
+2025-05-17,Color,101.98,Aisha,Card
+2025-05-19,Product - shampoo,22.45,Esi,Mobile
+2025-05-19,Haircut,41.36,Diana,Card
+2025-05-19,Product - shampoo,22.39,Carlos,Cash
+2025-05-19,Haircut,45.4,Diana,Card
+2025-05-19,Beard trim,22.92,Carlos,Mobile
+2025-05-19,Haircut,41.08,Esi,Cash
+2025-05-19,Haircut,38.06,Carlos,Cash
+2025-05-19,Color,115.63,Bianca,Cash
+2025-05-19,Product - shampoo,20.56,Esi,Card
+2025-05-19,Treatment,59.13,Diana,Card
+2025-05-19,Beard trim,21.86,Carlos,Card
+2025-05-19,Highlights,157.21,Diana,Cash
+2025-05-20,Haircut,41.4,Diana,Mobile
+2025-05-20,Beard trim,19.64,Aisha,Card
+2025-05-20,Color,100.95,Aisha,Mobile
+2025-05-20,Product - styling,18.46,Bianca,Card
+2025-05-20,Haircut,41.58,Diana,Cash
+2025-05-20,Haircut,41.43,Esi,Mobile
+2025-05-20,Beard trim,21.49,Diana,Mobile
+2025-05-20,Blow dry,39.26,Aisha,Card
+2025-05-20,Treatment,66.0,Bianca,Cash
+2025-05-21,Haircut,44.2,Bianca,Mobile
+2025-05-21,Color,100.14,Bianca,Card
+2025-05-21,Color,100.27,Carlos,Card
+2025-05-21,Color,122.36,Diana,Mobile
+2025-05-21,Beard trim,21.36,Diana,Cash
+2025-05-21,Treatment,62.69,Carlos,Card
+2025-05-21,Product - styling,17.09,Carlos,Card
+2025-05-21,Blow dry,35.18,Esi,Cash
+2025-05-21,Highlights,170.12,Bianca,Card
+2025-05-21,Blow dry,37.67,Diana,Cash
+2025-05-21,Product - shampoo,23.03,Diana,Cash
+2025-05-21,Beard trim,20.49,Bianca,Card
+2025-05-21,Haircut,43.64,Aisha,Mobile
+2025-05-21,Treatment,60.68,Diana,Card
+2025-05-21,Product - shampoo,24.85,Diana,Mobile
+2025-05-21,Product - styling,19.43,Diana,Card
+2025-05-21,Color,100.91,Esi,Card
+2025-05-21,Color,101.05,Carlos,Card
+2025-05-22,Blow dry,39.22,Aisha,Card
+2025-05-22,Beard trim,18.84,Esi,Cash
+2025-05-22,Product - styling,17.43,Diana,Cash
+2025-05-22,Haircut,41.31,Esi,Card
+2025-05-22,Blow dry,37.77,Esi,Cash
+2025-05-22,Beard trim,18.57,Esi,Card
+2025-05-22,Haircut,40.99,Aisha,Card
+2025-05-22,Beard trim,20.52,Esi,Mobile
+2025-05-22,Beard trim,20.74,Esi,Card
+2025-05-22,Haircut,38.6,Aisha,Mobile
+2025-05-22,Product - shampoo,23.81,Diana,Card
+2025-05-22,Product - shampoo,20.98,Carlos,Mobile
+2025-05-22,Beard trim,21.2,Aisha,Card
+2025-05-22,Beard trim,22.34,Carlos,Card
+2025-05-22,Color,111.67,Diana,Card
+2025-05-22,Beard trim,20.6,Carlos,Card
+2025-05-22,Blow dry,36.14,Carlos,Card
+2025-05-22,Product - styling,16.59,Carlos,Card
+2025-05-22,Beard trim,21.45,Bianca,Cash
+2025-05-22,Color,114.19,Diana,Card
+2025-05-22,Haircut,36.58,Diana,Card
+2025-05-23,Color,103.31,Aisha,Card
+2025-05-23,Treatment,60.9,Esi,Card
+2025-05-23,Highlights,159.61,Esi,Card
+2025-05-23,Haircut,36.68,Esi,Cash
+2025-05-23,Product - styling,18.71,Bianca,Mobile
+2025-05-23,Beard trim,19.42,Aisha,Card
+2025-05-23,Color,125.84,Aisha,Mobile
+2025-05-23,Blow dry,39.0,Carlos,Cash
+2025-05-23,Color,106.14,Aisha,Card
+2025-05-23,Product - styling,18.0,Esi,Card
+2025-05-23,Blow dry,37.54,Aisha,Card
+2025-05-23,Treatment,66.99,Diana,Mobile
+2025-05-23,Color,103.87,Aisha,Card
+2025-05-23,Haircut,37.95,Aisha,Mobile
+2025-05-23,Blow dry,31.78,Esi,Mobile
+2025-05-23,Product - shampoo,24.74,Carlos,Cash
+2025-05-23,Haircut,42.42,Esi,Card
+2025-05-23,Blow dry,31.97,Bianca,Card
+2025-05-23,Beard trim,22.52,Diana,Card
+2025-05-23,Treatment,66.51,Aisha,Card
+2025-05-23,Highlights,167.05,Aisha,Card
+2025-05-23,Blow dry,32.56,Carlos,Card
+2025-05-23,Beard trim,21.56,Esi,Mobile
+2025-05-23,Product - styling,17.75,Carlos,Card
+2025-05-23,Color,105.09,Diana,Card
+2025-05-24,Product - styling,19.83,Carlos,Cash
+2025-05-24,Haircut,44.75,Esi,Card
+2025-05-24,Product - shampoo,23.84,Diana,Card
+2025-05-24,Beard trim,22.93,Esi,Cash
+2025-05-24,Haircut,39.04,Aisha,Card
+2025-05-24,Treatment,59.29,Esi,Cash
+2025-05-24,Haircut,44.89,Diana,Card
+2025-05-24,Highlights,172.4,Esi,Mobile
+2025-05-24,Product - shampoo,24.72,Diana,Card
+2025-05-24,Haircut,40.56,Esi,Cash
+2025-05-24,Blow dry,32.4,Esi,Card
+2025-05-24,Product - shampoo,22.77,Bianca,Card
+2025-05-24,Color,124.0,Diana,Card
+2025-05-24,Haircut,38.85,Esi,Cash
+2025-05-24,Haircut,40.91,Diana,Card
+2025-05-24,Beard trim,20.26,Bianca,Cash
+2025-05-24,Product - shampoo,22.37,Bianca,Cash
+2025-05-24,Beard trim,19.9,Aisha,Cash
+2025-05-24,Product - shampoo,23.95,Bianca,Mobile
+2025-05-24,Beard trim,22.84,Aisha,Card
+2025-05-24,Haircut,37.69,Esi,Card
+2025-05-24,Highlights,150.36,Carlos,Card
+2025-05-24,Haircut,40.91,Bianca,Card
+2025-05-24,Haircut,43.16,Bianca,Mobile
+2025-05-24,Haircut,38.96,Bianca,Card
+2025-05-26,Treatment,66.67,Bianca,Card
+2025-05-26,Beard trim,18.66,Carlos,Cash
+2025-05-26,Product - styling,16.27,Carlos,Card
+2025-05-26,Product - styling,17.02,Carlos,Mobile
+2025-05-26,Highlights,157.91,Esi,Card
+2025-05-26,Haircut,39.15,Diana,Card
+2025-05-26,Highlights,149.19,Esi,Card
+2025-05-26,Haircut,40.84,Esi,Card
+2025-05-26,Haircut,37.13,Esi,Card
+2025-05-26,Haircut,40.33,Esi,Card
+2025-05-26,Haircut,43.3,Carlos,Mobile
+2025-05-27,Product - shampoo,21.39,Diana,Card
+2025-05-27,Color,121.89,Bianca,Card
+2025-05-27,Highlights,168.16,Bianca,Card
+2025-05-27,Haircut,38.21,Aisha,Card
+2025-05-27,Haircut,36.9,Diana,Card
+2025-05-27,Beard trim,22.78,Esi,Card
+2025-05-27,Haircut,41.77,Esi,Card
+2025-05-27,Haircut,41.23,Esi,Card
+2025-05-27,Haircut,44.98,Diana,Mobile
+2025-05-27,Treatment,57.84,Carlos,Card
+2025-05-27,Color,111.84,Carlos,Card
+2025-05-28,Color,106.83,Bianca,Card
+2025-05-28,Beard trim,22.7,Carlos,Card
+2025-05-28,Product - shampoo,24.1,Diana,Card
+2025-05-28,Product - styling,17.0,Aisha,Card
+2025-05-28,Treatment,64.33,Carlos,Cash
+2025-05-28,Haircut,44.61,Aisha,Cash
+2025-05-28,Haircut,37.1,Bianca,Cash
+2025-05-28,Blow dry,34.72,Carlos,Card
+2025-05-28,Beard trim,20.16,Bianca,Cash
+2025-05-28,Haircut,36.82,Aisha,Card
+2025-05-28,Haircut,41.53,Aisha,Mobile
+2025-05-28,Color,124.39,Carlos,Card
+2025-05-28,Blow dry,32.89,Diana,Cash
+2025-05-28,Beard trim,19.51,Bianca,Card
+2025-05-28,Haircut,45.85,Diana,Cash
+2025-05-28,Haircut,45.05,Esi,Card
+2025-05-29,Beard trim,22.81,Bianca,Card
+2025-05-29,Product - shampoo,21.34,Aisha,Card
+2025-05-29,Blow dry,36.54,Carlos,Card
+2025-05-29,Beard trim,22.61,Esi,Cash
+2025-05-29,Blow dry,36.72,Carlos,Mobile
+2025-05-29,Highlights,163.82,Carlos,Mobile
+2025-05-29,Product - styling,16.82,Esi,Card
+2025-05-29,Beard trim,22.24,Bianca,Cash
+2025-05-29,Beard trim,21.28,Aisha,Mobile
+2025-05-29,Haircut,43.62,Esi,Card
+2025-05-29,Color,109.74,Carlos,Mobile
+2025-05-29,Product - styling,17.87,Esi,Card
+2025-05-29,Color,117.91,Carlos,Card
+2025-05-29,Haircut,38.09,Aisha,Cash
+2025-05-30,Product - styling,19.22,Bianca,Card
+2025-05-30,Haircut,39.89,Esi,Cash
+2025-05-30,Blow dry,33.77,Aisha,Cash
+2025-05-30,Beard trim,19.67,Bianca,Card
+2025-05-30,Haircut,42.66,Esi,Cash
+2025-05-30,Blow dry,35.08,Aisha,Card
+2025-05-30,Highlights,139.19,Carlos,Mobile
+2025-05-30,Blow dry,32.04,Esi,Cash
+2025-05-30,Product - styling,16.89,Diana,Mobile
+2025-05-30,Haircut,43.6,Carlos,Mobile
+2025-05-30,Beard trim,22.65,Carlos,Card
+2025-05-30,Product - shampoo,21.02,Diana,Mobile
+2025-05-30,Highlights,152.05,Diana,Card
+2025-05-30,Color,108.75,Diana,Card
+2025-05-30,Blow dry,32.85,Bianca,Mobile
+2025-05-30,Blow dry,36.52,Diana,Mobile
+2025-05-30,Beard trim,20.93,Diana,Card
+2025-05-30,Haircut,40.83,Esi,Cash
+2025-05-30,Color,110.64,Aisha,Card
+2025-05-30,Haircut,45.43,Carlos,Mobile
+2025-05-30,Haircut,39.22,Bianca,Card
+2025-05-30,Treatment,65.79,Carlos,Card
+2025-05-31,Haircut,43.23,Carlos,Mobile
+2025-05-31,Haircut,42.3,Diana,Cash
+2025-05-31,Product - shampoo,22.68,Carlos,Mobile
+2025-05-31,Highlights,139.84,Diana,Card
+2025-05-31,Treatment,56.24,Carlos,Mobile
+2025-05-31,Haircut,45.74,Bianca,Cash
+2025-05-31,Haircut,42.62,Diana,Cash
+2025-05-31,Color,105.72,Diana,Cash
+2025-05-31,Blow dry,35.44,Diana,Card
+2025-05-31,Beard trim,19.78,Diana,Card
+2025-05-31,Color,118.97,Esi,Cash
+2025-05-31,Color,99.54,Aisha,Card
+2025-05-31,Beard trim,21.46,Aisha,Mobile
+2025-05-31,Highlights,140.73,Esi,Card
+2025-05-31,Haircut,36.02,Diana,Cash
+2025-05-31,Blow dry,32.49,Esi,Cash
+2025-05-31,Color,115.89,Carlos,Cash
+2025-05-31,Beard trim,21.76,Diana,Card
+2025-05-31,Haircut,45.68,Esi,Mobile
+2025-05-31,Haircut,45.82,Aisha,Mobile

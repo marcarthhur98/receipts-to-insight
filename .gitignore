@@ -1,0 +1,32 @@
+# Secrets — never commit your real API key
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environment
+venv/
+.venv/
+
+# Generated output (optional: remove if you want to commit reports)
+outputs/*.md
+
+# Local monthly history store (the owner's data — keep it private)
+*.db
+outputs/*.db
+
+# Archived copies of uploaded receipts (the owner's source data — keep private)
+data/archive/
+
+# OS / editor noise
+.DS_Store
+.vscode/
+.idea/
+
+# Stray local test artifact
+.__deltest
+
+# Generated charts (may render the owner's real figures)
+outputs/charts/
