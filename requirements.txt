@@ -1,6 +1,11 @@
-pandas
-matplotlib
-altair
-anthropic
-python-dotenv
-streamlit
+# Pinned to the versions this app was built and tested against (Python 3.12).
+# Streamlit Community Cloud rebuilds on every push to main, so unpinned
+# dependencies mean a new release upstream can break the live demo with no
+# change on our side. Bump these deliberately, then re-test before pushing.
+
+pandas==3.0.3
+matplotlib==3.11.0
+altair==6.2.1
+anthropic==0.109.1
+python-dotenv==1.2.2
+streamlit==1.58.0
