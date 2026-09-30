@@ -1,5 +1,11 @@
 # Revenue & Growth
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://receipts-to-insight.streamlit.app)
+
+**[Try the live app →](https://receipts-to-insight.streamlit.app)** — no setup, no
+sign-in. Upload a CSV of receipts (or grab the sample at
+[`data/sales_receipts.csv`](data/sales_receipts.csv)) and the insight appears.
+
 A simple revenue tracker for small and mid-sized businesses. Upload your
 receipts (a sales/transactions export) and the tool tells you **how much you
 make**, **where the money comes from**, and **how you're growing** — month by
